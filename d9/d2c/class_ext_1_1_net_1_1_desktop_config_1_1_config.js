@@ -1,0 +1,28 @@
+var class_ext_1_1_net_1_1_desktop_config_1_1_config =
+[
+    [ "ActiveWindowCls", "d9/d2c/class_ext_1_1_net_1_1_desktop_config_1_1_config.html#a0d3ba46a98294000f0112587608b56ec", null ],
+    [ "AlignToGrid", "d9/d2c/class_ext_1_1_net_1_1_desktop_config_1_1_config.html#ae95f8dd772df80957d083e7a4e5900a8", null ],
+    [ "CloseText", "d9/d2c/class_ext_1_1_net_1_1_desktop_config_1_1_config.html#a0a743a9e74c8305abc4e5e0c49c83687", null ],
+    [ "ContextMenu", "d9/d2c/class_ext_1_1_net_1_1_desktop_config_1_1_config.html#a60814243ce6b09f1e581f7ba9bf0d38b", null ],
+    [ "DDShortcut", "d9/d2c/class_ext_1_1_net_1_1_desktop_config_1_1_config.html#ae3982749949f73a35931110200f202be", null ],
+    [ "DefaultWindowMenu", "d9/d2c/class_ext_1_1_net_1_1_desktop_config_1_1_config.html#a4fb8e28be6a381dc7f987d3b3c514e69", null ],
+    [ "DefaultWindowMenuItemsFirst", "d9/d2c/class_ext_1_1_net_1_1_desktop_config_1_1_config.html#a809a90e0d7da2a774da8bf0a2df8f55b", null ],
+    [ "InactiveWindowCls", "d9/d2c/class_ext_1_1_net_1_1_desktop_config_1_1_config.html#a69395e1a28a6ef750d1da1d7eab9714a", null ],
+    [ "MaximizeText", "d9/d2c/class_ext_1_1_net_1_1_desktop_config_1_1_config.html#a7e91c5d753f12b3332c52b97bd4fbf35", null ],
+    [ "MinimizeText", "d9/d2c/class_ext_1_1_net_1_1_desktop_config_1_1_config.html#ae07c5a9f0a4f75b4b3dfb03b8453d42f", null ],
+    [ "MultiSelect", "d9/d2c/class_ext_1_1_net_1_1_desktop_config_1_1_config.html#ad7bc22e177d0cacbaf6b7d81ac536d3e", null ],
+    [ "RestoreText", "d9/d2c/class_ext_1_1_net_1_1_desktop_config_1_1_config.html#afda16edb35b1a74a43aa03bb03e96c4e", null ],
+    [ "ShortcutContextMenu", "d9/d2c/class_ext_1_1_net_1_1_desktop_config_1_1_config.html#a66a184254f86de6b0f6c340de0045cf2", null ],
+    [ "ShortcutDefaults", "d9/d2c/class_ext_1_1_net_1_1_desktop_config_1_1_config.html#a4464cdf9b3a11a19ada9cbb7fd5d5fcd", null ],
+    [ "ShortcutDragSelector", "d9/d2c/class_ext_1_1_net_1_1_desktop_config_1_1_config.html#aae821e662ccd0afd6b046bd6adbf5575", null ],
+    [ "ShortcutEvent", "d9/d2c/class_ext_1_1_net_1_1_desktop_config_1_1_config.html#aebf0478f1a2be952daadb0afa66397ed", null ],
+    [ "ShortcutItemSelector", "d9/d2c/class_ext_1_1_net_1_1_desktop_config_1_1_config.html#a868a7a72a472e8c23cc94f81f67acebd", null ],
+    [ "ShortcutNameEditing", "d9/d2c/class_ext_1_1_net_1_1_desktop_config_1_1_config.html#ab635dc502c3dcffc7cf6cd6ce954fa0a", null ],
+    [ "ShortcutTpl", "d9/d2c/class_ext_1_1_net_1_1_desktop_config_1_1_config.html#a6b50e8a9af14eb56099c005924057d7b", null ],
+    [ "SortShortcuts", "d9/d2c/class_ext_1_1_net_1_1_desktop_config_1_1_config.html#a572051481eb758e09dc353ad1c53928b", null ],
+    [ "Wallpaper", "d9/d2c/class_ext_1_1_net_1_1_desktop_config_1_1_config.html#a52aa545c499b7c5912ef16856d30dd9c", null ],
+    [ "WallpaperStretch", "d9/d2c/class_ext_1_1_net_1_1_desktop_config_1_1_config.html#a31c181328b1fa855741fa9d77b11d66c", null ],
+    [ "WindowMenu", "d9/d2c/class_ext_1_1_net_1_1_desktop_config_1_1_config.html#ac64a4876bf19f1dc74340123bbdf3656", null ],
+    [ "XTickSize", "d9/d2c/class_ext_1_1_net_1_1_desktop_config_1_1_config.html#a1ac470b3efe145f79352e4fa57abcc32", null ],
+    [ "YTickSize", "d9/d2c/class_ext_1_1_net_1_1_desktop_config_1_1_config.html#aeb29582563d5eae03ae11d783b821cfe", null ]
+];
