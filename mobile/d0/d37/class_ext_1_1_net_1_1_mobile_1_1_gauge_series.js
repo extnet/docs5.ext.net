@@ -1,0 +1,28 @@
+var class_ext_1_1_net_1_1_mobile_1_1_gauge_series =
+[
+    [ "Builder", "dc/dd6/class_ext_1_1_net_1_1_mobile_1_1_gauge_series_1_1_builder.html", "dc/dd6/class_ext_1_1_net_1_1_mobile_1_1_gauge_series_1_1_builder" ],
+    [ "Config", "d6/d05/class_ext_1_1_net_1_1_mobile_1_1_gauge_series_1_1_config.html", "d6/d05/class_ext_1_1_net_1_1_mobile_1_1_gauge_series_1_1_config" ],
+    [ "GaugeSeries", "d0/d37/class_ext_1_1_net_1_1_mobile_1_1_gauge_series.html#a56acaec03d102ebdec0b87f8b298d3f7", null ],
+    [ "GaugeSeries", "d0/d37/class_ext_1_1_net_1_1_mobile_1_1_gauge_series.html#a5d580eb00999e676a019e39dcb09f625", null ],
+    [ "SetValue", "d0/d37/class_ext_1_1_net_1_1_mobile_1_1_gauge_series.html#a00a46f4d5f5fde0bd2b3ab9e918e3159", null ],
+    [ "ToBuilder", "d0/d37/class_ext_1_1_net_1_1_mobile_1_1_gauge_series.html#a263d3ff9e9b11f0b1ab76f5beaef17ec", null ],
+    [ "ToNativeBuilder", "d0/d37/class_ext_1_1_net_1_1_mobile_1_1_gauge_series.html#ab32c3cddf241cd155c4fa6bbbec060cd", null ],
+    [ "AngleField", "d0/d37/class_ext_1_1_net_1_1_mobile_1_1_gauge_series.html#aad4c8116a0b0227b4c75b91d9dfb389d", null ],
+    [ "ConfigOptions", "d0/d37/class_ext_1_1_net_1_1_mobile_1_1_gauge_series.html#a33272f70522894ea04b2c0e313932d70", null ],
+    [ "Donut", "d0/d37/class_ext_1_1_net_1_1_mobile_1_1_gauge_series.html#a44aa708702fa76b998564759e3577aeb", null ],
+    [ "InstanceOf", "d0/d37/class_ext_1_1_net_1_1_mobile_1_1_gauge_series.html#a8da77b16d31ad73f37da39e082dc7fb7", null ],
+    [ "Maximum", "d0/d37/class_ext_1_1_net_1_1_mobile_1_1_gauge_series.html#ab1e1160c4590ea0958bc1e83baca4cb1", null ],
+    [ "Minimum", "d0/d37/class_ext_1_1_net_1_1_mobile_1_1_gauge_series.html#a2b53cf71c5c12baca398b7896bb5db1e", null ],
+    [ "Needle", "d0/d37/class_ext_1_1_net_1_1_mobile_1_1_gauge_series.html#a4da14158b9100e14ca86e61b48a353b6", null ],
+    [ "NeedleLength", "d0/d37/class_ext_1_1_net_1_1_mobile_1_1_gauge_series.html#a6c8de8a88ed85f25fc4a7e4c8948d34c", null ],
+    [ "NeedleWidth", "d0/d37/class_ext_1_1_net_1_1_mobile_1_1_gauge_series.html#adc8e387b48b9f191769fe0fcb19eeb71", null ],
+    [ "Sectors", "d0/d37/class_ext_1_1_net_1_1_mobile_1_1_gauge_series.html#af053e5f948b29b76e0a1f58ddf6e8760", null ],
+    [ "SectorsConfig", "d0/d37/class_ext_1_1_net_1_1_mobile_1_1_gauge_series.html#aed071687607988b244a61869d903e33a", null ],
+    [ "ShowInLegend", "d0/d37/class_ext_1_1_net_1_1_mobile_1_1_gauge_series.html#abb3d7d2416c0cf4ea316e8274ccf7697", null ],
+    [ "TotalAngle", "d0/d37/class_ext_1_1_net_1_1_mobile_1_1_gauge_series.html#a9f139544b4352492999ddf064e429a44", null ],
+    [ "TotalAngleDegrees", "d0/d37/class_ext_1_1_net_1_1_mobile_1_1_gauge_series.html#abf5616b44d600eb86b36a49466ff9dfe", null ],
+    [ "TotalAngleDegreessProxy", "d0/d37/class_ext_1_1_net_1_1_mobile_1_1_gauge_series.html#afc161d5b5be8780fbb0969f6dc8a4be4", null ],
+    [ "Type", "d0/d37/class_ext_1_1_net_1_1_mobile_1_1_gauge_series.html#aae5caaa10b9e3161427ca5d9c3377a8c", null ],
+    [ "Value", "d0/d37/class_ext_1_1_net_1_1_mobile_1_1_gauge_series.html#a6e7b022bdce078dc7a829acee9768b65", null ],
+    [ "WholeDisk", "d0/d37/class_ext_1_1_net_1_1_mobile_1_1_gauge_series.html#acd4f4cd65ce37cdda32c857599e7f5a7", null ]
+];

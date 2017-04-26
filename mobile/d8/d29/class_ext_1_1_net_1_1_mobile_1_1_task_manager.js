@@ -1,0 +1,27 @@
+var class_ext_1_1_net_1_1_mobile_1_1_task_manager =
+[
+    [ "Builder", "df/d81/class_ext_1_1_net_1_1_mobile_1_1_task_manager_1_1_builder.html", "df/d81/class_ext_1_1_net_1_1_mobile_1_1_task_manager_1_1_builder" ],
+    [ "Builder", "df/d81/class_ext_1_1_net_1_1_mobile_1_1_task_manager_1_1_builder.html", null ],
+    [ "Config", "d7/d2f/class_ext_1_1_net_1_1_mobile_1_1_task_manager_1_1_config.html", "d7/d2f/class_ext_1_1_net_1_1_mobile_1_1_task_manager_1_1_config" ],
+    [ "TaskManager", "d8/d29/class_ext_1_1_net_1_1_mobile_1_1_task_manager.html#af41f3ccf8bead82a552d1492009ab714", null ],
+    [ "TaskManager", "d8/d29/class_ext_1_1_net_1_1_mobile_1_1_task_manager.html#a6d6c782dd376c23553c0818fdf8e6e60", null ],
+    [ "AddTask", "d8/d29/class_ext_1_1_net_1_1_mobile_1_1_task_manager.html#ae0776fc4c79a7665fec60871018a9ce6", null ],
+    [ "AfterTaskAdd", "d8/d29/class_ext_1_1_net_1_1_mobile_1_1_task_manager.html#a484c327f46ee5c0a8b99acb288f89713", null ],
+    [ "RemoveTask", "d8/d29/class_ext_1_1_net_1_1_mobile_1_1_task_manager.html#a18fd6d3b9f82021e5a1ff5f148f9a1ca", null ],
+    [ "RemoveTask", "d8/d29/class_ext_1_1_net_1_1_mobile_1_1_task_manager.html#a97bf6c414989c33a9c7206bd395b6164", null ],
+    [ "SetTaskInterval", "d8/d29/class_ext_1_1_net_1_1_mobile_1_1_task_manager.html#a8f3bbeae98a438128dd7c0295e54e577", null ],
+    [ "StartAll", "d8/d29/class_ext_1_1_net_1_1_mobile_1_1_task_manager.html#a250a9dcdbd748d438c2f0a50f191ccc4", null ],
+    [ "StartTask", "d8/d29/class_ext_1_1_net_1_1_mobile_1_1_task_manager.html#a30fb13a9c6ce316791b62b69b05a6b42", null ],
+    [ "StartTask", "d8/d29/class_ext_1_1_net_1_1_mobile_1_1_task_manager.html#a51634113030b2043bfbb4acc635532aa", null ],
+    [ "StopAll", "d8/d29/class_ext_1_1_net_1_1_mobile_1_1_task_manager.html#a0116da28758396850eda7005afc30c57", null ],
+    [ "StopTask", "d8/d29/class_ext_1_1_net_1_1_mobile_1_1_task_manager.html#aa0731fdca0306bfd37be059730f3fe2f", null ],
+    [ "StopTask", "d8/d29/class_ext_1_1_net_1_1_mobile_1_1_task_manager.html#aac6ae0c13b3d6dec41da6542d3726b0d", null ],
+    [ "ToBuilder", "d8/d29/class_ext_1_1_net_1_1_mobile_1_1_task_manager.html#a5bfdd71b767d0746eba3707aa6462778", null ],
+    [ "ToNativeBuilder", "d8/d29/class_ext_1_1_net_1_1_mobile_1_1_task_manager.html#aba75c6548cbfc7857a4a99df7c568361", null ],
+    [ "AutoRunDelay", "d8/d29/class_ext_1_1_net_1_1_mobile_1_1_task_manager.html#a40d36235018e2120a63cff80fdf3ec54", null ],
+    [ "ConfigOptions", "d8/d29/class_ext_1_1_net_1_1_mobile_1_1_task_manager.html#a509552327fa6c92ad001c0a336f9c38d", null ],
+    [ "InstanceOf", "d8/d29/class_ext_1_1_net_1_1_mobile_1_1_task_manager.html#a1ad3c3d8abf8f5742d4163a13426dcd8", null ],
+    [ "Interval", "d8/d29/class_ext_1_1_net_1_1_mobile_1_1_task_manager.html#aa6e186ee1013ce958448832ef914d364", null ],
+    [ "IsIdRequired", "d8/d29/class_ext_1_1_net_1_1_mobile_1_1_task_manager.html#a6ae1061c5856529add06871329dcd098", null ],
+    [ "Tasks", "d8/d29/class_ext_1_1_net_1_1_mobile_1_1_task_manager.html#a5e48fabe0a515aefa5dd9e1be9e1d405", null ]
+];
