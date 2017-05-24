@@ -1,6 +1,5 @@
 var NAVTREEINDEX99 =
 {
-"df/d2b/class_ext_1_1_net_1_1_gauge_series_1_1_config.html#a8af309ce61ea9a8b102c588c4529034c":[1,0,0,0,462,1,8],
 "df/d2b/class_ext_1_1_net_1_1_gauge_series_1_1_config.html#aa7a1313121dcc3dd566344292ea49f02":[1,0,0,0,462,1,2],
 "df/d2b/class_ext_1_1_net_1_1_gauge_series_1_1_config.html#aab3203f528b84cc4e0be710ced58c4e7":[1,0,0,0,462,1,3],
 "df/d2b/class_ext_1_1_net_1_1_gauge_series_1_1_config.html#ab202c7463a6d235e86ca5ef8c671418a":[1,0,0,0,462,1,12],
@@ -249,5 +248,6 @@ var NAVTREEINDEX99 =
 "df/d54/class_ext_1_1_net_1_1_checkbox_base.html#a5a7d054993359bee8eca3a321f5bf723":[1,0,0,0,164,21],
 "df/d54/class_ext_1_1_net_1_1_checkbox_base.html#a5a828c06367a5966ede6ae6b61e2c869":[1,0,0,0,164,18],
 "df/d54/class_ext_1_1_net_1_1_checkbox_base.html#a84de3737dcc5b951e0d476333ecfb591":[1,0,0,0,164,5],
-"df/d54/class_ext_1_1_net_1_1_checkbox_base.html#a90ffd162dfd02e67c6d333b3102add23":[1,0,0,0,164,14]
+"df/d54/class_ext_1_1_net_1_1_checkbox_base.html#a90ffd162dfd02e67c6d333b3102add23":[1,0,0,0,164,14],
+"df/d54/class_ext_1_1_net_1_1_checkbox_base.html#a9108d6556e6b5683ea98e290b685e60a":[1,0,0,0,164,4]
 };

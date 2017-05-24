@@ -29,7 +29,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Ext.NET
-   &#160;<span id="projectnumber">4.2.0</span>
+   &#160;<span id="projectnumber">4.2.1</span>
    </div>
    <div id="projectbrief">.NET Component Framework for Enterprise Level Apps</div>
   </td>
@@ -90,7 +90,7 @@ $(document).ready(function(){initNavTree('db/def/class_ext_1_1_net_1_1_token_uti
 </div><!--header-->
 <div class="contents">
 
-<p> 
+<p>Utility methods for parsing page tokens that are resolved at page render time.  
  <a href="../../db/def/class_ext_1_1_net_1_1_token_utils.html#details">More...</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
@@ -102,8 +102,10 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memitem:a8a77f11a18e66c14bb25bb1a24f89914"><td class="memItemLeft" align="right" valign="top">static string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/def/class_ext_1_1_net_1_1_token_utils.html#a8a77f11a18e66c14bb25bb1a24f89914">SelectWrap</a> (string id)</td></tr>
 <tr class="separator:a8a77f11a18e66c14bb25bb1a24f89914"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a82337fbe5521031cc247bb52c4ec6f05"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/def/class_ext_1_1_net_1_1_token_utils.html#a82337fbe5521031cc247bb52c4ec6f05">IsDirectMethodsToken</a> (string script)</td></tr>
+<tr class="memdesc:a82337fbe5521031cc247bb52c4ec6f05"><td class="mdescLeft">&#160;</td><td class="mdescRight">Checks whether the provided script contains one or more occurrences of the '#{DirectMethods}' token.  <a href="#a82337fbe5521031cc247bb52c4ec6f05">More...</a><br /></td></tr>
 <tr class="separator:a82337fbe5521031cc247bb52c4ec6f05"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a83d765814f8f56825ef2b57c3e59a036"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/def/class_ext_1_1_net_1_1_token_utils.html#a83d765814f8f56825ef2b57c3e59a036">IsAlertToken</a> (string script)</td></tr>
+<tr class="memdesc:a83d765814f8f56825ef2b57c3e59a036"><td class="mdescLeft">&#160;</td><td class="mdescRight">Checks if the script is an alert-token script. The whole script block must begin with !{ and end with } in order for this to be considered.  <a href="#a83d765814f8f56825ef2b57c3e59a036">More...</a><br /></td></tr>
 <tr class="separator:a83d765814f8f56825ef2b57c3e59a036"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a25b77fd9541ce5cadda11fa8dacee244"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/def/class_ext_1_1_net_1_1_token_utils.html#a25b77fd9541ce5cadda11fa8dacee244">IsRawToken</a> (string script)</td></tr>
 <tr class="separator:a25b77fd9541ce5cadda11fa8dacee244"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -122,10 +124,13 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memitem:a9cac6f73b512f03825d2bb44c2aa9a73"><td class="memItemLeft" align="right" valign="top">static string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/def/class_ext_1_1_net_1_1_token_utils.html#a9cac6f73b512f03825d2bb44c2aa9a73">ParseTokens</a> (string script, bool addRawMarker, Control seed)</td></tr>
 <tr class="separator:a9cac6f73b512f03825d2bb44c2aa9a73"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afd7e0023d050b96081fbbec28587ebc9"><td class="memItemLeft" align="right" valign="top">static string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/def/class_ext_1_1_net_1_1_token_utils.html#afd7e0023d050b96081fbbec28587ebc9">ReplaceDirectMethods</a> (string script, Control seed)</td></tr>
+<tr class="memdesc:afd7e0023d050b96081fbbec28587ebc9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Replaces any occurrence of the ${DirectMethods} token by its resolved namespace and path names. Usually App.direct. Also matches '${ DirectMethods }' (any amount of spaces stripped).  <a href="#afd7e0023d050b96081fbbec28587ebc9">More...</a><br /></td></tr>
 <tr class="separator:afd7e0023d050b96081fbbec28587ebc9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abe3d3da2492d321468627532f7394f0d"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../dc/d3f/namespace_ext_1_1_net.html#aa7b17729ad56a6cecd843a3ff5853c7ca4ee29ca12c7d126654bd0e5275de6135">List</a>&lt; string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/def/class_ext_1_1_net_1_1_token_utils.html#abe3d3da2492d321468627532f7394f0d">ExtractIDs</a> (string script)</td></tr>
+<tr class="memdesc:abe3d3da2492d321468627532f7394f0d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Extracts IDs referenced in script blocks.  <a href="#abe3d3da2492d321468627532f7394f0d">More...</a><br /></td></tr>
 <tr class="separator:abe3d3da2492d321468627532f7394f0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a11a17cd5c78f09061f65acbd7b06f277"><td class="memItemLeft" align="right" valign="top">static string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/def/class_ext_1_1_net_1_1_token_utils.html#a11a17cd5c78f09061f65acbd7b06f277">ReplaceIDTokens</a> (string script, Control seed)</td></tr>
+<tr class="memdesc:a11a17cd5c78f09061f65acbd7b06f277"><td class="mdescLeft">&#160;</td><td class="mdescRight">Parses the script block looking for ID tags (#{ID}/#{ ID }) and translate them to either <a class="el" href="../../dc/d3f/namespace_ext_1_1_net.html#a0cd73e7e0727cce7df72eb9979d6ad7cab718adec73e04ce3ec720dd11a06a308">ns.ID</a> (<a class="el" href="../../d2/d82/class_ext_1_1_net_1_1_base_control.html#a04829ee066138391ac28d2b4cb02ca05" title="The unique id of this component instance (defaults to an auto-assigned id). Components created with a...">App.ID</a>) or Ext.get('ID') if ID not a statically defined control ID on page.  <a href="#a11a17cd5c78f09061f65acbd7b06f277">More...</a><br /></td></tr>
 <tr class="separator:a11a17cd5c78f09061f65acbd7b06f277"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a789c8f8bf139ed017bc286e37b901b69"><td class="memItemLeft" align="right" valign="top">static string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/def/class_ext_1_1_net_1_1_token_utils.html#a789c8f8bf139ed017bc286e37b901b69">ReplaceAlertToken</a> (string script)</td></tr>
 <tr class="separator:a789c8f8bf139ed017bc286e37b901b69"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -153,7 +158,8 @@ Properties</h2></td></tr>
 <tr class="separator:a37a9da58f0f51450c75553d6a7e324fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<div class="textblock"><p>Utility methods for parsing page tokens that are resolved at page render time. </p>
+</div><h2 class="groupheader">Member Function Documentation</h2>
 <a id="abe3d3da2492d321468627532f7394f0d"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#abe3d3da2492d321468627532f7394f0d">&#9670;&nbsp;</a></span>ExtractIDs()</h2>
 
@@ -178,14 +184,14 @@ Properties</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p></p>
+<p>Extracts IDs referenced in script blocks. </p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">script</td><td></td></tr>
+    <tr><td class="paramname">script</td><td>The script block to extract IDs from.</td></tr>
   </table>
   </dd>
 </dl>
-<dl class="section return"><dt>Returns</dt><dd></dd></dl>
+<dl class="section return"><dt>Returns</dt><dd>A list of string IDs extracted from the script.</dd></dl>
 
 </div>
 </div>
@@ -248,7 +254,7 @@ Properties</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p></p>
+<p>Checks if the script is an alert-token script. The whole script block must begin with !{ and end with } in order for this to be considered. </p>
 
 </div>
 </div>
@@ -276,14 +282,14 @@ Properties</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p></p>
+<p>Checks whether the provided script contains one or more occurrences of the '#{DirectMethods}' token. </p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">script</td><td></td></tr>
+    <tr><td class="paramname">script</td><td>The script block to check against.</td></tr>
   </table>
   </dd>
 </dl>
-<dl class="section return"><dt>Returns</dt><dd></dd></dl>
+<dl class="section return"><dt>Returns</dt><dd>True if contains, false if no occurrence found.</dd></dl>
 
 </div>
 </div>
@@ -801,15 +807,15 @@ Properties</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p></p>
+<p>Replaces any occurrence of the ${DirectMethods} token by its resolved namespace and path names. Usually App.direct. Also matches '${ DirectMethods }' (any amount of spaces stripped). </p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">script</td><td></td></tr>
-    <tr><td class="paramname">seed</td><td></td></tr>
+    <tr><td class="paramname">script</td><td>The script block to replace the token occurrences.</td></tr>
+    <tr><td class="paramname">seed</td><td>The base control where the script is contextualized.</td></tr>
   </table>
   </dd>
 </dl>
-<dl class="section return"><dt>Returns</dt><dd></dd></dl>
+<dl class="section return"><dt>Returns</dt><dd>The full replaced script if one or more occurrences found. The same script if no matching token is found.</dd></dl>
 
 </div>
 </div>
@@ -882,11 +888,11 @@ Properties</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p></p>
+<p>Parses the script block looking for ID tags (#{ID}/#{ ID }) and translate them to either <a class="el" href="../../dc/d3f/namespace_ext_1_1_net.html#a0cd73e7e0727cce7df72eb9979d6ad7cab718adec73e04ce3ec720dd11a06a308">ns.ID</a> (<a class="el" href="../../d2/d82/class_ext_1_1_net_1_1_base_control.html#a04829ee066138391ac28d2b4cb02ca05" title="The unique id of this component instance (defaults to an auto-assigned id). Components created with a...">App.ID</a>) or Ext.get('ID') if ID not a statically defined control ID on page. </p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">script</td><td></td></tr>
-    <tr><td class="paramname">seed</td><td></td></tr>
+    <tr><td class="paramname">script</td><td>The script block.</td></tr>
+    <tr><td class="paramname">seed</td><td>The base control where the script comes from.</td></tr>
   </table>
   </dd>
 </dl>
@@ -1042,7 +1048,7 @@ Properties</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>Utility/TokenUtils.cs</li>
+<li>TokenUtils.cs</li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

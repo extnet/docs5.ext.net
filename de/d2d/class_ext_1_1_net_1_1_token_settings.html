@@ -29,7 +29,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Ext.NET
-   &#160;<span id="projectnumber">4.2.0</span>
+   &#160;<span id="projectnumber">4.2.1</span>
    </div>
    <div id="projectbrief">.NET Component Framework for Enterprise Level Apps</div>
   </td>
@@ -95,9 +95,11 @@ $(document).ready(function(){initNavTree('de/d2d/class_ext_1_1_net_1_1_token_set
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:abdbacaed43ce3a146232a1b5582d6b21"><td class="memItemLeft" align="right" valign="top">const string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d2d/class_ext_1_1_net_1_1_token_settings.html#abdbacaed43ce3a146232a1b5582d6b21">ID_PATTERN</a> = @&quot;#\{[\w\.]+?\}&quot;</td></tr>
+<tr class="memitem:abdbacaed43ce3a146232a1b5582d6b21"><td class="memItemLeft" align="right" valign="top">const string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d2d/class_ext_1_1_net_1_1_token_settings.html#abdbacaed43ce3a146232a1b5582d6b21">ID_PATTERN</a> = @&quot;#\{ *([\w\.]+?) *\}&quot;</td></tr>
+<tr class="memdesc:abdbacaed43ce3a146232a1b5582d6b21"><td class="mdescLeft">&#160;</td><td class="mdescRight">ID token pattern, allowing whitespaces between the brackets and IDs (spaces ignored/stripped from match).  <a href="#abdbacaed43ce3a146232a1b5582d6b21">More...</a><br /></td></tr>
 <tr class="separator:abdbacaed43ce3a146232a1b5582d6b21"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8c1971f26708c29a3e8c6f6e22458c7f"><td class="memItemLeft" align="right" valign="top">const string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d2d/class_ext_1_1_net_1_1_token_settings.html#a8c1971f26708c29a3e8c6f6e22458c7f">SELECT_PATTERN</a> = @&quot;\${[^{}]+}&quot;</td></tr>
+<tr class="memitem:a8c1971f26708c29a3e8c6f6e22458c7f"><td class="memItemLeft" align="right" valign="top">const string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d2d/class_ext_1_1_net_1_1_token_settings.html#a8c1971f26708c29a3e8c6f6e22458c7f">SELECT_PATTERN</a> = @&quot;\${ *([^{}]+) *}&quot;</td></tr>
+<tr class="memdesc:a8c1971f26708c29a3e8c6f6e22458c7f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Select token pattern, accepting any number of leading or trailing spaces (trimmed out).  <a href="#a8c1971f26708c29a3e8c6f6e22458c7f">More...</a><br /></td></tr>
 <tr class="separator:a8c1971f26708c29a3e8c6f6e22458c7f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0c9cf150a6e1f6d61da2b8035fb5a6a5"><td class="memItemLeft" align="right" valign="top"><a id="a0c9cf150a6e1f6d61da2b8035fb5a6a5"></a>
 const string&#160;</td><td class="memItemRight" valign="bottom"><b>MARKERS_PATTERN</b> = @&quot;^&lt;.+?&gt;&quot;</td></tr>
@@ -127,7 +129,7 @@ Properties</h2></td></tr>
 <tr class="memdesc:a116aa737cb0dce22b6a706f19944f0ba"><td class="mdescLeft">&#160;</td><td class="mdescRight">True to disable function parsing Function parsing transforms #(js_code) to function(){js_code}  <a href="#a116aa737cb0dce22b6a706f19944f0ba">More...</a><br /></td></tr>
 <tr class="separator:a116aa737cb0dce22b6a706f19944f0ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3923eb7e864a7f6efee889c63bc2073e"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d2d/class_ext_1_1_net_1_1_token_settings.html#a3923eb7e864a7f6efee889c63bc2073e">IDPatternPrefix</a><code> [get, set]</code></td></tr>
-<tr class="memdesc:a3923eb7e864a7f6efee889c63bc2073e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Regex pattern to search ID tokens By default, ID token is #{ID} and default prefix is #  <a href="#a3923eb7e864a7f6efee889c63bc2073e">More...</a><br /></td></tr>
+<tr class="memdesc:a3923eb7e864a7f6efee889c63bc2073e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Regex pattern to search ID tokens By default, ID token is #{ID} and default prefix is # Allows matching #{ ID } as well (any spaces at begin ando/or end).  <a href="#a3923eb7e864a7f6efee889c63bc2073e">More...</a><br /></td></tr>
 <tr class="separator:a3923eb7e864a7f6efee889c63bc2073e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a23384d4b638ba4d46bd9640722e3f9bc"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d2d/class_ext_1_1_net_1_1_token_settings.html#a23384d4b638ba4d46bd9640722e3f9bc">SelectPatternPrefix</a><code> [get, set]</code></td></tr>
 <tr class="memdesc:a23384d4b638ba4d46bd9640722e3f9bc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Regex pattern to search select tokens By default, ID token is ${ID} and default prefix is $  <a href="#a23384d4b638ba4d46bd9640722e3f9bc">More...</a><br /></td></tr>
@@ -158,12 +160,12 @@ Properties</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">const string Ext.Net.TokenSettings.ID_PATTERN = @&quot;#\{[\w\.]+?\}&quot;</td>
+          <td class="memname">const string Ext.Net.TokenSettings.ID_PATTERN = @&quot;#\{ *([\w\.]+?) *\}&quot;</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p></p>
+<p>ID token pattern, allowing whitespaces between the brackets and IDs (spaces ignored/stripped from match). </p>
 
 </div>
 </div>
@@ -174,12 +176,12 @@ Properties</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">const string Ext.Net.TokenSettings.SELECT_PATTERN = @&quot;\${[^{}]+}&quot;</td>
+          <td class="memname">const string Ext.Net.TokenSettings.SELECT_PATTERN = @&quot;\${ *([^{}]+) *}&quot;</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p></p>
+<p>Select token pattern, accepting any number of leading or trailing spaces (trimmed out). </p>
 
 </div>
 </div>
@@ -421,7 +423,7 @@ Properties</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Regex pattern to search ID tokens By default, ID token is #{ID} and default prefix is # </p>
+<p>Regex pattern to search ID tokens By default, ID token is #{ID} and default prefix is # Allows matching #{ ID } as well (any spaces at begin ando/or end). </p>
 
 </div>
 </div>
@@ -522,7 +524,7 @@ Properties</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>Utility/TokenUtils.cs</li>
+<li>TokenUtils.cs</li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

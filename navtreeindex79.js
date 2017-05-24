@@ -1,6 +1,5 @@
 var NAVTREEINDEX79 =
 {
-"dc/d53/class_ext_1_1_net_1_1_message_box_config.html#ae60f7b3a9048b52997291de81fc34e70":[1,0,0,0,682,30],
 "dc/d53/class_ext_1_1_net_1_1_message_box_config.html#ae950c6767df4d974411fcee95a1aa78c":[1,0,0,0,682,9],
 "dc/d56/class_ext_1_1_net_1_1_x_controller.html":[1,0,0,0,1096],
 "dc/d56/class_ext_1_1_net_1_1_x_controller.html#a06329171bd10e3c8ca4b18870c703633":[1,0,0,0,1096,5],
@@ -27,8 +26,8 @@ var NAVTREEINDEX79 =
 "dc/d5b/class_ext_1_1_net_1_1_column_listeners.html#a87673ebe40404c1664bea105945edd7f":[1,0,0,0,212,2],
 "dc/d5b/class_ext_1_1_net_1_1_column_listeners.html#aad9a4b3e1da8192e88d21663d5955b95":[1,0,0,0,212,0],
 "dc/d5b/class_ext_1_1_net_1_1_column_listeners.html#aed5281c1b627cfc07b174349ca6712a1":[1,0,0,0,212,3],
-"dc/d5f/class_ext_1_1_net_1_1_cartesian_series_1_1_builder.html":[1,0,0,0,135,0],
 "dc/d5f/class_ext_1_1_net_1_1_cartesian_series_1_1_builder.html":[1,0,0,0,135,1],
+"dc/d5f/class_ext_1_1_net_1_1_cartesian_series_1_1_builder.html":[1,0,0,0,135,0],
 "dc/d5f/class_ext_1_1_net_1_1_cartesian_series_1_1_builder.html#a125e566d555692509cd01a348423814c":[1,0,0,0,135,0,4],
 "dc/d5f/class_ext_1_1_net_1_1_cartesian_series_1_1_builder.html#a3d1dd7a229b4dd53e3d52633ef12e900":[1,0,0,0,135,0,5],
 "dc/d5f/class_ext_1_1_net_1_1_cartesian_series_1_1_builder.html#a53e2f9331729db3f6f950b5d3ac945c0":[1,0,0,0,135,0,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX79 =
 "dc/d7f/class_ext_1_1_net_1_1_axis_floating_1_1_builder.html#aa0920b344321af120b7d97202f27edc9":[1,0,0,0,56,0,4],
 "dc/d7f/class_ext_1_1_net_1_1_axis_floating_1_1_builder.html#aaefa4edf9774828ff28855bdcd6cdaf5":[1,0,0,0,56,0,6],
 "dc/d7f/class_ext_1_1_net_1_1_axis_floating_1_1_builder.html#af2e50f5b4dd41f9cb369d657cab4eab8":[1,0,0,0,56,0,2],
-"dc/d7f/class_ext_1_1_net_1_1_axis_floating_1_1_builder.html#af741ac9832c18ed2bf07403e93fe107c":[1,0,0,0,56,0,0]
+"dc/d7f/class_ext_1_1_net_1_1_axis_floating_1_1_builder.html#af741ac9832c18ed2bf07403e93fe107c":[1,0,0,0,56,0,0],
+"dc/d80/class_ext_1_1_net_1_1_duration_message_1_1_config.html":[1,0,0,0,367,1]
 };

@@ -70,7 +70,6 @@ var class_ext_1_1_net_1_1_component_base =
     [ "Resizable", "dc/d13/class_ext_1_1_net_1_1_component_base.html#a31b7baab19a2c676f71810bea0bc0f1f", null ],
     [ "ResizableConfig", "dc/d13/class_ext_1_1_net_1_1_component_base.html#a5e36c7b783e1b40c83a67be659e1140e", null ],
     [ "ResizableConfigProxy", "dc/d13/class_ext_1_1_net_1_1_component_base.html#ac87a0fd4c0a03d1c5e1faade59104d77", null ],
-    [ "ResizableProxy", "dc/d13/class_ext_1_1_net_1_1_component_base.html#a315545b67cb0af9dfae257c2314b6965", null ],
     [ "ResizeHandles", "dc/d13/class_ext_1_1_net_1_1_component_base.html#a7fff6b74b12f0cbcfaaf61eed35144b6", null ],
     [ "ResizeHandlesProxy", "dc/d13/class_ext_1_1_net_1_1_component_base.html#a64f23f1d97285394a3c1416e69eb0da2", null ],
     [ "ResizeHandlesSummary", "dc/d13/class_ext_1_1_net_1_1_component_base.html#a48f11599c8bf0651b311400e8e32c2a7", null ],
