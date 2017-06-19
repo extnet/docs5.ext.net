@@ -5,7 +5,7 @@ var class_ext_1_1_net_1_1_table_panel_1_1_builder =
     [ "AddColumn", "d9/dbc/class_ext_1_1_net_1_1_table_panel_1_1_builder.html#a7578e7b9787fbf6364b0974169d1b521", null ],
     [ "AllowDeselect", "d9/dbc/class_ext_1_1_net_1_1_table_panel_1_1_builder.html#a8c88e95e1b5e4e854f4fd50748f80626", null ],
     [ "AutoLoad", "d9/dbc/class_ext_1_1_net_1_1_table_panel_1_1_builder.html#aa32198cb366473bba3b6129b3253404f", null ],
-    [ "BufferedRenderer", "d9/dbc/class_ext_1_1_net_1_1_table_panel_1_1_builder.html#a1cdaa5292adb2019d544fbac5a13ac24", null ],
+    [ "BufferedRenderer", "d9/dbc/class_ext_1_1_net_1_1_table_panel_1_1_builder.html#a197a0963171eeb052971ab41379ee528", null ],
     [ "ColumnFor< T >", "d9/dbc/class_ext_1_1_net_1_1_table_panel_1_1_builder.html#aafb930e04057cc852fb4e812812a97ca", null ],
     [ "ColumnFor< T, TProperty >", "d9/dbc/class_ext_1_1_net_1_1_table_panel_1_1_builder.html#a169eace6a0056b2dfbed6ed1ca1d55df", null ],
     [ "ColumnFor< T, TProperty >", "d9/dbc/class_ext_1_1_net_1_1_table_panel_1_1_builder.html#a14644916807f4b8cbdde352643d288ba", null ],

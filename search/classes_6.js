@@ -42,8 +42,5 @@ var searchData=
   ['grouping',['Grouping',['../dd/d02/class_ext_1_1_net_1_1_grouping.html',1,'Ext::Net']]],
   ['groupingsummary',['GroupingSummary',['../d2/d82/class_ext_1_1_net_1_1_grouping_summary.html',1,'Ext::Net']]],
   ['grouppaging',['GroupPaging',['../de/d11/class_ext_1_1_net_1_1_group_paging.html',1,'Ext::Net']]],
-  ['grouptabpanel',['GroupTabPanel',['../df/d21/class_ext_1_1_net_1_1_group_tab_panel.html',1,'Ext::Net']]],
-  ['grouptabpaneldirectevents',['GroupTabPanelDirectEvents',['../d7/d62/class_ext_1_1_net_1_1_group_tab_panel_direct_events.html',1,'Ext::Net']]],
-  ['grouptabpanellisteners',['GroupTabPanelListeners',['../d2/d64/class_ext_1_1_net_1_1_group_tab_panel_listeners.html',1,'Ext::Net']]],
   ['guidjsonconverter',['GuidJsonConverter',['../d7/dec/class_ext_1_1_net_1_1_guid_json_converter.html',1,'Ext::Net']]]
 ];

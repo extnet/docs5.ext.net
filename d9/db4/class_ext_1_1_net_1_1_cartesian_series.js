@@ -4,6 +4,7 @@ var class_ext_1_1_net_1_1_cartesian_series =
     [ "Builder", "dc/d5f/class_ext_1_1_net_1_1_cartesian_series_1_1_builder.html", null ],
     [ "Config", "d5/d09/class_ext_1_1_net_1_1_cartesian_series_1_1_config.html", "d5/d09/class_ext_1_1_net_1_1_cartesian_series_1_1_config" ],
     [ "ConfigOptions", "d9/db4/class_ext_1_1_net_1_1_cartesian_series.html#a83601c623fa5bfc266cc2e97de92519a", null ],
+    [ "DataGapsHandling", "d9/db4/class_ext_1_1_net_1_1_cartesian_series.html#ac9cb4fd0431d7b0ccc5eb8de9c7e1bdc", null ],
     [ "InstanceOf", "d9/db4/class_ext_1_1_net_1_1_cartesian_series.html#a9bdeceb3fd32bd74e392d9ed008e7e2e", null ],
     [ "XAxisID", "d9/db4/class_ext_1_1_net_1_1_cartesian_series.html#a9108bca48b7792e2c78345adb4e32dd2", null ],
     [ "XAxisIndex", "d9/db4/class_ext_1_1_net_1_1_cartesian_series.html#aee73ee9bb40cd482aa16e76ff89d6659", null ],
