@@ -15,6 +15,8 @@ var class_ext_1_1_net_1_1_action_column =
     [ "ConfigOptions", "dd/dd8/class_ext_1_1_net_1_1_action_column.html#afd7853cfab2ad0acc5de1271da9c3f5a", null ],
     [ "Glyph", "dd/dd8/class_ext_1_1_net_1_1_action_column.html#ad0a1a9f0e80ec086657b38fcf0de01ea", null ],
     [ "Icons", "dd/dd8/class_ext_1_1_net_1_1_action_column.html#abb0ee7433c6a8e32bd18ac637f264d2a", null ],
+    [ "InstanceOf", "dd/dd8/class_ext_1_1_net_1_1_action_column.html#a0c3c3ea107291e715f2f33fc23b152b7", null ],
+    [ "IsActionDisabled", "dd/dd8/class_ext_1_1_net_1_1_action_column.html#ad6726d92f3744f5b0e4021a610a61955", null ],
     [ "ItemAriaRole", "dd/dd8/class_ext_1_1_net_1_1_action_column.html#acb83fc1432ae290a9c13e9465920bb9e", null ],
     [ "Items", "dd/dd8/class_ext_1_1_net_1_1_action_column.html#afbf073800ad581a484678b0a2da95f61", null ],
     [ "ItemTabIndex", "dd/dd8/class_ext_1_1_net_1_1_action_column.html#af0f2e98e49e16c974b93267cd85eed31", null ],

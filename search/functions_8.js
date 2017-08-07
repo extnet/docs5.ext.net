@@ -111,6 +111,7 @@ var searchData=
   ['invalidtext',['InvalidText',['../d0/d43/class_ext_1_1_net_1_1_field_1_1_builder.html#a1f9519ccb3e6f628afce5351ef358fa6',1,'Ext.Net.Field.Builder.InvalidText()'],['../d0/d89/class_ext_1_1_net_1_1_labelable_1_1_builder.html#a5d79bc112cca336e161adafb7fea1754',1,'Ext.Net.Labelable.Builder.InvalidText()']]],
   ['inverse',['Inverse',['../d4/d69/class_ext_1_1_net_1_1_field_reference_1_1_builder.html#a222fa74c2b13ffc7e5116fd046cb42d0',1,'Ext::Net::FieldReference::Builder']]],
   ['invert',['Invert',['../d6/d95/class_ext_1_1_net_1_1_check_column_1_1_builder.html#a6154feaa64fb37b4b1c2649813a57461',1,'Ext::Net::CheckColumn::Builder']]],
+  ['isactiondisabled',['IsActionDisabled',['../d8/dc3/class_ext_1_1_net_1_1_action_column_1_1_builder.html#a3808ff683c8ab7b99a75d5fe5cbba477',1,'Ext::Net::ActionColumn::Builder']]],
   ['isalerttoken',['IsAlertToken',['../db/def/class_ext_1_1_net_1_1_token_utils.html#a83d765814f8f56825ef2b57c3e59a036',1,'Ext::Net::TokenUtils']]],
   ['isancestor',['IsAncestor',['../de/d2c/class_ext_1_1_net_1_1_node_proxy.html#aa8caff4896f3f84ae234884e5b7197f6',1,'Ext::Net::NodeProxy']]],
   ['isbindabletype',['IsBindableType',['../db/db6/class_ext_1_1_net_1_1_store_base.html#a5eac39cddc4108647dd057592a4f3566',1,'Ext::Net::StoreBase']]],

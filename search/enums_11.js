@@ -5,6 +5,7 @@ var searchData=
   ['tagselectionmode',['TagSelectionMode',['../dc/d3f/namespace_ext_1_1_net.html#ad78e6c5d5920afd2dca299272ee727a8',1,'Ext::Net']]],
   ['templatewritemode',['TemplateWriteMode',['../dc/d3f/namespace_ext_1_1_net.html#a35820a018aa92f375a25c1a94d392595',1,'Ext::Net']]],
   ['textalign',['TextAlign',['../dc/d3f/namespace_ext_1_1_net.html#a279a328a95d919ab9e1be486dc364ebd',1,'Ext::Net']]],
+  ['textselectdirection',['TextSelectDirection',['../dc/d3f/namespace_ext_1_1_net.html#ac7f40b044d7aab53606af14e5d818c9c',1,'Ext::Net']]],
   ['textspritealign',['TextSpriteAlign',['../dc/d3f/namespace_ext_1_1_net.html#a0823c637c17cea4a73ab07a146ac7723',1,'Ext::Net']]],
   ['theme',['Theme',['../dc/d3f/namespace_ext_1_1_net.html#a3622e2151d874150d98cc03d8499bb96',1,'Ext::Net']]],
   ['threestatebool',['ThreeStateBool',['../dc/d3f/namespace_ext_1_1_net.html#ab728101673536b250df475ee5a81df0e',1,'Ext::Net']]],

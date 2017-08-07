@@ -19,7 +19,9 @@ var class_ext_1_1_net_1_1_menu_panel =
     [ "Listeners", "dc/dfb/class_ext_1_1_net_1_1_menu_panel.html#aeb416b3407e7bfd7d6cd45942af86ec1", null ],
     [ "Menu", "dc/dfb/class_ext_1_1_net_1_1_menu_panel.html#a9196d7b510c7553c81cfb4fab8284c01", null ],
     [ "SaveSelection", "dc/dfb/class_ext_1_1_net_1_1_menu_panel.html#a14da953c8414ad278cea840f364f3707", null ],
+    [ "SelectedCls", "dc/dfb/class_ext_1_1_net_1_1_menu_panel.html#aaec1c4a69c6a57e7a5f8cb64b9568367", null ],
     [ "SelectedIndex", "dc/dfb/class_ext_1_1_net_1_1_menu_panel.html#a6022aaff43b9a107033b5c5ec4a8d6e7", null ],
     [ "SelectedItemChanged", "dc/dfb/class_ext_1_1_net_1_1_menu_panel.html#a6bc26386d0d401cb22353deb539c6565", null ],
+    [ "SelectedTextCls", "dc/dfb/class_ext_1_1_net_1_1_menu_panel.html#af7e7267be21d5926029753f06739b033", null ],
     [ "XType", "dc/dfb/class_ext_1_1_net_1_1_menu_panel.html#a3039c571d78bd5be528bc2576c32ca9b", null ]
 ];

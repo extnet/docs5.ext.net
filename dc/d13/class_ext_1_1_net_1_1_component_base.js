@@ -65,6 +65,7 @@ var class_ext_1_1_net_1_1_component_base =
     [ "DraggableConfigProxy", "dc/d13/class_ext_1_1_net_1_1_component_base.html#a03dd6dd9b1097b641fc1d6f1e34fe0b3", null ],
     [ "DraggableProxy", "dc/d13/class_ext_1_1_net_1_1_component_base.html#a39a80f3314c2fb820f51232e638f2a7f", null ],
     [ "MaintainFlex", "dc/d13/class_ext_1_1_net_1_1_component_base.html#ac33721fb61d06103a8df08b2cc5556d8", null ],
+    [ "MaskDefaults", "dc/d13/class_ext_1_1_net_1_1_component_base.html#a2ed841cb7c98d83eeeaa591c7dc08ae0", null ],
     [ "OverflowX", "dc/d13/class_ext_1_1_net_1_1_component_base.html#a1bd4c6a7f3391036d468e3ccc95fdb02", null ],
     [ "OverflowY", "dc/d13/class_ext_1_1_net_1_1_component_base.html#af9a682eab954cb88d36099b6c800f58e", null ],
     [ "Resizable", "dc/d13/class_ext_1_1_net_1_1_component_base.html#a31b7baab19a2c676f71810bea0bc0f1f", null ],

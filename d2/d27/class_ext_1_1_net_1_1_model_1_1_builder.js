@@ -41,6 +41,7 @@ var class_ext_1_1_net_1_1_model_1_1_builder =
     [ "PresenceValidationFor< T, TProperty >", "d2/d27/class_ext_1_1_net_1_1_model_1_1_builder.html#a73043bbf9cda4fa4a11be4703aea1077", null ],
     [ "PresenceValidationFor< T, TProperty >", "d2/d27/class_ext_1_1_net_1_1_model_1_1_builder.html#a322bac2e6bccac1cb56cdb357dfa5790", null ],
     [ "Proxy", "d2/d27/class_ext_1_1_net_1_1_model_1_1_builder.html#ad169ce5103d106bd32e43c490d055e47", null ],
+    [ "Summary", "d2/d27/class_ext_1_1_net_1_1_model_1_1_builder.html#aa4530169f1744a7235bf831173d73a33", null ],
     [ "ValidationSeparator", "d2/d27/class_ext_1_1_net_1_1_model_1_1_builder.html#a1b84b7303c926281d0936f8b67bf2992", null ],
     [ "Validators", "d2/d27/class_ext_1_1_net_1_1_model_1_1_builder.html#aba2bd1572d17849af71f1437713ba562", null ],
     [ "VersionProperty", "d2/d27/class_ext_1_1_net_1_1_model_1_1_builder.html#ab16b79ccad1d8938a4d7f80495de06f2", null ]

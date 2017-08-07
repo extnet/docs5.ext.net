@@ -15,6 +15,7 @@ var class_ext_1_1_net_1_1_model_1_1_config =
     [ "IDProperty", "dd/ddd/class_ext_1_1_net_1_1_model_1_1_config.html#aeedc51016116b9042bca27a46b9ffbbc", null ],
     [ "Name", "dd/ddd/class_ext_1_1_net_1_1_model_1_1_config.html#a39868b0d0ef92be3a2b25bfa7a8a142a", null ],
     [ "Proxy", "dd/ddd/class_ext_1_1_net_1_1_model_1_1_config.html#aac7faf40b9d72cc24dd07558b23d1377", null ],
+    [ "Summary", "dd/ddd/class_ext_1_1_net_1_1_model_1_1_config.html#aa52fc66369458b498283734fb821eb08", null ],
     [ "ValidationSeparator", "dd/ddd/class_ext_1_1_net_1_1_model_1_1_config.html#adc6307b26ff38c5a67b9dca1f4d95393", null ],
     [ "Validators", "dd/ddd/class_ext_1_1_net_1_1_model_1_1_config.html#a1953a3c7b923a7dccaa82f2205513684", null ],
     [ "VersionProperty", "dd/ddd/class_ext_1_1_net_1_1_model_1_1_config.html#a2970467c6dd8b88d3120852d9ab3489e", null ]

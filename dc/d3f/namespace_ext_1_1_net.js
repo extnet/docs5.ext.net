@@ -613,6 +613,9 @@ var namespace_ext_1_1_net =
     [ "Key", "d0/d1b/class_ext_1_1_net_1_1_key.html", "d0/d1b/class_ext_1_1_net_1_1_key" ],
     [ "KeyBinding", "de/d53/class_ext_1_1_net_1_1_key_binding.html", "de/d53/class_ext_1_1_net_1_1_key_binding" ],
     [ "KeyBindingCollection", "d0/d25/class_ext_1_1_net_1_1_key_binding_collection.html", null ],
+    [ "KeyBindItem", "d9/d8d/class_ext_1_1_net_1_1_key_bind_item.html", "d9/d8d/class_ext_1_1_net_1_1_key_bind_item" ],
+    [ "KeyBindItemCollection", "d9/d33/class_ext_1_1_net_1_1_key_bind_item_collection.html", "d9/d33/class_ext_1_1_net_1_1_key_bind_item_collection" ],
+    [ "KeyBindItemJsonConverter", "d5/d9c/class_ext_1_1_net_1_1_key_bind_item_json_converter.html", "d5/d9c/class_ext_1_1_net_1_1_key_bind_item_json_converter" ],
     [ "KeyCollection", "dd/df2/class_ext_1_1_net_1_1_key_collection.html", null ],
     [ "KeyMap", "d1/df9/class_ext_1_1_net_1_1_key_map.html", "d1/df9/class_ext_1_1_net_1_1_key_map" ],
     [ "KeyNav", "db/d61/class_ext_1_1_net_1_1_key_nav.html", "db/d61/class_ext_1_1_net_1_1_key_nav" ],
@@ -1082,10 +1085,7 @@ var namespace_ext_1_1_net =
     [ "WebConfigUtils", "d9/d9d/class_ext_1_1_net_1_1_web_config_utils.html", null ],
     [ "WebStorageProxy", "d7/dba/class_ext_1_1_net_1_1_web_storage_proxy.html", "d7/dba/class_ext_1_1_net_1_1_web_storage_proxy" ],
     [ "WeekView", "dc/d08/class_ext_1_1_net_1_1_week_view.html", "dc/d08/class_ext_1_1_net_1_1_week_view" ],
-    [ "Widget", "d7/d50/class_ext_1_1_net_1_1_widget.html", [
-      [ "Builder", "dd/d37/class_ext_1_1_net_1_1_widget_1_1_builder.html", "dd/d37/class_ext_1_1_net_1_1_widget_1_1_builder" ],
-      [ "Config", "d5/d45/class_ext_1_1_net_1_1_widget_1_1_config.html", null ]
-    ] ],
+    [ "Widget", "d7/d50/class_ext_1_1_net_1_1_widget.html", "d7/d50/class_ext_1_1_net_1_1_widget" ],
     [ "WidgetColumn", "d3/d98/class_ext_1_1_net_1_1_widget_column.html", "d3/d98/class_ext_1_1_net_1_1_widget_column" ],
     [ "WidgetDirectEvents", "d2/dd5/class_ext_1_1_net_1_1_widget_direct_events.html", "d2/dd5/class_ext_1_1_net_1_1_widget_direct_events" ],
     [ "WidgetListeners", "dd/de6/class_ext_1_1_net_1_1_widget_listeners.html", "dd/de6/class_ext_1_1_net_1_1_widget_listeners" ],

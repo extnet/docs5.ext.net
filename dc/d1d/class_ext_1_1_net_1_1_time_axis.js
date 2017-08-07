@@ -10,7 +10,6 @@ var class_ext_1_1_net_1_1_time_axis =
     [ "SetToDate", "dc/d1d/class_ext_1_1_net_1_1_time_axis.html#abfb80429c05f6fe1a3f044c2a06f9735", null ],
     [ "ToBuilder", "dc/d1d/class_ext_1_1_net_1_1_time_axis.html#ad2a047e00b9680826e3dffd7e336410a", null ],
     [ "ToNativeBuilder", "dc/d1d/class_ext_1_1_net_1_1_time_axis.html#a5817c56df666ee96ca5e9627315cfbd1", null ],
-    [ "CalculateByLabelSize", "dc/d1d/class_ext_1_1_net_1_1_time_axis.html#a938b1810c394c56a05f2dd5d714d08ad", null ],
     [ "ConfigOptions", "dc/d1d/class_ext_1_1_net_1_1_time_axis.html#ac5b9d0d7976816ea5657ac97ff292d19", null ],
     [ "DateFormat", "dc/d1d/class_ext_1_1_net_1_1_time_axis.html#a2a910f430ce4978b407a1bea31583232", null ],
     [ "DateFormatProxy", "dc/d1d/class_ext_1_1_net_1_1_time_axis.html#a1508abba142825e39228180b45c62927", null ],

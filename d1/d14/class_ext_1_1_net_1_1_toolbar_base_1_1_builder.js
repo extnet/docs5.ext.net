@@ -10,5 +10,6 @@ var class_ext_1_1_net_1_1_toolbar_base_1_1_builder =
     [ "EnableOverflow", "d1/d14/class_ext_1_1_net_1_1_toolbar_base_1_1_builder.html#a6c6c58bdbc785a79e1a59c3b3ddddb60", null ],
     [ "Flat", "d1/d14/class_ext_1_1_net_1_1_toolbar_base_1_1_builder.html#a182ec5e855a43d2c7ae0b45bdb6eea97", null ],
     [ "OverflowHandler", "d1/d14/class_ext_1_1_net_1_1_toolbar_base_1_1_builder.html#a72c2853fe8ad1df3d8d07dee87bac9e7", null ],
+    [ "TrackMenus", "d1/d14/class_ext_1_1_net_1_1_toolbar_base_1_1_builder.html#a09af60084a16404b84dbbc0797bce545", null ],
     [ "Vertical", "d1/d14/class_ext_1_1_net_1_1_toolbar_base_1_1_builder.html#a0f92f508171c5625f9c16caa71d8943f", null ]
 ];

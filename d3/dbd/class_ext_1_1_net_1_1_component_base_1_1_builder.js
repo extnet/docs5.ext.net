@@ -17,6 +17,7 @@ var class_ext_1_1_net_1_1_component_base_1_1_builder =
     [ "Hide", "d3/dbd/class_ext_1_1_net_1_1_component_base_1_1_builder.html#afadfb0d9e46150f2aa975363c32db2f3", null ],
     [ "Hide", "d3/dbd/class_ext_1_1_net_1_1_component_base_1_1_builder.html#a56259af540524c0d57417cf5243bf884", null ],
     [ "MaintainFlex", "d3/dbd/class_ext_1_1_net_1_1_component_base_1_1_builder.html#a9cf3e4e502bfc72069095033165c34f7", null ],
+    [ "MaskDefaults", "d3/dbd/class_ext_1_1_net_1_1_component_base_1_1_builder.html#afd6356b42dee556d8c1250ecfd380d87", null ],
     [ "OverflowX", "d3/dbd/class_ext_1_1_net_1_1_component_base_1_1_builder.html#a0245e5d2c42a908992f68a1ca1782934", null ],
     [ "OverflowY", "d3/dbd/class_ext_1_1_net_1_1_component_base_1_1_builder.html#a37b9109990672344780dafe31ce02c49", null ],
     [ "Resizable", "d3/dbd/class_ext_1_1_net_1_1_component_base_1_1_builder.html#a2113430c834141ea2c445dc3c843b62d", null ],

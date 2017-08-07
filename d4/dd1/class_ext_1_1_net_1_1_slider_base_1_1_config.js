@@ -13,6 +13,7 @@ var class_ext_1_1_net_1_1_slider_base_1_1_config =
     [ "PageSize", "d4/dd1/class_ext_1_1_net_1_1_slider_base_1_1_config.html#a35343f43c353f1f4e56f37bf6740dc71", null ],
     [ "PublishOnComplete", "d4/dd1/class_ext_1_1_net_1_1_slider_base_1_1_config.html#a00fed7667d606f22b7f5b1335ce34fe0", null ],
     [ "Single", "d4/dd1/class_ext_1_1_net_1_1_slider_base_1_1_config.html#ac2d4d255951caeb85834dad7bac6b6f2", null ],
+    [ "ThumbPerValue", "d4/dd1/class_ext_1_1_net_1_1_slider_base_1_1_config.html#abc6a43271af5213269fabce31fe8dae2", null ],
     [ "TipText", "d4/dd1/class_ext_1_1_net_1_1_slider_base_1_1_config.html#afffee83c42c8e2902544839f7380ecd7", null ],
     [ "UseTips", "d4/dd1/class_ext_1_1_net_1_1_slider_base_1_1_config.html#ad2c6512f87c015a24d1687a08cda5b3a", null ],
     [ "Value", "d4/dd1/class_ext_1_1_net_1_1_slider_base_1_1_config.html#a8bdb9a8febf76f588af97c12d4a8d2c2", null ],

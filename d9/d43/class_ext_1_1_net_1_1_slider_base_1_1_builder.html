@@ -29,7 +29,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Ext.NET
-   &#160;<span id="projectnumber">4.2.2</span>
+   &#160;<span id="projectnumber">4.3.0</span>
    </div>
    <div id="projectbrief">.NET Component Framework for Enterprise Level Apps</div>
   </td>
@@ -144,6 +144,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a929732106036aaf971325cef051cb1a1"><td class="memItemLeft" align="right" valign="top">virtual TBuilder&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d43/class_ext_1_1_net_1_1_slider_base_1_1_builder.html#a929732106036aaf971325cef051cb1a1">MinValue</a> (double minValue)</td></tr>
 <tr class="memdesc:a929732106036aaf971325cef051cb1a1"><td class="mdescLeft">&#160;</td><td class="mdescRight">The minimum value for the <a class="el" href="../../d4/d9e/class_ext_1_1_net_1_1_slider.html" title="Slider which supports vertical or horizontal orientation, keyboard adjustments, configurable snapping...">Slider</a>. Defaults to 0.  <a href="#a929732106036aaf971325cef051cb1a1">More...</a><br /></td></tr>
 <tr class="separator:a929732106036aaf971325cef051cb1a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a485519581a2586aff3422d12d36612e0"><td class="memItemLeft" align="right" valign="top">virtual TBuilder&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d43/class_ext_1_1_net_1_1_slider_base_1_1_builder.html#a485519581a2586aff3422d12d36612e0">ThumbPerValue</a> (bool? thumbPerValue)</td></tr>
+<tr class="memdesc:a485519581a2586aff3422d12d36612e0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Configure as true to allow thumbs to be added and removed dynamically from the slider when calling method-setValue with an an array of values differing from the current number of thumbs.  <a href="#a485519581a2586aff3422d12d36612e0">More...</a><br /></td></tr>
+<tr class="separator:a485519581a2586aff3422d12d36612e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7c9d23da276cea0e4c780d1316cadc3d"><td class="memItemLeft" align="right" valign="top">virtual TBuilder&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d43/class_ext_1_1_net_1_1_slider_base_1_1_builder.html#a7c9d23da276cea0e4c780d1316cadc3d">Vertical</a> (bool vertical)</td></tr>
 <tr class="memdesc:a7c9d23da276cea0e4c780d1316cadc3d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Orient the <a class="el" href="../../d4/d9e/class_ext_1_1_net_1_1_slider.html" title="Slider which supports vertical or horizontal orientation, keyboard adjustments, configurable snapping...">Slider</a> vertically rather than horizontally, defaults to false.  <a href="#a7c9d23da276cea0e4c780d1316cadc3d">More...</a><br /></td></tr>
 <tr class="separator:a7c9d23da276cea0e4c780d1316cadc3d"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -165,6 +168,10 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a64850bbe7b749d1114713fe261ef9be4"><td class="memItemLeft" align="right" valign="top">virtual TBuilder&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d43/class_ext_1_1_net_1_1_slider_base_1_1_builder.html#a64850bbe7b749d1114713fe261ef9be4">AddThumb</a> (int value)</td></tr>
 <tr class="memdesc:a64850bbe7b749d1114713fe261ef9be4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Creates a new thumb and adds it to the slider  <a href="#a64850bbe7b749d1114713fe261ef9be4">More...</a><br /></td></tr>
 <tr class="separator:a64850bbe7b749d1114713fe261ef9be4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a91be80c0d19ba777de87d6f00a05f891"><td class="memItemLeft" align="right" valign="top">virtual TBuilder&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d43/class_ext_1_1_net_1_1_slider_base_1_1_builder.html#a91be80c0d19ba777de87d6f00a05f891">RemoveThumb</a> (int thumb)</td></tr>
+<tr class="separator:a91be80c0d19ba777de87d6f00a05f891"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8c5a30240bf0383ff3b8a8791e7b8537"><td class="memItemLeft" align="right" valign="top">virtual TBuilder&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d43/class_ext_1_1_net_1_1_slider_base_1_1_builder.html#a8c5a30240bf0383ff3b8a8791e7b8537">RemoveThumb</a> (object thumb)</td></tr>
+<tr class="separator:a8c5a30240bf0383ff3b8a8791e7b8537"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><div class="typeconstraint">
@@ -574,6 +581,62 @@ Public Member Functions</h2></td></tr>
 
 </div>
 </div>
+<a id="a91be80c0d19ba777de87d6f00a05f891"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a91be80c0d19ba777de87d6f00a05f891">&#9670;&nbsp;</a></span>RemoveThumb() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual TBuilder <a class="el" href="../../d9/d43/class_ext_1_1_net_1_1_slider_base_1_1_builder.html">Ext.Net.SliderBase.Builder</a>&lt; TSliderBase, TBuilder &gt;.RemoveThumb </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>thumb</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p></p>
+
+</div>
+</div>
+<a id="a8c5a30240bf0383ff3b8a8791e7b8537"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8c5a30240bf0383ff3b8a8791e7b8537">&#9670;&nbsp;</a></span>RemoveThumb() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual TBuilder <a class="el" href="../../d9/d43/class_ext_1_1_net_1_1_slider_base_1_1_builder.html">Ext.Net.SliderBase.Builder</a>&lt; TSliderBase, TBuilder &gt;.RemoveThumb </td>
+          <td>(</td>
+          <td class="paramtype">object&#160;</td>
+          <td class="paramname"><em>thumb</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p></p>
+
+</div>
+</div>
 <a id="a31a208346de54146771d9218f3d16b5d"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a31a208346de54146771d9218f3d16b5d">&#9670;&nbsp;</a></span>Single()</h2>
 
@@ -626,6 +689,34 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Synchronizes thumbs position to the proper proportion of the total component width based on the current slider value. This will be called automatically when the <a class="el" href="../../d4/d9e/class_ext_1_1_net_1_1_slider.html" title="Slider which supports vertical or horizontal orientation, keyboard adjustments, configurable snapping...">Slider</a> is resized by a layout, but if it is rendered auto width, this method can be called from another resize handler to sync the <a class="el" href="../../d4/d9e/class_ext_1_1_net_1_1_slider.html" title="Slider which supports vertical or horizontal orientation, keyboard adjustments, configurable snapping...">Slider</a> if necessary. </p>
+
+</div>
+</div>
+<a id="a485519581a2586aff3422d12d36612e0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a485519581a2586aff3422d12d36612e0">&#9670;&nbsp;</a></span>ThumbPerValue()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual TBuilder <a class="el" href="../../d9/d43/class_ext_1_1_net_1_1_slider_base_1_1_builder.html">Ext.Net.SliderBase.Builder</a>&lt; TSliderBase, TBuilder &gt;.ThumbPerValue </td>
+          <td>(</td>
+          <td class="paramtype">bool?&#160;</td>
+          <td class="paramname"><em>thumbPerValue</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Configure as true to allow thumbs to be added and removed dynamically from the slider when calling method-setValue with an an array of values differing from the current number of thumbs. </p>
 
 </div>
 </div>

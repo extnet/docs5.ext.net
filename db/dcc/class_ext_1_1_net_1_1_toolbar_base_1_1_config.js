@@ -9,5 +9,6 @@ var class_ext_1_1_net_1_1_toolbar_base_1_1_config =
     [ "EnableOverflow", "db/dcc/class_ext_1_1_net_1_1_toolbar_base_1_1_config.html#a824ee927e16431e45b62a51c3c1ff2fa", null ],
     [ "Flat", "db/dcc/class_ext_1_1_net_1_1_toolbar_base_1_1_config.html#a14cfdcf95729a9f20f5ebd233976c000", null ],
     [ "OverflowHandler", "db/dcc/class_ext_1_1_net_1_1_toolbar_base_1_1_config.html#a0b415a16f39cdfc0ad8ae3d6916b6846", null ],
+    [ "TrackMenus", "db/dcc/class_ext_1_1_net_1_1_toolbar_base_1_1_config.html#a04432666f1d537650bcea57847df0f88", null ],
     [ "Vertical", "db/dcc/class_ext_1_1_net_1_1_toolbar_base_1_1_config.html#a92015001423fca5991830e3d468d6cc8", null ]
 ];

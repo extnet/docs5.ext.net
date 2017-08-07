@@ -12,6 +12,7 @@ var class_ext_1_1_net_1_1_draw_container_1_1_builder =
     [ "DefaultDownloadServerUrl", "d4/d3e/class_ext_1_1_net_1_1_draw_container_1_1_builder.html#a3d6057dceab4e00617602012ec818bc1", null ],
     [ "DestroySurface", "d4/d3e/class_ext_1_1_net_1_1_draw_container_1_1_builder.html#a6accf703f2377bddf9941396962fbd3a", null ],
     [ "DirectEvents", "d4/d3e/class_ext_1_1_net_1_1_draw_container_1_1_builder.html#a75e4fcf365c16aff127b1eedac39b3d2", null ],
+    [ "DownloadServerUrl", "d4/d3e/class_ext_1_1_net_1_1_draw_container_1_1_builder.html#a3be3cd3f62a5914c8b5c5c18ad7f7418", null ],
     [ "Engine", "d4/d3e/class_ext_1_1_net_1_1_draw_container_1_1_builder.html#a5de29eac8e0eec176ab6d3e9e482e44b", null ],
     [ "Gradients", "d4/d3e/class_ext_1_1_net_1_1_draw_container_1_1_builder.html#a42631ec0c5153ed1694d728a9d56596a", null ],
     [ "HandleResize", "d4/d3e/class_ext_1_1_net_1_1_draw_container_1_1_builder.html#a3235ff498f36a432e95b46724c57a411", null ],
@@ -27,5 +28,6 @@ var class_ext_1_1_net_1_1_draw_container_1_1_builder =
     [ "RenderFrame", "d4/d3e/class_ext_1_1_net_1_1_draw_container_1_1_builder.html#a0abd5b9b1390debc8421690f96866017", null ],
     [ "Repaint", "d4/d3e/class_ext_1_1_net_1_1_draw_container_1_1_builder.html#a2c8f39fd95146c346b551bbc79681100", null ],
     [ "ResetTransform", "d4/d3e/class_ext_1_1_net_1_1_draw_container_1_1_builder.html#a341aa0b87f1716ca7046c2649d6eb41c", null ],
-    [ "ResizeHandler", "d4/d3e/class_ext_1_1_net_1_1_draw_container_1_1_builder.html#a45e8fc1be6d0a5f57b51efd5490d00ae", null ]
+    [ "ResizeHandler", "d4/d3e/class_ext_1_1_net_1_1_draw_container_1_1_builder.html#a45e8fc1be6d0a5f57b51efd5490d00ae", null ],
+    [ "SetDownloadServerUrl", "d4/d3e/class_ext_1_1_net_1_1_draw_container_1_1_builder.html#a5ff5b12eb2be7c1466fc1c0cffa40510", null ]
 ];

@@ -37,6 +37,7 @@ var class_ext_1_1_net_1_1_model =
     [ "IsIdRequired", "de/d4f/class_ext_1_1_net_1_1_model.html#aad38bbc3ac638b4a843ac32c635260ff", null ],
     [ "Name", "de/d4f/class_ext_1_1_net_1_1_model.html#a1736eb2d8466237ed3f8f1f9fb41ca8b", null ],
     [ "Proxy", "de/d4f/class_ext_1_1_net_1_1_model.html#a21b567b2dcba36ff2999b6c4f8f21a4d", null ],
+    [ "Summary", "de/d4f/class_ext_1_1_net_1_1_model.html#a68b95b020a99d728f1c6052e9e984db6", null ],
     [ "ValidationSeparator", "de/d4f/class_ext_1_1_net_1_1_model.html#a61ce19fb601611dbb348d7d1c22883f2", null ],
     [ "Validators", "de/d4f/class_ext_1_1_net_1_1_model.html#a55f73ed2813d64a2813eb8685b8252e4", null ],
     [ "VersionProperty", "de/d4f/class_ext_1_1_net_1_1_model.html#a996f119e5a83d81c30ce7e006d23030d", null ]

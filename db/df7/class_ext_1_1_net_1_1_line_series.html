@@ -29,7 +29,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Ext.NET
-   &#160;<span id="projectnumber">4.2.2</span>
+   &#160;<span id="projectnumber">4.3.0</span>
    </div>
    <div id="projectbrief">.NET Component Framework for Enterprise Level Apps</div>
   </td>
@@ -121,6 +121,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:af8503eb5c7410c0a593b6853d4e1ed22"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df7/class_ext_1_1_net_1_1_line_series.html#af8503eb5c7410c0a593b6853d4e1ed22">LineSeries</a> ()</td></tr>
 <tr class="memdesc:af8503eb5c7410c0a593b6853d4e1ed22"><td class="mdescLeft">&#160;</td><td class="mdescRight">The constructor  <a href="#af8503eb5c7410c0a593b6853d4e1ed22">More...</a><br /></td></tr>
 <tr class="separator:af8503eb5c7410c0a593b6853d4e1ed22"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:accde1d7da51f0d16391380259129c443"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df7/class_ext_1_1_net_1_1_line_series.html#accde1d7da51f0d16391380259129c443">SetCurve</a> (object curve)</td></tr>
+<tr class="memdesc:accde1d7da51f0d16391380259129c443"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sets the value of curve.  <a href="#accde1d7da51f0d16391380259129c443">More...</a><br /></td></tr>
+<tr class="separator:accde1d7da51f0d16391380259129c443"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a63878ae52defe72aae82b80e5e7ad9a9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d52/class_ext_1_1_net_1_1_line_series_1_1_builder.html">LineSeries.Builder</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df7/class_ext_1_1_net_1_1_line_series.html#a63878ae52defe72aae82b80e5e7ad9a9">ToBuilder</a> ()</td></tr>
 <tr class="separator:a63878ae52defe72aae82b80e5e7ad9a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a95b83bc34ff8a2052e0989ae462088d0"><td class="memItemLeft" align="right" valign="top">override <a class="el" href="../../d8/dea/interface_ext_1_1_net_1_1_i_control_builder.html">IControlBuilder</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df7/class_ext_1_1_net_1_1_line_series.html#a95b83bc34ff8a2052e0989ae462088d0">ToNativeBuilder</a> ()</td></tr>
@@ -187,6 +190,9 @@ Properties</h2></td></tr>
 <tr class="memitem:afcf407ada75990b534484e70b2cef8dc"><td class="memItemLeft" align="right" valign="top">virtual string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df7/class_ext_1_1_net_1_1_line_series.html#afcf407ada75990b534484e70b2cef8dc">Type</a><code> [get]</code></td></tr>
 <tr class="memdesc:afcf407ada75990b534484e70b2cef8dc"><td class="mdescLeft">&#160;</td><td class="mdescRight">The alias  <a href="#afcf407ada75990b534484e70b2cef8dc">More...</a><br /></td></tr>
 <tr class="separator:afcf407ada75990b534484e70b2cef8dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0f15993d854fae69c7444709ac798815"><td class="memItemLeft" align="right" valign="top">virtual object&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df7/class_ext_1_1_net_1_1_line_series.html#a0f15993d854fae69c7444709ac798815">Curve</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:a0f15993d854fae69c7444709ac798815"><td class="mdescLeft">&#160;</td><td class="mdescRight">The type of curve that connects the data points.  <a href="#a0f15993d854fae69c7444709ac798815">More...</a><br /></td></tr>
+<tr class="separator:a0f15993d854fae69c7444709ac798815"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a222a9991977ec66054a573b9096bd9ac"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df7/class_ext_1_1_net_1_1_line_series.html#a222a9991977ec66054a573b9096bd9ac">Fill</a><code> [get, set]</code></td></tr>
 <tr class="memdesc:a222a9991977ec66054a573b9096bd9ac"><td class="mdescLeft">&#160;</td><td class="mdescRight">If set to true, the area underneath the line is filled with the color defined as follows, listed by priority: - The color that is configured for this series (Ext.chart.series.Series.colors). - The color that is configured for this chart (Ext.chart.AbstractChart.colors). - The fill color that is set in the style config. - The stroke color that is set in the style config, or the same color as the line. Note: Do not confuse series.config.fill (which is a boolean) with series.style.fill' (which is an alias for thefillStyleproperty and contains a color). For compatibility with previous versions of the API, ifconfig.fill is undefined but a style.fill' color is provided, config.fill is considered true. So the default value below must be undefined, not false.  <a href="#a222a9991977ec66054a573b9096bd9ac">More...</a><br /></td></tr>
 <tr class="separator:a222a9991977ec66054a573b9096bd9ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -460,6 +466,40 @@ virtual void&#160;</td><td class="memItemRight" valign="bottom"><b>OwnerUpdate</
 
 </div>
 </div>
+<a id="accde1d7da51f0d16391380259129c443"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#accde1d7da51f0d16391380259129c443">&#9670;&nbsp;</a></span>SetCurve()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void Ext.Net.LineSeries.SetCurve </td>
+          <td>(</td>
+          <td class="paramtype">object&#160;</td>
+          <td class="paramname"><em>curve</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Sets the value of curve. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">curve</td><td>The new value. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
 <a id="a63878ae52defe72aae82b80e5e7ad9a9"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a63878ae52defe72aae82b80e5e7ad9a9">&#9670;&nbsp;</a></span>ToBuilder()</h2>
 
@@ -538,6 +578,30 @@ virtual void&#160;</td><td class="memItemRight" valign="bottom"><b>OwnerUpdate</
 </div><div class="memdoc">
 
 <p></p>
+
+</div>
+</div>
+<a id="a0f15993d854fae69c7444709ac798815"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0f15993d854fae69c7444709ac798815">&#9670;&nbsp;</a></span>Curve</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual object Ext.Net.LineSeries.Curve</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>The type of curve that connects the data points. </p>
 
 </div>
 </div>
