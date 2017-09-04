@@ -4,6 +4,7 @@ var class_ext_1_1_net_1_1_row_selection_model_1_1_builder =
     [ "Builder", "d7/d44/class_ext_1_1_net_1_1_row_selection_model_1_1_builder.html#a9356e927b714fb8c51f4b5090ccae0e6", null ],
     [ "Builder", "d7/d44/class_ext_1_1_net_1_1_row_selection_model_1_1_builder.html#ae27d1cbdbc99837e3c941c6590ef19b8", null ],
     [ "Builder", "d7/d44/class_ext_1_1_net_1_1_row_selection_model_1_1_builder.html#ac290969a9a8d25049c194fe2a9f6d82c", null ],
+    [ "DeselectOnContainerClick", "d7/d44/class_ext_1_1_net_1_1_row_selection_model_1_1_builder.html#aebceda40019b864b9ee1ffc528c74e0d", null ],
     [ "DirectEvents", "d7/d44/class_ext_1_1_net_1_1_row_selection_model_1_1_builder.html#a225450cb0b3b97c4882566479f916c6d", null ],
     [ "HiddenName", "d7/d44/class_ext_1_1_net_1_1_row_selection_model_1_1_builder.html#a8831ad683c675206dc8a8fa0b6138965", null ],
     [ "Listeners", "d7/d44/class_ext_1_1_net_1_1_row_selection_model_1_1_builder.html#a8c72c44cb8c53ff7be802c83a056d23c", null ],

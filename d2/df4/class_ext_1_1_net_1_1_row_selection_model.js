@@ -11,6 +11,7 @@ var class_ext_1_1_net_1_1_row_selection_model =
     [ "ToNativeBuilder", "d2/df4/class_ext_1_1_net_1_1_row_selection_model.html#a85d7ff69d93d49661480a309d1b6f129", null ],
     [ "UpdateSelection", "d2/df4/class_ext_1_1_net_1_1_row_selection_model.html#ac597d829814475c652daae35f21bb98e", null ],
     [ "ConfigOptions", "d2/df4/class_ext_1_1_net_1_1_row_selection_model.html#aaa387945563f0aa014901e77b3c5192a", null ],
+    [ "DeselectOnContainerClick", "d2/df4/class_ext_1_1_net_1_1_row_selection_model.html#a0f0db18b96bcaba2d4f2589d55316d20", null ],
     [ "DirectEvents", "d2/df4/class_ext_1_1_net_1_1_row_selection_model.html#ad04fc1ca9a2f2443d121b44934b9f86f", null ],
     [ "HasLoadPostData", "d2/df4/class_ext_1_1_net_1_1_row_selection_model.html#a65039e453d39e5d9ad936e3c483ae203", null ],
     [ "HasLoadPostData", "d2/df4/class_ext_1_1_net_1_1_row_selection_model.html#a64d55bd0bcd15e317fda8265308b90cc", null ],

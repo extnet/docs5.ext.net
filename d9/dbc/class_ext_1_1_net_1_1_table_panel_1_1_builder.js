@@ -38,6 +38,7 @@ var class_ext_1_1_net_1_1_table_panel_1_1_builder =
     [ "MultiColumnSort", "d9/dbc/class_ext_1_1_net_1_1_table_panel_1_1_builder.html#a20a969136a9c4d2b8ac507465a8dab91", null ],
     [ "MultiSelect", "d9/dbc/class_ext_1_1_net_1_1_table_panel_1_1_builder.html#abd18d9a27b7460182468e1687605b2cd", null ],
     [ "NumberFromEdge", "d9/dbc/class_ext_1_1_net_1_1_table_panel_1_1_builder.html#ac1b264a59f86801d4dc2f6dbc63b9ba5", null ],
+    [ "PreciseHeight", "d9/dbc/class_ext_1_1_net_1_1_table_panel_1_1_builder.html#a93656e26ffdfbff902ac0924e6758ad7", null ],
     [ "Reconfigure", "d9/dbc/class_ext_1_1_net_1_1_table_panel_1_1_builder.html#a628d0ffaa6d8d7fb7a8f45593eba2cd8", null ],
     [ "Reconfigure", "d9/dbc/class_ext_1_1_net_1_1_table_panel_1_1_builder.html#ab3c0b6cb929df3cd6962ac053685ac7e", null ],
     [ "Reconfigure", "d9/dbc/class_ext_1_1_net_1_1_table_panel_1_1_builder.html#ac48448e9c2b06fa9ea3df59dd3bfcf06", null ],

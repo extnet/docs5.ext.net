@@ -29,7 +29,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Ext.NET
-   &#160;<span id="projectnumber">4.3.0</span>
+   &#160;<span id="projectnumber">4.4.0</span>
    </div>
    <div id="projectbrief">.NET Component Framework for Enterprise Level Apps</div>
   </td>
@@ -132,6 +132,9 @@ Classes</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
+<tr class="memitem:ae3b71bafc5d9938043c66c0054bbf55e"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4e/class_ext_1_1_net_1_1_abstract_store.html#ae3b71bafc5d9938043c66c0054bbf55e">SetReloadOnClearSorters</a> (bool? reloadOnClearSorters)</td></tr>
+<tr class="memdesc:ae3b71bafc5d9938043c66c0054bbf55e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sets the value of reloadOnClearSorters.  <a href="#ae3b71bafc5d9938043c66c0054bbf55e">More...</a><br /></td></tr>
+<tr class="separator:ae3b71bafc5d9938043c66c0054bbf55e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af18cd53f74b32e8056f2d7e9beaaae9f"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4e/class_ext_1_1_net_1_1_abstract_store.html#af18cd53f74b32e8056f2d7e9beaaae9f">AddFiler</a> (<a class="el" href="../../d9/d02/class_ext_1_1_net_1_1_data_filter_collection.html">DataFilterCollection</a> filters)</td></tr>
 <tr class="memdesc:af18cd53f74b32e8056f2d7e9beaaae9f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Left to maintain backwards compatibility. Please use AddFilter instead.  <a href="#af18cd53f74b32e8056f2d7e9beaaae9f">More...</a><br /></td></tr>
 <tr class="separator:af18cd53f74b32e8056f2d7e9beaaae9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -736,6 +739,9 @@ Properties</h2></td></tr>
 <tr class="memitem:a0060a2fe8d8397761e0424cb0afe60d8"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../dc/d7a/class_ext_1_1_net_1_1_proxy_collection.html">ProxyCollection</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4e/class_ext_1_1_net_1_1_abstract_store.html#a0060a2fe8d8397761e0424cb0afe60d8">Proxy</a><code> [get]</code></td></tr>
 <tr class="memdesc:a0060a2fe8d8397761e0424cb0afe60d8"><td class="mdescLeft">&#160;</td><td class="mdescRight">The Proxy to use for this <a class="el" href="../../d4/d4f/class_ext_1_1_net_1_1_store.html" title="The Store class encapsulates a client side cache of Record objects which provide input data for Compo...">Store</a>.  <a href="#a0060a2fe8d8397761e0424cb0afe60d8">More...</a><br /></td></tr>
 <tr class="separator:a0060a2fe8d8397761e0424cb0afe60d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae6928167b8f3e93342bb51de9ba15f3f"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4e/class_ext_1_1_net_1_1_abstract_store.html#ae6928167b8f3e93342bb51de9ba15f3f">ReloadOnClearSorters</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:ae6928167b8f3e93342bb51de9ba15f3f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set this to true to trigger a reload when the last sorter is removed (only applicable when remoteSort is true).  <a href="#ae6928167b8f3e93342bb51de9ba15f3f">More...</a><br /></td></tr>
+<tr class="separator:ae6928167b8f3e93342bb51de9ba15f3f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5946b383406de39a6f155bb6be667add"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4e/class_ext_1_1_net_1_1_abstract_store.html#a5946b383406de39a6f155bb6be667add">RemoteFilter</a><code> [get, set]</code></td></tr>
 <tr class="memdesc:a5946b383406de39a6f155bb6be667add"><td class="mdescLeft">&#160;</td><td class="mdescRight">True to defer any filtering operation to the server. If false, filtering is done locally on the client. Defaults to false.  <a href="#a5946b383406de39a6f155bb6be667add">More...</a><br /></td></tr>
 <tr class="separator:a5946b383406de39a6f155bb6be667add"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -2969,6 +2975,40 @@ static object&#160;</td><td class="memItemRight" valign="bottom"><b>Apply</b> (o
 
 </div>
 </div>
+<a id="ae3b71bafc5d9938043c66c0054bbf55e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae3b71bafc5d9938043c66c0054bbf55e">&#9670;&nbsp;</a></span>SetReloadOnClearSorters()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void Ext.Net.AbstractStore.SetReloadOnClearSorters </td>
+          <td>(</td>
+          <td class="paramtype">bool?&#160;</td>
+          <td class="paramname"><em>reloadOnClearSorters</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Sets the value of reloadOnClearSorters. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">reloadOnClearSorters</td><td>The new value. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
 <a id="a6c23844010e90031b58ead571e5061cf"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a6c23844010e90031b58ead571e5061cf">&#9670;&nbsp;</a></span>SetRemoteFilter()</h2>
 
@@ -3863,6 +3903,30 @@ static object&#160;</td><td class="memItemRight" valign="bottom"><b>Apply</b> (o
 </div><div class="memdoc">
 
 <p>The Proxy to use for this <a class="el" href="../../d4/d4f/class_ext_1_1_net_1_1_store.html" title="The Store class encapsulates a client side cache of Record objects which provide input data for Compo...">Store</a>. </p>
+
+</div>
+</div>
+<a id="ae6928167b8f3e93342bb51de9ba15f3f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae6928167b8f3e93342bb51de9ba15f3f">&#9670;&nbsp;</a></span>ReloadOnClearSorters</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual bool Ext.Net.AbstractStore.ReloadOnClearSorters</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Set this to true to trigger a reload when the last sorter is removed (only applicable when remoteSort is true). </p>
 
 </div>
 </div>

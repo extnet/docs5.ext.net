@@ -53,6 +53,8 @@ var class_ext_1_1_net_1_1_field =
     [ "AfterLabelTextTpl", "d6/d52/class_ext_1_1_net_1_1_field.html#ae5b69dcdab8fefd47498f57db371b039", null ],
     [ "AfterLabelTpl", "d6/d52/class_ext_1_1_net_1_1_field.html#ac2a0eca6b32ab9cbe6a3e5ce1adcbcb1", null ],
     [ "AfterSubTpl", "d6/d52/class_ext_1_1_net_1_1_field.html#aa99bee3fe8d1087bf90500674acfbc70", null ],
+    [ "AriaErrorText", "d6/d52/class_ext_1_1_net_1_1_field.html#ab85506d125d681dea5dafbf7096230e8", null ],
+    [ "AriaHelp", "d6/d52/class_ext_1_1_net_1_1_field.html#a94dc9c7dddba01c98ae65654fd8ef65a", null ],
     [ "AutoFitErrors", "d6/d52/class_ext_1_1_net_1_1_field.html#aa6b00ce5cd0d1dabc17777839a3e11e5", null ],
     [ "AutoPostBack", "d6/d52/class_ext_1_1_net_1_1_field.html#a0d0e4ad885f3298c66208531ac93a7c2", null ],
     [ "BaseBodyCls", "d6/d52/class_ext_1_1_net_1_1_field.html#aa2a8e08f24fd3916af69a70e6eb99faa", null ],

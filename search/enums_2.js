@@ -1,6 +1,9 @@
 var searchData=
 [
   ['callouttrigger',['CalloutTrigger',['../dc/d3f/namespace_ext_1_1_net.html#aef19112faaf884cc8c74ab240aa0fef5',1,'Ext::Net']]],
+  ['captionalign',['CaptionAlign',['../dc/d3f/namespace_ext_1_1_net.html#a3bfcd47b62a000ec6c3c07175eb4d2d5',1,'Ext::Net']]],
+  ['captionalignto',['CaptionAlignTo',['../dc/d3f/namespace_ext_1_1_net.html#af494f4839c964559a769b8a76d1bab52',1,'Ext::Net']]],
+  ['captiondock',['CaptionDock',['../dc/d3f/namespace_ext_1_1_net.html#a92def10d1c66c4f36795d04239b51648',1,'Ext::Net']]],
   ['chartexporttype',['ChartExportType',['../dc/d3f/namespace_ext_1_1_net.html#ac9a6b44a0b2bcfbbccef3e6d6f5bbf43',1,'Ext::Net']]],
   ['chartmask',['ChartMask',['../dc/d3f/namespace_ext_1_1_net.html#aa5fd6c78843236a7b19374379c5ca033',1,'Ext::Net']]],
   ['clickableaction',['ClickableAction',['../dc/d3f/namespace_ext_1_1_net.html#a1c56063accf93e5738df415ab6e589bb',1,'Ext::Net']]],

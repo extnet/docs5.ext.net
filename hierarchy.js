@@ -93,6 +93,9 @@ var hierarchy =
     [ "Ext.Net.BaseItemCollection< AxisLimit >", "da/d29/class_ext_1_1_net_1_1_base_item_collection.html", [
       [ "Ext.Net.Limits", "d4/d0a/class_ext_1_1_net_1_1_limits.html", null ]
     ] ],
+    [ "Ext.Net.BaseItemCollection< ChartCaptionItem >", "da/d29/class_ext_1_1_net_1_1_base_item_collection.html", [
+      [ "Ext.Net.ChartCaptionCollection", "dd/db4/class_ext_1_1_net_1_1_chart_caption_collection.html", null ]
+    ] ],
     [ "Ext.Net.BaseItemCollection< ChildElement >", "da/d29/class_ext_1_1_net_1_1_base_item_collection.html", [
       [ "Ext.Net.ChildElementCollection", "d7/df5/class_ext_1_1_net_1_1_child_element_collection.html", null ]
     ] ],
@@ -241,6 +244,7 @@ var hierarchy =
     [ "Ext.Net.CalendarStore.Builder< TCalendarStore, TBuilder >", "d9/d12/class_ext_1_1_net_1_1_calendar_store_1_1_builder.html", null ],
     [ "Ext.Net.CartesianSeries.Builder< TCartesianSeries, TBuilder >", "dc/d5f/class_ext_1_1_net_1_1_cartesian_series_1_1_builder.html", null ],
     [ "Ext.Net.CellCommandColumn.Builder< TCellCommandColumn, TBuilder >", "d4/d04/class_ext_1_1_net_1_1_cell_command_column_1_1_builder.html", null ],
+    [ "Ext.Net.ChartCaptions.Builder< TChartCaptions, TBuilder >", "da/d10/class_ext_1_1_net_1_1_chart_captions_1_1_builder.html", null ],
     [ "Ext.Net.ChartLabel.Builder< TChartLabel, TBuilder >", "de/d9c/class_ext_1_1_net_1_1_chart_label_1_1_builder.html", null ],
     [ "Ext.Net.Checkbox.Builder< TCheckbox, TBuilder >", "d3/d2f/class_ext_1_1_net_1_1_checkbox_1_1_builder.html", null ],
     [ "Ext.Net.ColorPicker.Builder< TColorPicker, TBuilder >", "dd/d0e/class_ext_1_1_net_1_1_color_picker_1_1_builder.html", null ],
@@ -255,11 +259,11 @@ var hierarchy =
     [ "Ext.Net.DataSorter.Builder< TDataSorter, TBuilder >", "d7/df7/class_ext_1_1_net_1_1_data_sorter_1_1_builder.html", null ],
     [ "Ext.Net.DataViewDraggable.Builder< TDataViewDraggable, TBuilder >", "da/d9b/class_ext_1_1_net_1_1_data_view_draggable_1_1_builder.html", null ],
     [ "Ext.Net.DatePicker.Builder< TDatePicker, TBuilder >", "db/d81/class_ext_1_1_net_1_1_date_picker_1_1_builder.html", null ],
-    [ "Ext.Net.DesktopConfig.Builder< TDesktopConfig, TBuilder >", "d7/de4/class_ext_1_1_net_1_1_desktop_config_1_1_builder.html", null ],
     [ "Ext.Net.Desktop.Builder< TDesktop, TBuilder >", "d5/d9e/class_ext_1_1_net_1_1_desktop_1_1_builder.html", null ],
+    [ "Ext.Net.DesktopConfig.Builder< TDesktopConfig, TBuilder >", "d7/de4/class_ext_1_1_net_1_1_desktop_config_1_1_builder.html", null ],
     [ "Ext.Net.DesktopModule.Builder< TDesktopModule, TBuilder >", "d0/de9/class_ext_1_1_net_1_1_desktop_module_1_1_builder.html", null ],
-    [ "Ext.Net.DesktopStartMenu.Builder< TDesktopStartMenu, TBuilder >", "d0/d69/class_ext_1_1_net_1_1_desktop_start_menu_1_1_builder.html", null ],
     [ "Ext.Net.DesktopTaskBar.Builder< TDesktopTaskBar, TBuilder >", "da/d78/class_ext_1_1_net_1_1_desktop_task_bar_1_1_builder.html", null ],
+    [ "Ext.Net.DesktopStartMenu.Builder< TDesktopStartMenu, TBuilder >", "d0/d69/class_ext_1_1_net_1_1_desktop_start_menu_1_1_builder.html", null ],
     [ "Ext.Net.DrawContainer.Builder< TDrawContainer, TBuilder >", "d4/d3e/class_ext_1_1_net_1_1_draw_container_1_1_builder.html", null ],
     [ "Ext.Net.Field.Builder< TField, TBuilder >", "d0/d43/class_ext_1_1_net_1_1_field_1_1_builder.html", null ],
     [ "Ext.Net.FieldSet.Builder< TFieldSet, TBuilder >", "d9/dbe/class_ext_1_1_net_1_1_field_set_1_1_builder.html", null ],
@@ -282,34 +286,34 @@ var hierarchy =
     [ "Ext.Net.AbstractComponent.Builder< TAbstractComponent, TBuilder >", "d5/d65/class_ext_1_1_net_1_1_abstract_component_1_1_builder.html", null ],
     [ "Ext.Net.RowBody.Builder< TRowBody, TBuilder >", "dd/d24/class_ext_1_1_net_1_1_row_body_1_1_builder.html", null ],
     [ "Ext.Net.RowExpander.Builder< TRowExpander, TBuilder >", "d8/d3e/class_ext_1_1_net_1_1_row_expander_1_1_builder.html", null ],
-    [ "Ext.Net.Series.Builder< TSeries, TBuilder >", "d6/d11/class_ext_1_1_net_1_1_series_1_1_builder.html", null ],
     [ "Ext.Net.ServerProxy.Builder< TServerProxy, TBuilder >", "dc/d17/class_ext_1_1_net_1_1_server_proxy_1_1_builder.html", null ],
+    [ "Ext.Net.Series.Builder< TSeries, TBuilder >", "d6/d11/class_ext_1_1_net_1_1_series_1_1_builder.html", null ],
     [ "Ext.Net.StoreBase.Builder< TStoreBase, TBuilder >", "db/dc7/class_ext_1_1_net_1_1_store_base_1_1_builder.html", null ],
     [ "Ext.Net.SummaryColumn.Builder< TSummaryColumn, TBuilder >", "d2/d5b/class_ext_1_1_net_1_1_summary_column_1_1_builder.html", null ],
     [ "Ext.Net.TablePanel.Builder< TTablePanel, TBuilder >", "d9/dbc/class_ext_1_1_net_1_1_table_panel_1_1_builder.html", null ],
     [ "Ext.Net.TaskManager.Builder< TTaskManager, TBuilder >", "d6/d4a/class_ext_1_1_net_1_1_task_manager_1_1_builder.html", null ],
     [ "Ext.Net.TemplateColumn.Builder< TTemplateColumn, TBuilder >", "d1/d83/class_ext_1_1_net_1_1_template_column_1_1_builder.html", null ],
     [ "Ext.Net.TextFieldBase.Builder< TTextFieldBase, TBuilder >", "d1/d6c/class_ext_1_1_net_1_1_text_field_base_1_1_builder.html", null ],
-    [ "Ext.Net.TreePanelBase.Builder< TTreePanelBase, TBuilder >", "d4/dc8/class_ext_1_1_net_1_1_tree_panel_base_1_1_builder.html", null ],
     [ "Ext.Net.TreeStoreBase.Builder< TTreeStoreBase, TBuilder >", "d2/d6f/class_ext_1_1_net_1_1_tree_store_base_1_1_builder.html", null ],
     [ "Ext.Net.ViewItem.Builder< TViewItem, TBuilder >", "d8/d1e/class_ext_1_1_net_1_1_view_item_1_1_builder.html", null ],
     [ "Ext.Net.XTemplate.Builder", "dd/d61/class_ext_1_1_net_1_1_x_template_1_1_builder.html", null ],
+    [ "Ext.Net.TreePanelBase.Builder< TTreePanelBase, TBuilder >", "d4/dc8/class_ext_1_1_net_1_1_tree_panel_base_1_1_builder.html", null ],
     [ "Ext.Net.Radio.Builder< TRadio, TBuilder >", "d9/df4/class_ext_1_1_net_1_1_radio_1_1_builder.html", null ],
+    [ "Ext.Net.StoreBase.Builder< TStoreBase, TBuilder >", "db/dc7/class_ext_1_1_net_1_1_store_base_1_1_builder.html", null ],
+    [ "Ext.Net.TablePanel.Builder< TTablePanel, TBuilder >", "d9/dbc/class_ext_1_1_net_1_1_table_panel_1_1_builder.html", null ],
+    [ "Ext.Net.Tool.Builder< TTool, TBuilder >", "db/d7c/class_ext_1_1_net_1_1_tool_1_1_builder.html", null ],
+    [ "Ext.Net.AbstractChart.Builder< TAbstractChart, TBuilder >", "d2/d07/class_ext_1_1_net_1_1_abstract_chart_1_1_builder.html", null ],
+    [ "Ext.Net.AbstractContainer.Builder< TAbstractContainer, TBuilder >", "d6/d86/class_ext_1_1_net_1_1_abstract_container_1_1_builder.html", null ],
+    [ "Ext.Net.AbstractDataView.Builder< TAbstractDataView, TBuilder >", "d9/d6d/class_ext_1_1_net_1_1_abstract_data_view_1_1_builder.html", null ],
+    [ "Ext.Net.AbstractPanel.Builder< TAbstractPanel, TBuilder >", "dd/d0d/class_ext_1_1_net_1_1_abstract_panel_1_1_builder.html", null ],
+    [ "Ext.Net.AbstractComponent.Builder< TAbstractComponent, TBuilder >", "d5/d65/class_ext_1_1_net_1_1_abstract_component_1_1_builder.html", null ],
+    [ "Ext.Net.AbstractStore.Builder< TAbstractStore, TBuilder >", "dc/dc7/class_ext_1_1_net_1_1_abstract_store_1_1_builder.html", null ],
+    [ "Ext.Net.AbstractTabPanel.Builder< TAbstractTabPanel, TBuilder >", "dc/d70/class_ext_1_1_net_1_1_abstract_tab_panel_1_1_builder.html", null ],
     [ "Builder", null, [
       [ "Ext.Net.CommandFill.Builder< TCommandFill, TBuilder >", "db/d69/class_ext_1_1_net_1_1_command_fill_1_1_builder.html", null ],
       [ "Ext.Net.CommandSeparator.Builder< TCommandSeparator, TBuilder >", "d4/de0/class_ext_1_1_net_1_1_command_separator_1_1_builder.html", null ],
       [ "Ext.Net.CommandSpacer.Builder< TCommandSpacer, TBuilder >", "d6/dec/class_ext_1_1_net_1_1_command_spacer_1_1_builder.html", null ]
     ] ],
-    [ "Ext.Net.StoreBase.Builder< TStoreBase, TBuilder >", "db/dc7/class_ext_1_1_net_1_1_store_base_1_1_builder.html", null ],
-    [ "Ext.Net.TablePanel.Builder< TTablePanel, TBuilder >", "d9/dbc/class_ext_1_1_net_1_1_table_panel_1_1_builder.html", null ],
-    [ "Ext.Net.Tool.Builder< TTool, TBuilder >", "db/d7c/class_ext_1_1_net_1_1_tool_1_1_builder.html", null ],
-    [ "Ext.Net.AbstractChart.Builder< TAbstractChart, TBuilder >", "d2/d07/class_ext_1_1_net_1_1_abstract_chart_1_1_builder.html", null ],
-    [ "Ext.Net.AbstractComponent.Builder< TAbstractComponent, TBuilder >", "d5/d65/class_ext_1_1_net_1_1_abstract_component_1_1_builder.html", null ],
-    [ "Ext.Net.AbstractContainer.Builder< TAbstractContainer, TBuilder >", "d6/d86/class_ext_1_1_net_1_1_abstract_container_1_1_builder.html", null ],
-    [ "Ext.Net.AbstractDataView.Builder< TAbstractDataView, TBuilder >", "d9/d6d/class_ext_1_1_net_1_1_abstract_data_view_1_1_builder.html", null ],
-    [ "Ext.Net.AbstractPanel.Builder< TAbstractPanel, TBuilder >", "dd/d0d/class_ext_1_1_net_1_1_abstract_panel_1_1_builder.html", null ],
-    [ "Ext.Net.AbstractStore.Builder< TAbstractStore, TBuilder >", "dc/dc7/class_ext_1_1_net_1_1_abstract_store_1_1_builder.html", null ],
-    [ "Ext.Net.AbstractTabPanel.Builder< TAbstractTabPanel, TBuilder >", "dc/d70/class_ext_1_1_net_1_1_abstract_tab_panel_1_1_builder.html", null ],
     [ "Ext.Net.ActionColumn.Builder< TActionColumn, TBuilder >", "d8/dc3/class_ext_1_1_net_1_1_action_column_1_1_builder.html", null ],
     [ "Ext.Net.Axis.Builder< TAxis, TBuilder >", "da/d28/class_ext_1_1_net_1_1_axis_1_1_builder.html", null ],
     [ "Ext.Net.BaseItem.Builder< TItem, TBuilder >", "d3/d9a/class_ext_1_1_net_1_1_base_item_1_1_builder.html", [
@@ -519,6 +523,9 @@ var hierarchy =
     [ "Ext.Net.Plugin.Builder< TCapsLockDetector, TBuilder >", "d1/d66/class_ext_1_1_net_1_1_plugin_1_1_builder.html", [
       [ "Ext.Net.CapsLockDetector.Builder< TCapsLockDetector, TBuilder >", "d8/d59/class_ext_1_1_net_1_1_caps_lock_detector_1_1_builder.html", null ]
     ] ],
+    [ "Ext.Net.BaseItem.Builder< TCaptionTextSprite, TBuilder >", "d3/d9a/class_ext_1_1_net_1_1_base_item_1_1_builder.html", [
+      [ "Ext.Net.CaptionTextSprite.Builder< TCaptionTextSprite, TBuilder >", "d9/d66/class_ext_1_1_net_1_1_caption_text_sprite_1_1_builder.html", null ]
+    ] ],
     [ "Ext.Net.AbstractChart.Builder< TCartesianChart, TBuilder >", "d2/d07/class_ext_1_1_net_1_1_abstract_chart_1_1_builder.html", [
       [ "Ext.Net.CartesianChart.Builder< TCartesianChart, TBuilder >", "de/d79/class_ext_1_1_net_1_1_cartesian_chart_1_1_builder.html", null ]
     ] ],
@@ -547,6 +554,16 @@ var hierarchy =
     ] ],
     [ "Ext.Net.BaseItem.Builder< TChartCalloutLine, TBuilder >", "d3/d9a/class_ext_1_1_net_1_1_base_item_1_1_builder.html", [
       [ "Ext.Net.ChartCalloutLine.Builder< TChartCalloutLine, TBuilder >", "d4/db1/class_ext_1_1_net_1_1_chart_callout_line_1_1_builder.html", null ]
+    ] ],
+    [ "Ext.Net.BaseItem.Builder< TChartCaption, TBuilder >", "d3/d9a/class_ext_1_1_net_1_1_base_item_1_1_builder.html", [
+      [ "Ext.Net.ChartCaption.Builder< TChartCaption, TBuilder >", "d1/d1c/class_ext_1_1_net_1_1_chart_caption_1_1_builder.html", null ]
+    ] ],
+    [ "Ext.Net.ChartCaption.Builder< TChartCaptionItem, TBuilder >", "d1/d1c/class_ext_1_1_net_1_1_chart_caption_1_1_builder.html", [
+      [ "Ext.Net.ChartCaptionItem.Builder< TChartCaptionItem, TBuilder >", "d1/dcd/class_ext_1_1_net_1_1_chart_caption_item_1_1_builder.html", null ]
+    ] ],
+    [ "Ext.Net.BaseItem.Builder< TChartCaptions, TBuilder >", "d3/d9a/class_ext_1_1_net_1_1_base_item_1_1_builder.html", [
+      [ "Ext.Net.ChartCaptions.Builder< TChartCaptions, TBuilder >", "da/d10/class_ext_1_1_net_1_1_chart_captions_1_1_builder.html", null ],
+      [ "Ext.Net.ChartCaptions.Builder< TChartCaptions, TBuilder >", "da/d10/class_ext_1_1_net_1_1_chart_captions_1_1_builder.html", null ]
     ] ],
     [ "Ext.Net.DataView.Builder< TChartDomLegend, TBuilder >", "d0/dee/class_ext_1_1_net_1_1_data_view_1_1_builder.html", [
       [ "Ext.Net.ChartDomLegend.Builder< TChartDomLegend, TBuilder >", "d2/d39/class_ext_1_1_net_1_1_chart_dom_legend_1_1_builder.html", null ]
@@ -1090,6 +1107,9 @@ var hierarchy =
     ] ],
     [ "Ext.Net.Observable.Builder< TLazyObservable, TBuilder >", "dd/d0c/class_ext_1_1_net_1_1_observable_1_1_builder.html", [
       [ "Ext.Net.LazyObservable.Builder< TLazyObservable, TBuilder >", "dc/dba/class_ext_1_1_net_1_1_lazy_observable_1_1_builder.html", null ]
+    ] ],
+    [ "Ext.Net.BaseItem.Builder< TLegendSpriteMarker, TBuilder >", "d3/d9a/class_ext_1_1_net_1_1_base_item_1_1_builder.html", [
+      [ "Ext.Net.LegendSpriteMarker.Builder< TLegendSpriteMarker, TBuilder >", "d0/de5/class_ext_1_1_net_1_1_legend_sprite_marker_1_1_builder.html", null ]
     ] ],
     [ "Ext.Net.AbstractStore.Builder< TLegendStore, TBuilder >", "dc/dc7/class_ext_1_1_net_1_1_abstract_store_1_1_builder.html", [
       [ "Ext.Net.LegendStore.Builder< TLegendStore, TBuilder >", "d4/df4/class_ext_1_1_net_1_1_legend_store_1_1_builder.html", null ]
@@ -2477,7 +2497,12 @@ var hierarchy =
           [ "Ext.Net.PropertyGridParameter.Config", "d6/db4/class_ext_1_1_net_1_1_property_grid_parameter_1_1_config.html", null ]
         ] ],
         [ "Ext.Net.ButtonLoadingState.Config", "d9/d1f/class_ext_1_1_net_1_1_button_loading_state_1_1_config.html", null ],
+        [ "Ext.Net.CaptionTextSprite.Config", "d8/dc9/class_ext_1_1_net_1_1_caption_text_sprite_1_1_config.html", null ],
         [ "Ext.Net.ChartCalloutLine.Config", "d5/d72/class_ext_1_1_net_1_1_chart_callout_line_1_1_config.html", null ],
+        [ "Ext.Net.ChartCaption.Config", "dc/dde/class_ext_1_1_net_1_1_chart_caption_1_1_config.html", [
+          [ "Ext.Net.ChartCaptionItem.Config", "d5/df9/class_ext_1_1_net_1_1_chart_caption_item_1_1_config.html", null ]
+        ] ],
+        [ "Ext.Net.ChartCaptions.Config", "d5/d5c/class_ext_1_1_net_1_1_chart_captions_1_1_config.html", null ],
         [ "Ext.Net.ChildElement.Config", "d5/d42/class_ext_1_1_net_1_1_child_element_1_1_config.html", null ],
         [ "Ext.Net.CommandMenu.Config", "db/dbd/class_ext_1_1_net_1_1_command_menu_1_1_config.html", null ],
         [ "Ext.Net.CrosshairAxes.Config", "d1/d3f/class_ext_1_1_net_1_1_crosshair_axes_1_1_config.html", null ],
@@ -2526,6 +2551,7 @@ var hierarchy =
         [ "Ext.Net.KeyBinding.Config", "d1/dc0/class_ext_1_1_net_1_1_key_binding_1_1_config.html", null ],
         [ "Ext.Net.KeyBindItem.Config", "d5/d74/class_ext_1_1_net_1_1_key_bind_item_1_1_config.html", null ],
         [ "Ext.Net.Labelable.Config", "d5/d78/class_ext_1_1_net_1_1_labelable_1_1_config.html", null ],
+        [ "Ext.Net.LegendSpriteMarker.Config", "db/df5/class_ext_1_1_net_1_1_legend_sprite_marker_1_1_config.html", null ],
         [ "Ext.Net.ListItem.Config", "da/d24/class_ext_1_1_net_1_1_list_item_1_1_config.html", [
           [ "Ext.Net.Tag.Config", "d4/d96/class_ext_1_1_net_1_1_tag_1_1_config.html", null ]
         ] ],
@@ -3020,8 +3046,13 @@ var hierarchy =
         ] ],
         [ "Ext.Net.Box", "d4/de7/class_ext_1_1_net_1_1_box.html", null ],
         [ "Ext.Net.ButtonLoadingState", "db/d95/class_ext_1_1_net_1_1_button_loading_state.html", null ],
+        [ "Ext.Net.CaptionTextSprite", "da/dbb/class_ext_1_1_net_1_1_caption_text_sprite.html", null ],
         [ "Ext.Net.CellEditorOptions", "da/dc5/class_ext_1_1_net_1_1_cell_editor_options.html", null ],
         [ "Ext.Net.ChartCalloutLine", "d1/dab/class_ext_1_1_net_1_1_chart_callout_line.html", null ],
+        [ "Ext.Net.ChartCaption", "d9/d83/class_ext_1_1_net_1_1_chart_caption.html", [
+          [ "Ext.Net.ChartCaptionItem", "d7/de1/class_ext_1_1_net_1_1_chart_caption_item.html", null ]
+        ] ],
+        [ "Ext.Net.ChartCaptions", "de/dbc/class_ext_1_1_net_1_1_chart_captions.html", null ],
         [ "Ext.Net.ChildElement", "d7/d4d/class_ext_1_1_net_1_1_child_element.html", null ],
         [ "Ext.Net.CommandMenu", "d5/dfb/class_ext_1_1_net_1_1_command_menu.html", null ],
         [ "Ext.Net.ComponentDirectEvents", "d2/d75/class_ext_1_1_net_1_1_component_direct_events.html", [
@@ -3398,6 +3429,7 @@ var hierarchy =
           [ "Ext.Net.FormLayoutConfig", "d0/dd0/class_ext_1_1_net_1_1_form_layout_config.html", null ],
           [ "Ext.Net.TableLayoutConfig", "da/d3c/class_ext_1_1_net_1_1_table_layout_config.html", null ]
         ] ],
+        [ "Ext.Net.LegendSpriteMarker", "db/d64/class_ext_1_1_net_1_1_legend_sprite_marker.html", null ],
         [ "Ext.Net.ListItem", "d8/d49/class_ext_1_1_net_1_1_list_item.html", [
           [ "Ext.Net.Tag", "dd/d27/class_ext_1_1_net_1_1_tag.html", null ]
         ] ],
@@ -3497,6 +3529,10 @@ var hierarchy =
       [ "Ext.Net.ActionRef", "da/dc6/class_ext_1_1_net_1_1_action_ref.html", null ],
       [ "Ext.Net.App", "d5/d16/class_ext_1_1_net_1_1_app.html", null ],
       [ "Ext.Net.BoundList", "d6/d0d/class_ext_1_1_net_1_1_bound_list.html", null ],
+      [ "Ext.Net.CaptionTextSprite", "da/dbb/class_ext_1_1_net_1_1_caption_text_sprite.html", null ],
+      [ "Ext.Net.ChartCaption", "d9/d83/class_ext_1_1_net_1_1_chart_caption.html", null ],
+      [ "Ext.Net.ChartCaptionCollection", "dd/db4/class_ext_1_1_net_1_1_chart_caption_collection.html", null ],
+      [ "Ext.Net.ChartCaptions", "de/dbc/class_ext_1_1_net_1_1_chart_captions.html", null ],
       [ "Ext.Net.ChartTheme", "df/d91/class_ext_1_1_net_1_1_chart_theme.html", null ],
       [ "Ext.Net.ComponentDragger", "d2/dc3/class_ext_1_1_net_1_1_component_dragger.html", null ],
       [ "Ext.Net.DesktopModuleProxy", "dd/d0b/class_ext_1_1_net_1_1_desktop_module_proxy.html", null ],
@@ -3844,6 +3880,7 @@ var hierarchy =
       [ "Ext.Net.ExtJsonConverter", "d4/d90/class_ext_1_1_net_1_1_ext_json_converter.html", [
         [ "Ext.Net.AutoLoadParamsJsonConverter", "dc/dbc/class_ext_1_1_net_1_1_auto_load_params_json_converter.html", null ],
         [ "Ext.Net.BoolArrayJsonConverter", "d3/d77/class_ext_1_1_net_1_1_bool_array_json_converter.html", null ],
+        [ "Ext.Net.ChartCaptionJsonConverter", "d6/d1e/class_ext_1_1_net_1_1_chart_caption_json_converter.html", null ],
         [ "Ext.Net.ConfigBagJsonConverter", "dd/df7/class_ext_1_1_net_1_1_config_bag_json_converter.html", null ],
         [ "Ext.Net.CtorDateTimeJsonConverter", "da/d3e/class_ext_1_1_net_1_1_ctor_date_time_json_converter.html", null ],
         [ "Ext.Net.CustomConfigJsonConverter", "d2/d14/class_ext_1_1_net_1_1_custom_config_json_converter.html", null ],

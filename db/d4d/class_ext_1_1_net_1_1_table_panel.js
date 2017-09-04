@@ -60,6 +60,7 @@ var class_ext_1_1_net_1_1_table_panel =
     [ "MultiColumnSort", "db/d4d/class_ext_1_1_net_1_1_table_panel.html#a9e3b7feadc3b3adc9b6219a11bf62289", null ],
     [ "MultiSelect", "db/d4d/class_ext_1_1_net_1_1_table_panel.html#a271d984aab9df87d404d7410a6bbf24d", null ],
     [ "NumberFromEdge", "db/d4d/class_ext_1_1_net_1_1_table_panel.html#aba6d8eebb29062f748f0ae0c47aa89c1", null ],
+    [ "PreciseHeight", "db/d4d/class_ext_1_1_net_1_1_table_panel.html#ac2ec902325925aec1b29cad2d83c3fb7", null ],
     [ "Record", "db/d4d/class_ext_1_1_net_1_1_table_panel.html#a3e1795ab9a89b3af90d43b6637910b6c", null ],
     [ "ReserveScrollbar", "db/d4d/class_ext_1_1_net_1_1_table_panel.html#a648d4a5a2e66a60404f5e347638d1871", null ],
     [ "RowLines", "db/d4d/class_ext_1_1_net_1_1_table_panel.html#a2d442174e56f30caab8c7de89200c4e6", null ],

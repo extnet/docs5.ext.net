@@ -19,6 +19,7 @@ var class_ext_1_1_net_1_1_chart_sprite_legend =
     [ "ConfigOptions", "d0/d97/class_ext_1_1_net_1_1_chart_sprite_legend.html#a43a76988a04cfb6d8f456d464d2db79f", null ],
     [ "Docked", "d0/d97/class_ext_1_1_net_1_1_chart_sprite_legend.html#ad498b8fdd5818b3fd06a7c5d75578f18", null ],
     [ "InstanceOf", "d0/d97/class_ext_1_1_net_1_1_chart_sprite_legend.html#a9380cc6210bf4244b0360f87a7f47e83", null ],
+    [ "Marker", "d0/d97/class_ext_1_1_net_1_1_chart_sprite_legend.html#af0f6f7a9c24f4010a577091e2f14d61d", null ],
     [ "Padding", "d0/d97/class_ext_1_1_net_1_1_chart_sprite_legend.html#a6b31e44957084d6004346a02cd833854", null ],
     [ "Store", "d0/d97/class_ext_1_1_net_1_1_chart_sprite_legend.html#aa80a9366cd15b3852c42c51e55815c04", null ],
     [ "Toggleable", "d0/d97/class_ext_1_1_net_1_1_chart_sprite_legend.html#ad69df9f07e9020ccfc33839aa27c8741", null ],

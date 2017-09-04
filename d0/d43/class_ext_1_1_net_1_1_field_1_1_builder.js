@@ -7,6 +7,8 @@ var class_ext_1_1_net_1_1_field_1_1_builder =
     [ "AfterLabelTpl", "d0/d43/class_ext_1_1_net_1_1_field_1_1_builder.html#a1c7ab2ff7f3dede5bf6d73dd3b2153fd", null ],
     [ "AfterSubTpl", "d0/d43/class_ext_1_1_net_1_1_field_1_1_builder.html#aeb46c68472cd8c6a19577636c712b31c", null ],
     [ "AlignIndicator", "d0/d43/class_ext_1_1_net_1_1_field_1_1_builder.html#a3658b0ed45de2fcb8c0a51a32ab8eb0c", null ],
+    [ "AriaErrorText", "d0/d43/class_ext_1_1_net_1_1_field_1_1_builder.html#a24c349469ec64b37bacf217730d66a35", null ],
+    [ "AriaHelp", "d0/d43/class_ext_1_1_net_1_1_field_1_1_builder.html#a9450d5140b729e90755e89ebcdeae0a4", null ],
     [ "AutoFitErrors", "d0/d43/class_ext_1_1_net_1_1_field_1_1_builder.html#a5e35d9386d7eb3f7565b2bdf8663a96d", null ],
     [ "AutoPostBack", "d0/d43/class_ext_1_1_net_1_1_field_1_1_builder.html#ad5d1dda7e8cf0591775047634d28b1d0", null ],
     [ "BaseBodyCls", "d0/d43/class_ext_1_1_net_1_1_field_1_1_builder.html#a599950a60d71b8d678d5468cfbcc2676", null ],

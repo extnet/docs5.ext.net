@@ -29,6 +29,7 @@ var searchData=
   ['select',['Select',['../dc/d3f/namespace_ext_1_1_net.html#a330e84b4f93b1cea4e9d5467cb9b91e3ae0626222614bdee31951d84c64e5e9ff',1,'Ext.Net.Select()'],['../dc/d3f/namespace_ext_1_1_net.html#a6f9cd0d1152a29366032fd6607bdf7d8ae0626222614bdee31951d84c64e5e9ff',1,'Ext.Net.Select()']]],
   ['selection',['Selection',['../dc/d3f/namespace_ext_1_1_net.html#ab4c6c670f242916a65caf2152cf0e44ba6ff9dd0d34f65181173c1e4bc39939de',1,'Ext::Net']]],
   ['serialize',['Serialize',['../dc/d3f/namespace_ext_1_1_net.html#aa721f05b31f3194aa39eab46aff4f5dea32a7aaf47c67e07f529ea3feea00dec9',1,'Ext::Net']]],
+  ['series',['Series',['../dc/d3f/namespace_ext_1_1_net.html#af494f4839c964559a769b8a76d1bab52a9d948e617b083222afc868add2f50ec2',1,'Ext::Net']]],
   ['server',['Server',['../dc/d3f/namespace_ext_1_1_net.html#ad3003f93fdaa279e67edd364eea1ec6ba9aa1b03934893d7134a660af4204f2a9',1,'Ext::Net']]],
   ['serveradd',['ServerAdd',['../dc/d3f/namespace_ext_1_1_net.html#ad3003f93fdaa279e67edd364eea1ec6bad8c1dcbab9ed57f5c7eb71268abc759c',1,'Ext::Net']]],
   ['serverchart',['ServerChart',['../dc/d3f/namespace_ext_1_1_net.html#ad3003f93fdaa279e67edd364eea1ec6ba88722175054d83324c4067332c6259a9',1,'Ext::Net']]],

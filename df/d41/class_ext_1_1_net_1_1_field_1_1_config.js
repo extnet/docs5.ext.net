@@ -5,6 +5,8 @@ var class_ext_1_1_net_1_1_field_1_1_config =
     [ "AfterLabelTextTpl", "df/d41/class_ext_1_1_net_1_1_field_1_1_config.html#a2c93ef0198112dddc16f645bce0c133c", null ],
     [ "AfterLabelTpl", "df/d41/class_ext_1_1_net_1_1_field_1_1_config.html#a8a866290532187d1f7a42d3d667447dd", null ],
     [ "AfterSubTpl", "df/d41/class_ext_1_1_net_1_1_field_1_1_config.html#af9addab616469c837604c021582e731e", null ],
+    [ "AriaErrorText", "df/d41/class_ext_1_1_net_1_1_field_1_1_config.html#ae68dbadc8456dcb1de3c53e715b156de", null ],
+    [ "AriaHelp", "df/d41/class_ext_1_1_net_1_1_field_1_1_config.html#a8c8f5cc5d66fbe7c1f60dfbe833b70f4", null ],
     [ "AutoFitErrors", "df/d41/class_ext_1_1_net_1_1_field_1_1_config.html#adf0a45ea390d0021b844385ba447865a", null ],
     [ "AutoPostBack", "df/d41/class_ext_1_1_net_1_1_field_1_1_config.html#a178c6c3e267b1db1c3e61c725ae206dc", null ],
     [ "BaseBodyCls", "df/d41/class_ext_1_1_net_1_1_field_1_1_config.html#aba97bc7f33b577070d2715cec9bf145b", null ],

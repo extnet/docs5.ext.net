@@ -4,6 +4,8 @@ var class_ext_1_1_net_1_1_abstract_chart_1_1_config =
     [ "AnimationConfig", "d4/d75/class_ext_1_1_net_1_1_abstract_chart_1_1_config.html#a8fa53ece10cd60a0f02481f0058010d1", null ],
     [ "Axes", "d4/d75/class_ext_1_1_net_1_1_abstract_chart_1_1_config.html#aa55b90174ab431d8e1bd39a404c4cf31", null ],
     [ "Background", "d4/d75/class_ext_1_1_net_1_1_abstract_chart_1_1_config.html#afd7baf564a58a5968c5002fc5a059d07", null ],
+    [ "Captions", "d4/d75/class_ext_1_1_net_1_1_abstract_chart_1_1_config.html#ae46788b38bc00f18e1f9e33fa2588fdc", null ],
+    [ "CaptionsObject", "d4/d75/class_ext_1_1_net_1_1_abstract_chart_1_1_config.html#ad017845b5b08f3d74ee425dd0f89440c", null ],
     [ "Colors", "d4/d75/class_ext_1_1_net_1_1_abstract_chart_1_1_config.html#a4a2272ac0d29523501dd2e2d8de16683", null ],
     [ "InsetPadding", "d4/d75/class_ext_1_1_net_1_1_abstract_chart_1_1_config.html#a7021421ffd7d53c14471eeb49e4da80c", null ],
     [ "InsetPaddingSpec", "d4/d75/class_ext_1_1_net_1_1_abstract_chart_1_1_config.html#aa52899d6f8c580ef91a08fab88253166", null ],

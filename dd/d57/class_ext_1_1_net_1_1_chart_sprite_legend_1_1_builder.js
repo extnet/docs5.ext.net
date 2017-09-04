@@ -8,6 +8,7 @@ var class_ext_1_1_net_1_1_chart_sprite_legend_1_1_builder =
     [ "Border", "dd/d57/class_ext_1_1_net_1_1_chart_sprite_legend_1_1_builder.html#a3e1a892e3e33b05d28c9d326f8d84f17", null ],
     [ "Chart", "dd/d57/class_ext_1_1_net_1_1_chart_sprite_legend_1_1_builder.html#a8f81c52f7a382b30bd446aed3a95f710", null ],
     [ "Docked", "dd/d57/class_ext_1_1_net_1_1_chart_sprite_legend_1_1_builder.html#a3c5d559daf6bd2aa988900c0c6a637bc", null ],
+    [ "Marker", "dd/d57/class_ext_1_1_net_1_1_chart_sprite_legend_1_1_builder.html#a9c0efc682218e6bf5dd90982fcdfd64b", null ],
     [ "Padding", "dd/d57/class_ext_1_1_net_1_1_chart_sprite_legend_1_1_builder.html#ab4b44196cc22976e763f1680fc740a06", null ],
     [ "SetBackground", "dd/d57/class_ext_1_1_net_1_1_chart_sprite_legend_1_1_builder.html#a3f7c9036563acecff153d63b3d21ce0a", null ],
     [ "SetBorder", "dd/d57/class_ext_1_1_net_1_1_chart_sprite_legend_1_1_builder.html#a826800279ba166b69e3c18f67b573bcd", null ],

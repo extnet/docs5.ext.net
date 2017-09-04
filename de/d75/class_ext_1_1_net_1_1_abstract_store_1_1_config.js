@@ -19,6 +19,7 @@ var class_ext_1_1_net_1_1_abstract_store_1_1_config =
     [ "PageSize", "de/d75/class_ext_1_1_net_1_1_abstract_store_1_1_config.html#adfdc70efff04eb7a18a596ff0ab9cd0a", null ],
     [ "Parameters", "de/d75/class_ext_1_1_net_1_1_abstract_store_1_1_config.html#aa305aba8142cdd4ecaeb6809911ad0a8", null ],
     [ "Proxy", "de/d75/class_ext_1_1_net_1_1_abstract_store_1_1_config.html#adefcb427105170f2916417c18fe69a94", null ],
+    [ "ReloadOnClearSorters", "de/d75/class_ext_1_1_net_1_1_abstract_store_1_1_config.html#aa05a839d1c3257b5127af7ec80652258", null ],
     [ "RemoteFilter", "de/d75/class_ext_1_1_net_1_1_abstract_store_1_1_config.html#ad09dc98c6dd20ef943607a155953d3b2", null ],
     [ "RemoteSort", "de/d75/class_ext_1_1_net_1_1_abstract_store_1_1_config.html#ac94b87e7b692b5f55cdb30bcc4250f1a", null ],
     [ "ServerProxy", "de/d75/class_ext_1_1_net_1_1_abstract_store_1_1_config.html#a5baaee685597853f4860ecfa969178fd", null ],
