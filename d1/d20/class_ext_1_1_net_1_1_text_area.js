@@ -13,7 +13,7 @@ var class_ext_1_1_net_1_1_text_area =
     [ "DirectChange", "d1/d20/class_ext_1_1_net_1_1_text_area.html#ae59b05d565dce1e6e1ebc464fc1db9de", null ],
     [ "DirectEvents", "d1/d20/class_ext_1_1_net_1_1_text_area.html#ace8c602cff4929704c2384f71df761fa", null ],
     [ "EnterIsSpecial", "d1/d20/class_ext_1_1_net_1_1_text_area.html#aa9a82dca40c1c9d70bdb4386ea0b9c8a", null ],
-    [ "GrowAppend", "d1/d20/class_ext_1_1_net_1_1_text_area.html#a8186fcff216f6354a86a6b5c3ad8a74d", null ],
+    [ "GrowAppend", "d1/d20/class_ext_1_1_net_1_1_text_area.html#afa9959020739750939275d2a288fe487", null ],
     [ "GrowMax", "d1/d20/class_ext_1_1_net_1_1_text_area.html#a11e89f526e9f2a6f43b43ab240173e71", null ],
     [ "GrowMin", "d1/d20/class_ext_1_1_net_1_1_text_area.html#a4682de61534b5a2cde84c6339a1960ad", null ],
     [ "InstanceOf", "d1/d20/class_ext_1_1_net_1_1_text_area.html#a371cd8d95fa1ec2abb143a90cef9fe6e", null ],

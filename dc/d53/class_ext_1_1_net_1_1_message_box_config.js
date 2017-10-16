@@ -16,6 +16,7 @@ var class_ext_1_1_net_1_1_message_box_config =
     [ "Icon", "dc/d53/class_ext_1_1_net_1_1_message_box_config.html#a779dec651fbe7a51356409a5eb2da596", null ],
     [ "IconCls", "dc/d53/class_ext_1_1_net_1_1_message_box_config.html#a9a6fadc915353303af46d50f9f679a73", null ],
     [ "IconProxy", "dc/d53/class_ext_1_1_net_1_1_message_box_config.html#a8c6805091d0d1761e8fd98d75cc3a8b7", null ],
+    [ "MaskClickAction", "dc/d53/class_ext_1_1_net_1_1_message_box_config.html#a6056acd6a385bc5aeb247d74236cbd50", null ],
     [ "MaxWidth", "dc/d53/class_ext_1_1_net_1_1_message_box_config.html#ac023c172a4bd47c33bfd5df67d2b2adc", null ],
     [ "Message", "dc/d53/class_ext_1_1_net_1_1_message_box_config.html#ab98805a8e47432ce3da30cdab7c3fa57", null ],
     [ "MessageBoxButtonsConfig", "dc/d53/class_ext_1_1_net_1_1_message_box_config.html#a2d80cdf37418f18ab54ac57351a29435", null ],
