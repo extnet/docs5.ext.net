@@ -45,6 +45,7 @@ var class_ext_1_1_net_1_1_date_field_base =
     [ "SubmitFormatProxy", "da/dab/class_ext_1_1_net_1_1_date_field_base.html#ad1b5a9ce4de236406840785b2218feae", null ],
     [ "Type", "da/dab/class_ext_1_1_net_1_1_date_field_base.html#ae4dc25ac2b2a081574fb3ae43e711ecd", null ],
     [ "UseStrict", "da/dab/class_ext_1_1_net_1_1_date_field_base.html#a8df09c1473536d3f36a8f4d671c886ca", null ],
+    [ "ValidateOnFocusLeave", "da/dab/class_ext_1_1_net_1_1_date_field_base.html#a8817aef7da23a952d20cddb9ac36edba", null ],
     [ "Value", "da/dab/class_ext_1_1_net_1_1_date_field_base.html#a7cc18bfff5d9c52a3119202463577603", null ],
     [ "ValueProxy", "da/dab/class_ext_1_1_net_1_1_date_field_base.html#a41d98abe9d7f4807a00ff8adeb704b00", null ]
 ];

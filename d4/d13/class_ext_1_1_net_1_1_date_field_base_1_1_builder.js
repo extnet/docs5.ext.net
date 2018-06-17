@@ -27,5 +27,6 @@ var class_ext_1_1_net_1_1_date_field_base_1_1_builder =
     [ "StartDay", "d4/d13/class_ext_1_1_net_1_1_date_field_base_1_1_builder.html#a074117a99db47fb8665170420a51d13e", null ],
     [ "SubmitFormat", "d4/d13/class_ext_1_1_net_1_1_date_field_base_1_1_builder.html#a7144a411f5fe39b097766cf91722132a", null ],
     [ "Type", "d4/d13/class_ext_1_1_net_1_1_date_field_base_1_1_builder.html#ad0044dbfa76e156e775c7fd896a744ab", null ],
-    [ "UseStrict", "d4/d13/class_ext_1_1_net_1_1_date_field_base_1_1_builder.html#abff60fac134ca247553e7dd62af8f246", null ]
+    [ "UseStrict", "d4/d13/class_ext_1_1_net_1_1_date_field_base_1_1_builder.html#abff60fac134ca247553e7dd62af8f246", null ],
+    [ "ValidateOnFocusLeave", "d4/d13/class_ext_1_1_net_1_1_date_field_base_1_1_builder.html#ace5c3802a51f04ee4bcf7960887aab10", null ]
 ];

@@ -25,5 +25,6 @@ var class_ext_1_1_net_1_1_date_field_base_1_1_config =
     [ "StartDay", "d9/dd4/class_ext_1_1_net_1_1_date_field_base_1_1_config.html#a81c0cd9fa498b4ebc67552f1c932964a", null ],
     [ "SubmitFormat", "d9/dd4/class_ext_1_1_net_1_1_date_field_base_1_1_config.html#a238ff8c737ca13b8d4e1d13eda30e646", null ],
     [ "Type", "d9/dd4/class_ext_1_1_net_1_1_date_field_base_1_1_config.html#a51aa48f7f8b4cc5a16253cdf23e0ee31", null ],
-    [ "UseStrict", "d9/dd4/class_ext_1_1_net_1_1_date_field_base_1_1_config.html#a4969b76d457baf3666f9ab9824361a7f", null ]
+    [ "UseStrict", "d9/dd4/class_ext_1_1_net_1_1_date_field_base_1_1_config.html#a4969b76d457baf3666f9ab9824361a7f", null ],
+    [ "ValidateOnFocusLeave", "d9/dd4/class_ext_1_1_net_1_1_date_field_base_1_1_config.html#a0d9d1816fcc246e152c52e1349605165", null ]
 ];
