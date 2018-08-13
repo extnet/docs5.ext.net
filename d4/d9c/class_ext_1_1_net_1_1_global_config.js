@@ -15,6 +15,7 @@ var class_ext_1_1_net_1_1_global_config =
     [ "EnableAria", "d4/d9c/class_ext_1_1_net_1_1_global_config.html#adb5a569467f872fc1663153181c2d83f", null ],
     [ "EnableAriaButtons", "d4/d9c/class_ext_1_1_net_1_1_global_config.html#abda5319bc24b6cc405192d1c86a614e8", null ],
     [ "EnableAriaPanels", "d4/d9c/class_ext_1_1_net_1_1_global_config.html#a052c3c7a547918e54e84105e04f9f30d", null ],
+    [ "EnableKeyboardMode", "d4/d9c/class_ext_1_1_net_1_1_global_config.html#ab5e6cc1cbe1f2db02adcc88b234e8472", null ],
     [ "GlyphFontFamily", "d4/d9c/class_ext_1_1_net_1_1_global_config.html#a263a1c9689152f19a68c81bcc589ce0d", null ],
     [ "GZip", "d4/d9c/class_ext_1_1_net_1_1_global_config.html#a50a46725777d452cbeb6b3d8f0827929", null ],
     [ "IDMode", "d4/d9c/class_ext_1_1_net_1_1_global_config.html#a45aad567e28ca07b33cee152c4d8ba53", null ],

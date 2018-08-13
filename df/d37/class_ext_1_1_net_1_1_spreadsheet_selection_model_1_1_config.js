@@ -11,6 +11,7 @@ var class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_config =
     [ "Extensible", "df/d37/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_config.html#a1db83e4508ff9c2e51ea81a21fc625aa", null ],
     [ "HiddenName", "df/d37/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_config.html#af545f05d20250d4ecc4ef93ddc2b9ae1", null ],
     [ "Listeners", "df/d37/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_config.html#aa2859aa1986260fae88a23f6ffde5f11", null ],
+    [ "Reducible", "df/d37/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_config.html#af3bbf466bcd0bda846a4ebc7055528ff", null ],
     [ "RowNumbererHeaderWidth", "df/d37/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_config.html#a098852811dcbb180973a8314adcb03d2", null ],
     [ "RowSelect", "df/d37/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_config.html#a34e3f6372f9e76330071639faed9d791", null ],
     [ "ShowHeaderCheckbox", "df/d37/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_config.html#ac618f0a5626e10c0787bc0c67816c4b1", null ]

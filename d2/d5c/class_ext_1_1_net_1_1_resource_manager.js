@@ -118,6 +118,7 @@ var class_ext_1_1_net_1_1_resource_manager =
     [ "EnableAria", "d2/d5c/class_ext_1_1_net_1_1_resource_manager.html#abaea638f336010e2770344a92292babb", null ],
     [ "EnableAriaButtons", "d2/d5c/class_ext_1_1_net_1_1_resource_manager.html#a7c6dbfdae2668be2736f0cca05b99b72", null ],
     [ "EnableAriaPanels", "d2/d5c/class_ext_1_1_net_1_1_resource_manager.html#a1c331491a2e0b8d69c574b924c03dfd6", null ],
+    [ "EnableKeyboardMode", "d2/d5c/class_ext_1_1_net_1_1_resource_manager.html#a830bfba4830a497896420a5637bbacd1", null ],
     [ "ExcludeFromLazyInit", "d2/d5c/class_ext_1_1_net_1_1_resource_manager.html#addcfc6ea9018bb187cd1031099a7582f", null ],
     [ "FormID", "d2/d5c/class_ext_1_1_net_1_1_resource_manager.html#a82813753777081a5052e99aac388a817", null ],
     [ "FormIDProxy", "d2/d5c/class_ext_1_1_net_1_1_resource_manager.html#a63b6573742785db1148250830a37ceac", null ],

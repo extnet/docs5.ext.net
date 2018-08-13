@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Ext.NET
-   &#160;<span id="projectnumber">4.6.0</span>
+   &#160;<span id="projectnumber">4.7.0</span>
    </div>
    <div id="projectbrief">.NET Component Framework for Enterprise Level Apps</div>
   </td>
@@ -136,6 +136,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a9cb602d3f303e758aabb0ccefdaf5ae6"><td class="memItemLeft" align="right" valign="top">virtual TBuilder&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d08/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_builder.html#a9cb602d3f303e758aabb0ccefdaf5ae6">Extensible</a> (<a class="el" href="../../dc/d3f/namespace_ext_1_1_net.html#a70f56f10eac67a07d3b9a45f6a253342">SpreadsheetExtensible</a> extensible)</td></tr>
 <tr class="memdesc:a9cb602d3f303e758aabb0ccefdaf5ae6"><td class="mdescLeft">&#160;</td><td class="mdescRight">This configures whether this selection model is to implement a mouse based dragging gesture to extend a contiguous selection.  <a href="#a9cb602d3f303e758aabb0ccefdaf5ae6">More...</a><br /></td></tr>
 <tr class="separator:a9cb602d3f303e758aabb0ccefdaf5ae6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2401791798255e9eb9b970aa355ba9a5"><td class="memItemLeft" align="right" valign="top">virtual TBuilder&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d08/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_builder.html#a2401791798255e9eb9b970aa355ba9a5">Reducible</a> (bool? reducible)</td></tr>
+<tr class="memdesc:a2401791798255e9eb9b970aa355ba9a5"><td class="mdescLeft">&#160;</td><td class="mdescRight">This configures if the extensible config is also allowed to reduce its selection, only relevant if extensible is not false or null.  <a href="#a2401791798255e9eb9b970aa355ba9a5">More...</a><br /></td></tr>
+<tr class="separator:a2401791798255e9eb9b970aa355ba9a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acbc3d5ea7be92299a8126590aa9b87c2"><td class="memItemLeft" align="right" valign="top">virtual TBuilder&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d08/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_builder.html#acbc3d5ea7be92299a8126590aa9b87c2">RowNumbererHeaderWidth</a> (Unit rowNumbererHeaderWidth)</td></tr>
 <tr class="memdesc:acbc3d5ea7be92299a8126590aa9b87c2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Width of row numbering column.  <a href="#acbc3d5ea7be92299a8126590aa9b87c2">More...</a><br /></td></tr>
 <tr class="separator:acbc3d5ea7be92299a8126590aa9b87c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -154,6 +157,8 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a76279cf766f7aedbbeedaf38082985f8"><td class="memItemLeft" align="right" valign="top">virtual TBuilder&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d08/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_builder.html#a76279cf766f7aedbbeedaf38082985f8">DirectEvents</a> (<a class="el" href="../../da/dac/class_ext_1_1_net_1_1_action.html">Action</a>&lt; <a class="el" href="../../dd/dc5/class_ext_1_1_net_1_1_spreadsheet_selection_model_direct_events.html">SpreadsheetSelectionModelDirectEvents</a> &gt; action)</td></tr>
 <tr class="memdesc:a76279cf766f7aedbbeedaf38082985f8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Server-side Ajax Event Handlers  <a href="#a76279cf766f7aedbbeedaf38082985f8">More...</a><br /></td></tr>
 <tr class="separator:a76279cf766f7aedbbeedaf38082985f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6f052730a6aae3fe26b89cb66fd47634"><td class="memItemLeft" align="right" valign="top">virtual TBuilder&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d08/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_builder.html#a6f052730a6aae3fe26b89cb66fd47634">SetReducible</a> (bool reducible)</td></tr>
+<tr class="separator:a6f052730a6aae3fe26b89cb66fd47634"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae5c9b65c9a31c3328ccce3cccd9e6315"><td class="memItemLeft" align="right" valign="top">virtual TBuilder&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d08/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_builder.html#ae5c9b65c9a31c3328ccce3cccd9e6315">ClearSelection</a> ()</td></tr>
 <tr class="memdesc:ae5c9b65c9a31c3328ccce3cccd9e6315"><td class="mdescLeft">&#160;</td><td class="mdescRight">Clears any selection  <a href="#ae5c9b65c9a31c3328ccce3cccd9e6315">More...</a><br /></td></tr>
 <tr class="separator:ae5c9b65c9a31c3328ccce3cccd9e6315"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -1336,6 +1341,34 @@ Static Public Member Functions</h2></td></tr>
 
 </div>
 </div>
+<a id="a2401791798255e9eb9b970aa355ba9a5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2401791798255e9eb9b970aa355ba9a5">&#9670;&nbsp;</a></span>Reducible()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual TBuilder <a class="el" href="../../d9/d08/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_builder.html">Ext.Net.SpreadsheetSelectionModel.Builder</a>&lt; TSpreadsheetSelectionModel, TBuilder &gt;.Reducible </td>
+          <td>(</td>
+          <td class="paramtype">bool?&#160;</td>
+          <td class="paramname"><em>reducible</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>This configures if the extensible config is also allowed to reduce its selection, only relevant if extensible is not false or null. </p>
+
+</div>
+</div>
 <a id="acbc3d5ea7be92299a8126590aa9b87c2"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#acbc3d5ea7be92299a8126590aa9b87c2">&#9670;&nbsp;</a></span>RowNumbererHeaderWidth()</h2>
 
@@ -2117,6 +2150,34 @@ Static Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Sets the value of extensible. </p>
+
+</div>
+</div>
+<a id="a6f052730a6aae3fe26b89cb66fd47634"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6f052730a6aae3fe26b89cb66fd47634">&#9670;&nbsp;</a></span>SetReducible()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual TBuilder <a class="el" href="../../d9/d08/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_builder.html">Ext.Net.SpreadsheetSelectionModel.Builder</a>&lt; TSpreadsheetSelectionModel, TBuilder &gt;.SetReducible </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>reducible</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p></p>
 
 </div>
 </div>

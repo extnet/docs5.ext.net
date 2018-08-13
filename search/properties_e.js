@@ -47,6 +47,8 @@ var searchData=
   ['order',['Order',['../df/d83/class_ext_1_1_net_1_1_m_v_c_1_1_column_base_attribute.html#a93d55f1113c0d39d560759bd9f13c6e7',1,'Ext::Net::MVC::ColumnBaseAttribute']]],
   ['orientation',['Orientation',['../d1/de8/class_ext_1_1_net_1_1_chart_label.html#a8ac4a60b41d0aec274f443124f7e5a0b',1,'Ext.Net.ChartLabel.Orientation()'],['../d1/dbc/class_ext_1_1_net_1_1_p_d_f_options.html#a145d3176b4b8c7fc1bc2a9de554fa0a2',1,'Ext.Net.PDFOptions.Orientation()'],['../d9/df1/class_ext_1_1_net_1_1_chart_label_1_1_config.html#ac48fcafb9c0640268684cf7f6c965309',1,'Ext.Net.ChartLabel.Config.Orientation()'],['../d5/db3/class_ext_1_1_net_1_1_p_d_f_options_1_1_config.html#ad957ef7372fa55e8faa8701bfa74d25b',1,'Ext.Net.PDFOptions.Config.Orientation()']]],
   ['originalheader',['OriginalHeader',['../d5/d80/class_ext_1_1_net_1_1_accordion_layout_config.html#a61708b4f0c69e8966f4179a409a2d265',1,'Ext::Net::AccordionLayoutConfig']]],
+  ['outerradius',['OuterRadius',['../d5/dbd/class_ext_1_1_net_1_1_gauge_needle_config.html#aaa3f8a27216188d4bb751355b5bf77f6',1,'Ext::Net::GaugeNeedleConfig']]],
+  ['outerradiusspec',['OuterRadiusSpec',['../d5/dbd/class_ext_1_1_net_1_1_gauge_needle_config.html#ab3dd56cbc9a49dc87c9b890982edcedb',1,'Ext::Net::GaugeNeedleConfig']]],
   ['outlierfillcolor',['OutlierFillColor',['../d6/de1/class_ext_1_1_net_1_1_box_spark_line.html#ab5c2c58031c6bfd1040facb7b0e104e2',1,'Ext::Net::BoxSparkLine']]],
   ['outlieriqr',['OutlierIQR',['../d6/de1/class_ext_1_1_net_1_1_box_spark_line.html#a77c4073ba61af6f891962cad15bcc3ac',1,'Ext::Net::BoxSparkLine']]],
   ['outlierlinecolor',['OutlierLineColor',['../d6/de1/class_ext_1_1_net_1_1_box_spark_line.html#a81019699aa082c1ece1b56886ac5c882',1,'Ext::Net::BoxSparkLine']]],

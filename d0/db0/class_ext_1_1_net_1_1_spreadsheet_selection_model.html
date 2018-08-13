@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Ext.NET
-   &#160;<span id="projectnumber">4.6.0</span>
+   &#160;<span id="projectnumber">4.7.0</span>
    </div>
    <div id="projectbrief">.NET Component Framework for Enterprise Level Apps</div>
   </td>
@@ -132,6 +132,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:ade14f74d973dc9a2938b4a01a9cdf382"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db0/class_ext_1_1_net_1_1_spreadsheet_selection_model.html#ade14f74d973dc9a2938b4a01a9cdf382">SpreadsheetSelectionModel</a> ()</td></tr>
 <tr class="memdesc:ade14f74d973dc9a2938b4a01a9cdf382"><td class="mdescLeft">&#160;</td><td class="mdescRight">A basic constructor  <a href="#ade14f74d973dc9a2938b4a01a9cdf382">More...</a><br /></td></tr>
 <tr class="separator:ade14f74d973dc9a2938b4a01a9cdf382"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3422dbe06fe99f214eb3262fef892767"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db0/class_ext_1_1_net_1_1_spreadsheet_selection_model.html#a3422dbe06fe99f214eb3262fef892767">SetReducible</a> (bool reducible)</td></tr>
+<tr class="memdesc:a3422dbe06fe99f214eb3262fef892767"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sets the value of reducible.  <a href="#a3422dbe06fe99f214eb3262fef892767">More...</a><br /></td></tr>
+<tr class="separator:a3422dbe06fe99f214eb3262fef892767"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac595ba1b6985ccbf05561496cd74a247"><td class="memItemLeft" align="right" valign="top">override void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db0/class_ext_1_1_net_1_1_spreadsheet_selection_model.html#ac595ba1b6985ccbf05561496cd74a247">ClearSelection</a> ()</td></tr>
 <tr class="memdesc:ac595ba1b6985ccbf05561496cd74a247"><td class="mdescLeft">&#160;</td><td class="mdescRight">Clears any selection  <a href="#ac595ba1b6985ccbf05561496cd74a247">More...</a><br /></td></tr>
 <tr class="separator:ac595ba1b6985ccbf05561496cd74a247"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -776,6 +779,9 @@ Properties</h2></td></tr>
 <tr class="memitem:ab9b7dcf4673036b376ac49180da3a27b"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../dc/d3f/namespace_ext_1_1_net.html#a70f56f10eac67a07d3b9a45f6a253342">SpreadsheetExtensible</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db0/class_ext_1_1_net_1_1_spreadsheet_selection_model.html#ab9b7dcf4673036b376ac49180da3a27b">Extensible</a><code> [get, set]</code></td></tr>
 <tr class="memdesc:ab9b7dcf4673036b376ac49180da3a27b"><td class="mdescLeft">&#160;</td><td class="mdescRight">This configures whether this selection model is to implement a mouse based dragging gesture to extend a contiguous selection. Note that if there are multiple, discontiguous selected rows or columns, selection extension is not available. If set, then the bottom right corner of the contiguous selection will display a drag handle.By dragging this, an extension area may be defined into which the selection is extended. Upon the end of the drag, the BeforeSelectionExtend event will be fired though the encapsulating grid. Event handlers may manipulate the store data in any way.  <a href="#ab9b7dcf4673036b376ac49180da3a27b">More...</a><br /></td></tr>
 <tr class="separator:ab9b7dcf4673036b376ac49180da3a27b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a032c6bbd0e6d8ad3535cee968054c6cb"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db0/class_ext_1_1_net_1_1_spreadsheet_selection_model.html#a032c6bbd0e6d8ad3535cee968054c6cb">Reducible</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:a032c6bbd0e6d8ad3535cee968054c6cb"><td class="mdescLeft">&#160;</td><td class="mdescRight">This configures if the extensible config is also allowed to reduce its selection, only relevant if extensible is not false or null.  <a href="#a032c6bbd0e6d8ad3535cee968054c6cb">More...</a><br /></td></tr>
+<tr class="separator:a032c6bbd0e6d8ad3535cee968054c6cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a85439984c2c7fa39a69c88f9a8dcc908"><td class="memItemLeft" align="right" valign="top">virtual Unit&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db0/class_ext_1_1_net_1_1_spreadsheet_selection_model.html#a85439984c2c7fa39a69c88f9a8dcc908">RowNumbererHeaderWidth</a><code> [get, set]</code></td></tr>
 <tr class="memdesc:a85439984c2c7fa39a69c88f9a8dcc908"><td class="mdescLeft">&#160;</td><td class="mdescRight">Width of row numbering column.  <a href="#a85439984c2c7fa39a69c88f9a8dcc908">More...</a><br /></td></tr>
 <tr class="separator:a85439984c2c7fa39a69c88f9a8dcc908"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -2801,6 +2807,40 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
+<a id="a3422dbe06fe99f214eb3262fef892767"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3422dbe06fe99f214eb3262fef892767">&#9670;&nbsp;</a></span>SetReducible()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void Ext.Net.SpreadsheetSelectionModel.SetReducible </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>reducible</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Sets the value of reducible. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">reducible</td><td>The new value. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
 <a id="a169b371d61f489a58d45bfa958edb7ca"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a169b371d61f489a58d45bfa958edb7ca">&#9670;&nbsp;</a></span>SetRowSelect()</h2>
 
@@ -3343,6 +3383,30 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Client-side JavaScript Event Handlers </p>
+
+</div>
+</div>
+<a id="a032c6bbd0e6d8ad3535cee968054c6cb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a032c6bbd0e6d8ad3535cee968054c6cb">&#9670;&nbsp;</a></span>Reducible</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual bool Ext.Net.SpreadsheetSelectionModel.Reducible</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>This configures if the extensible config is also allowed to reduce its selection, only relevant if extensible is not false or null. </p>
 
 </div>
 </div>

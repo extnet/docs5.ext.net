@@ -1,8 +1,12 @@
 var searchData=
 [
+  ['gauge',['Gauge',['../dd/d8b/class_ext_1_1_net_1_1_gauge.html',1,'Ext::Net']]],
+  ['gaugeanimconfig',['GaugeAnimConfig',['../d5/d1f/class_ext_1_1_net_1_1_gauge_anim_config.html',1,'Ext::Net']]],
+  ['gaugeneedleconfig',['GaugeNeedleConfig',['../d5/dbd/class_ext_1_1_net_1_1_gauge_needle_config.html',1,'Ext::Net']]],
   ['gaugesector',['GaugeSector',['../d7/d04/class_ext_1_1_net_1_1_gauge_sector.html',1,'Ext::Net']]],
   ['gaugesectorcollection',['GaugeSectorCollection',['../d4/d57/class_ext_1_1_net_1_1_gauge_sector_collection.html',1,'Ext::Net']]],
   ['gaugeseries',['GaugeSeries',['../d7/d5d/class_ext_1_1_net_1_1_gauge_series.html',1,'Ext::Net']]],
+  ['gaugetextoffset',['GaugeTextOffset',['../dd/df6/class_ext_1_1_net_1_1_gauge_text_offset.html',1,'Ext::Net']]],
   ['genericcolumnbuilder',['GenericColumnBuilder',['../d4/d6f/class_ext_1_1_net_1_1_generic_column_builder.html',1,'Ext::Net']]],
   ['genericcomponent',['GenericComponent',['../dd/dcf/class_ext_1_1_net_1_1_generic_component.html',1,'Ext.Net.GenericComponent&lt; T &gt;'],['../dd/dcf/class_ext_1_1_net_1_1_generic_component.html',1,'Ext.Net.GenericComponent&lt; T &gt;']]],
   ['genericconverter',['GenericConverter',['../d6/dd2/class_ext_1_1_net_1_1_generic_converter.html',1,'Ext::Net']]],
@@ -25,7 +29,6 @@ var searchData=
   ['gridfeature',['GridFeature',['../d2/da2/class_ext_1_1_net_1_1_grid_feature.html',1,'Ext::Net']]],
   ['gridfilter',['GridFilter',['../da/d70/class_ext_1_1_net_1_1_grid_filter.html',1,'Ext::Net']]],
   ['gridfiltercollection',['GridFilterCollection',['../dd/d5a/class_ext_1_1_net_1_1_grid_filter_collection.html',1,'Ext::Net']]],
-  ['gridfilterlisteners',['GridFilterListeners',['../d3/dc6/class_ext_1_1_net_1_1_grid_filter_listeners.html',1,'Ext::Net']]],
   ['gridfilters',['GridFilters',['../d3/def/class_ext_1_1_net_1_1_grid_filters.html',1,'Ext::Net']]],
   ['gridheadercontainer',['GridHeaderContainer',['../d2/de3/class_ext_1_1_net_1_1_grid_header_container.html',1,'Ext::Net']]],
   ['gridheadercontainerdirectevents',['GridHeaderContainerDirectEvents',['../d2/d2c/class_ext_1_1_net_1_1_grid_header_container_direct_events.html',1,'Ext::Net']]],

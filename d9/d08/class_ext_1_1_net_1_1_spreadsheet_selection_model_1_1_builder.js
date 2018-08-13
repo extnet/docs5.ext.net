@@ -29,6 +29,7 @@ var class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_builder =
     [ "Extensible", "d9/d08/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_builder.html#a9cb602d3f303e758aabb0ccefdaf5ae6", null ],
     [ "HiddenName", "d9/d08/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_builder.html#a74449e8eb4185c2f4e1754547f9af663", null ],
     [ "Listeners", "d9/d08/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_builder.html#af2fdc52a0b7bc574d8b759d2e6a60abf", null ],
+    [ "Reducible", "d9/d08/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_builder.html#a2401791798255e9eb9b970aa355ba9a5", null ],
     [ "RowNumbererHeaderWidth", "d9/d08/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_builder.html#acbc3d5ea7be92299a8126590aa9b87c2", null ],
     [ "RowSelect", "d9/d08/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_builder.html#acfd29a497253aa749527b9c067539994", null ],
     [ "SelectCells", "d9/d08/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_builder.html#a382b13fc0256ec0383445ab85b951757", null ],
@@ -49,6 +50,7 @@ var class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_builder =
     [ "SetColumnSelect", "d9/d08/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_builder.html#a00712b13689cc43811c118fe46cbc466", null ],
     [ "SetDragSelect", "d9/d08/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_builder.html#a7443f49a4d3280b17324d0ac8c805199", null ],
     [ "SetExtensible", "d9/d08/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_builder.html#a83fa1c4835f99791bb2e808bb164572f", null ],
+    [ "SetReducible", "d9/d08/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_builder.html#a6f052730a6aae3fe26b89cb66fd47634", null ],
     [ "SetRowSelect", "d9/d08/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_builder.html#a12b2987ba524231a4cef757f4b722761", null ],
     [ "SetSelectedData", "d9/d08/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_builder.html#a2aaeb81a35a54060fc620fbc1d56d7ea", null ],
     [ "ShowHeaderCheckbox", "d9/d08/class_ext_1_1_net_1_1_spreadsheet_selection_model_1_1_builder.html#a2d72160a30c7921ed241bc1756b647d2", null ]

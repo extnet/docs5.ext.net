@@ -10,7 +10,6 @@ var class_ext_1_1_net_1_1_grid_filter =
     [ "ConfigOptions", "da/d70/class_ext_1_1_net_1_1_grid_filter.html#a792bbbf9ee4174306a5732d1ccddcf82", null ],
     [ "DataIndex", "da/d70/class_ext_1_1_net_1_1_grid_filter.html#ad8ee34cb1d1efa44b27434b1b5920387", null ],
     [ "ItemDefaults", "da/d70/class_ext_1_1_net_1_1_grid_filter.html#ac875acc56bdae1ea10aadfe14295b336", null ],
-    [ "Listeners", "da/d70/class_ext_1_1_net_1_1_grid_filter.html#a083d48ad696e6e70100b92cefa988361", null ],
     [ "MenuDefaults", "da/d70/class_ext_1_1_net_1_1_grid_filter.html#a71dfd3f5e7110dfe8816d0f76e6b7d68", null ],
     [ "Serializer", "da/d70/class_ext_1_1_net_1_1_grid_filter.html#a088a93065a2422db868ff33dbc5daa2a", null ],
     [ "Type", "da/d70/class_ext_1_1_net_1_1_grid_filter.html#a1982bb9300a63c3e7de4c61af0cfd07d", null ],
