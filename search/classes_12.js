@@ -35,6 +35,7 @@ var searchData=
   ['shiftconfig',['ShiftConfig',['../dc/dad/class_ext_1_1_net_1_1_shift_config.html',1,'Ext::Net']]],
   ['shortcutdefaults',['ShortcutDefaults',['../d8/da4/class_ext_1_1_net_1_1_shortcut_defaults.html',1,'Ext::Net']]],
   ['simplelistener',['SimpleListener',['../d7/d06/class_ext_1_1_net_1_1_simple_listener.html',1,'Ext::Net']]],
+  ['simplestore',['SimpleStore',['../db/d9f/class_ext_1_1_net_1_1_simple_store.html',1,'Ext::Net']]],
   ['simpletooltip',['SimpleToolTip',['../da/da6/class_ext_1_1_net_1_1_simple_tool_tip.html',1,'Ext::Net']]],
   ['singleitemcollection',['SingleItemCollection',['../d9/d4a/class_ext_1_1_net_1_1_single_item_collection.html',1,'Ext::Net']]],
   ['singleitemcollection_3c_20abstractselectionmodel_20_3e',['SingleItemCollection&lt; AbstractSelectionModel &gt;',['../d9/d4a/class_ext_1_1_net_1_1_single_item_collection.html',1,'Ext::Net']]],

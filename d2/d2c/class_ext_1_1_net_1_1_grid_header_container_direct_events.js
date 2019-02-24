@@ -2,14 +2,14 @@ var class_ext_1_1_net_1_1_grid_header_container_direct_events =
 [
     [ "GridHeaderContainerDirectEvents", "d2/d2c/class_ext_1_1_net_1_1_grid_header_container_direct_events.html#affa26dd296765a1cf216594b48c86078", null ],
     [ "GridHeaderContainerDirectEvents", "d2/d2c/class_ext_1_1_net_1_1_grid_header_container_direct_events.html#a69b685902e27fcd84278c8986c4f1573", null ],
-    [ "ColumnHide", "d2/d2c/class_ext_1_1_net_1_1_grid_header_container_direct_events.html#a05cc6a33d11e3134c3354f7958d9bf8f", null ],
-    [ "ColumnMove", "d2/d2c/class_ext_1_1_net_1_1_grid_header_container_direct_events.html#a382655ab5a0221e7f8bdaad1f5df6ad8", null ],
-    [ "ColumnResize", "d2/d2c/class_ext_1_1_net_1_1_grid_header_container_direct_events.html#a3e882c64d84bc212a1581eb33ce8771b", null ],
-    [ "ColumnShow", "d2/d2c/class_ext_1_1_net_1_1_grid_header_container_direct_events.html#a9aa934f6097281e4d6c2c30b52e10a68", null ],
+    [ "ColumnHide", "d2/d2c/class_ext_1_1_net_1_1_grid_header_container_direct_events.html#a5c18ff02dd50cc9382a7aa870112c4a8", null ],
+    [ "ColumnMove", "d2/d2c/class_ext_1_1_net_1_1_grid_header_container_direct_events.html#a7577d2584e93e12a550d9cfa97b09954", null ],
+    [ "ColumnResize", "d2/d2c/class_ext_1_1_net_1_1_grid_header_container_direct_events.html#ac64f730700b2f23564d7a759a4320716", null ],
+    [ "ColumnShow", "d2/d2c/class_ext_1_1_net_1_1_grid_header_container_direct_events.html#a66fba69a1db5c4602fa4216d04bad352", null ],
     [ "ConfigOptions", "d2/d2c/class_ext_1_1_net_1_1_grid_header_container_direct_events.html#a1f94faf1fd8db4d375f11d8054558b39", null ],
-    [ "HeaderClick", "d2/d2c/class_ext_1_1_net_1_1_grid_header_container_direct_events.html#a8996c1da9cc92b4d149582d9d2189e6e", null ],
-    [ "HeaderContextMenu", "d2/d2c/class_ext_1_1_net_1_1_grid_header_container_direct_events.html#a22c20347fe87a740f4d5a6f033be7a69", null ],
-    [ "HeaderTriggerClick", "d2/d2c/class_ext_1_1_net_1_1_grid_header_container_direct_events.html#a55a558a243c585ff2750fea541236da9", null ],
-    [ "MenuCreate", "d2/d2c/class_ext_1_1_net_1_1_grid_header_container_direct_events.html#a76371719b6068a93164e27ff2be954b0", null ],
-    [ "SortChange", "d2/d2c/class_ext_1_1_net_1_1_grid_header_container_direct_events.html#aeb5bf271f4d4935530996d33af620056", null ]
+    [ "HeaderClick", "d2/d2c/class_ext_1_1_net_1_1_grid_header_container_direct_events.html#a4c29a5ee94973c7f590f9cd9aa5039dc", null ],
+    [ "HeaderContextMenu", "d2/d2c/class_ext_1_1_net_1_1_grid_header_container_direct_events.html#a627047ddd9dba3d6a865580f15b5e49b", null ],
+    [ "HeaderTriggerClick", "d2/d2c/class_ext_1_1_net_1_1_grid_header_container_direct_events.html#a30a51bc862d14d946ed56ce62b9ecead", null ],
+    [ "MenuCreate", "d2/d2c/class_ext_1_1_net_1_1_grid_header_container_direct_events.html#ac1ce93b4a34c169a0d3a340e34877dbf", null ],
+    [ "SortChange", "d2/d2c/class_ext_1_1_net_1_1_grid_header_container_direct_events.html#a0be97875b2979b0bd1f04dd1231eddaf", null ]
 ];

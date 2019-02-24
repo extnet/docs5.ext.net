@@ -12,7 +12,7 @@ var class_ext_1_1_net_1_1_click_repeater =
     [ "Delay", "dd/dc9/class_ext_1_1_net_1_1_click_repeater.html#a74a94a4e7dedbe577322e0b34ec014b9", null ],
     [ "DirectEvents", "dd/dc9/class_ext_1_1_net_1_1_click_repeater.html#af68d13b6b65439579244bf90ce3ff124", null ],
     [ "Handler", "dd/dc9/class_ext_1_1_net_1_1_click_repeater.html#a2b8e15884909ff636e4fb40303cad916", null ],
-    [ "IgnoredButtons", "dd/dc9/class_ext_1_1_net_1_1_click_repeater.html#ab99b0e80c77bf2428635ed257cca53e8", null ],
+    [ "IgnoredButtons", "dd/dc9/class_ext_1_1_net_1_1_click_repeater.html#a98428b58644e5f6cac7b16c5ea5b964d", null ],
     [ "IgnoreLeftButton", "dd/dc9/class_ext_1_1_net_1_1_click_repeater.html#af8aeebfe64e058da9434b54083b21a22", null ],
     [ "IgnoreMiddleButton", "dd/dc9/class_ext_1_1_net_1_1_click_repeater.html#a35533428eaf6329a3602513a5cfd59e4", null ],
     [ "IgnoreRightButton", "dd/dc9/class_ext_1_1_net_1_1_click_repeater.html#abf0d701f261320f6b9fc9ccd23817b78", null ],

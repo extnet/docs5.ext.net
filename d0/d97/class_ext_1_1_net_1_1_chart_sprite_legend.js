@@ -22,7 +22,7 @@ var class_ext_1_1_net_1_1_chart_sprite_legend =
     [ "Marker", "d0/d97/class_ext_1_1_net_1_1_chart_sprite_legend.html#af0f6f7a9c24f4010a577091e2f14d61d", null ],
     [ "Padding", "d0/d97/class_ext_1_1_net_1_1_chart_sprite_legend.html#a6b31e44957084d6004346a02cd833854", null ],
     [ "Store", "d0/d97/class_ext_1_1_net_1_1_chart_sprite_legend.html#aa80a9366cd15b3852c42c51e55815c04", null ],
-    [ "Toggleable", "d0/d97/class_ext_1_1_net_1_1_chart_sprite_legend.html#ad69df9f07e9020ccfc33839aa27c8741", null ],
+    [ "Toggleable", "d0/d97/class_ext_1_1_net_1_1_chart_sprite_legend.html#ac7b669e57d9b8c6dca845f38bd1bf1b0", null ],
     [ "Type", "d0/d97/class_ext_1_1_net_1_1_chart_sprite_legend.html#a8f8af2c017a1448db3aebf945a81d189", null ],
     [ "XType", "d0/d97/class_ext_1_1_net_1_1_chart_sprite_legend.html#a4cad2408b6edd34299698568df224687", null ]
 ];

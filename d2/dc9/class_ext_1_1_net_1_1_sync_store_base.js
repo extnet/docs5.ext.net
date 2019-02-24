@@ -42,7 +42,7 @@ var class_ext_1_1_net_1_1_sync_store_base =
     [ "ConfigOptions", "d2/dc9/class_ext_1_1_net_1_1_sync_store_base.html#a29ab71fc19940be75d3fd66d88c8eaaa", null ],
     [ "InstanceOf", "d2/dc9/class_ext_1_1_net_1_1_sync_store_base.html#ad0e0df084c6ffcb8ae57661e29b2479d", null ],
     [ "MemoryDataPresent", "d2/dc9/class_ext_1_1_net_1_1_sync_store_base.html#a211440bb01c2acdfafcf8c3f435766b4", null ],
-    [ "MemoryProxy", "d2/dc9/class_ext_1_1_net_1_1_sync_store_base.html#a10ad696487a000b9967ebd29ee0f0f4b", null ],
+    [ "MemoryProxy", "d2/dc9/class_ext_1_1_net_1_1_sync_store_base.html#aec05518e9fbc0ea416099ea65ed87893", null ],
     [ "ReadData", "d2/dc9/class_ext_1_1_net_1_1_sync_store_base.html#ac8a381655e6a9982473aef0583b7e58a", null ],
     [ "StoreType", "d2/dc9/class_ext_1_1_net_1_1_sync_store_base.html#abca490e263243742502a047e28d5d769", null ],
     [ "SubmitData", "d2/dc9/class_ext_1_1_net_1_1_sync_store_base.html#a3a800c3db49d19e1a2760bfda4d99178", null ]

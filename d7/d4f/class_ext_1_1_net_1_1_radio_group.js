@@ -20,7 +20,7 @@ var class_ext_1_1_net_1_1_radio_group =
     [ "GroupName", "d7/d4f/class_ext_1_1_net_1_1_radio_group.html#aad5bbe48df51a9b18ab3e2c01e42234e", null ],
     [ "InstanceOf", "d7/d4f/class_ext_1_1_net_1_1_radio_group.html#ac2458330565b9d26268176c72b757f88", null ],
     [ "Listeners", "d7/d4f/class_ext_1_1_net_1_1_radio_group.html#ab9fe633fe77cc012ba7b7c0f0834d588", null ],
-    [ "Local", "d7/d4f/class_ext_1_1_net_1_1_radio_group.html#a4cdebf4ea22fbb14e8849db8f1bd23da", null ],
-    [ "SimpleValue", "d7/d4f/class_ext_1_1_net_1_1_radio_group.html#a7a347cb3ac9f8132a987c2ba5305153b", null ],
+    [ "Local", "d7/d4f/class_ext_1_1_net_1_1_radio_group.html#a4647e674ccf6eb47f41eff454b540ecd", null ],
+    [ "SimpleValue", "d7/d4f/class_ext_1_1_net_1_1_radio_group.html#ab9dd671fdb42506c2267758dc35627ae", null ],
     [ "XType", "d7/d4f/class_ext_1_1_net_1_1_radio_group.html#abcd3c957e972bb00641a0a17f2d15e8f", null ]
 ];

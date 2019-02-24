@@ -11,6 +11,6 @@ var class_ext_1_1_net_1_1_tree_selection_model =
     [ "PruneRemoved", "d7/dd9/class_ext_1_1_net_1_1_tree_selection_model.html#a95d763a2edbfd40847792d9dd1879675", null ],
     [ "SelectedNodes", "d7/dd9/class_ext_1_1_net_1_1_tree_selection_model.html#aaab986c52055376214034d298a4ea27b", null ],
     [ "SelectedRows", "d7/dd9/class_ext_1_1_net_1_1_tree_selection_model.html#ab0e952dae200fa3bd9ba4b0a0051983b", null ],
-    [ "SelectOnExpanderClick", "d7/dd9/class_ext_1_1_net_1_1_tree_selection_model.html#ac6aaa35962c52a7d0574eb121f6c624e", null ],
+    [ "SelectOnExpanderClick", "d7/dd9/class_ext_1_1_net_1_1_tree_selection_model.html#a66318856925b3c03be35472ec64108ba", null ],
     [ "SelType", "d7/dd9/class_ext_1_1_net_1_1_tree_selection_model.html#a5521d9023c273ff30b8ca5eb6d960d93", null ]
 ];

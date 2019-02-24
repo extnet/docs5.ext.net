@@ -10,6 +10,6 @@ var class_ext_1_1_net_1_1_tray_clock =
     [ "RefreshInterval", "d8/dc8/class_ext_1_1_net_1_1_tray_clock.html#a7d747f129a79980e828cc467b9ac9408", null ],
     [ "Template", "d8/dc8/class_ext_1_1_net_1_1_tray_clock.html#af307de37f51e349048957ec0eaf3c30f", null ],
     [ "TimeFormat", "d8/dc8/class_ext_1_1_net_1_1_tray_clock.html#aa4c091a26fc0e860098709baa9afc053", null ],
-    [ "TimeFormatProxy", "d8/dc8/class_ext_1_1_net_1_1_tray_clock.html#aaf7b45c35e1172725c855e9639e5a4e3", null ],
+    [ "TimeFormatProxy", "d8/dc8/class_ext_1_1_net_1_1_tray_clock.html#af1906887016b430fdc73302bb06d4cfe", null ],
     [ "XType", "d8/dc8/class_ext_1_1_net_1_1_tray_clock.html#a6623e171ccfc9139bded71de5cb4c43f", null ]
 ];

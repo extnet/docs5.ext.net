@@ -8,8 +8,8 @@ var class_ext_1_1_net_1_1_p_d_f_options =
     [ "ToNativeBuilder", "d1/dbc/class_ext_1_1_net_1_1_p_d_f_options.html#aba42934566a6e6a301c3bfdb3602a620", null ],
     [ "Border", "d1/dbc/class_ext_1_1_net_1_1_p_d_f_options.html#aa4bb3d5bcb851bb6f317d41d4670d076", null ],
     [ "ConfigOptions", "d1/dbc/class_ext_1_1_net_1_1_p_d_f_options.html#a07a4f38f49b39ac78bc25612a2cf4845", null ],
-    [ "Format", "d1/dbc/class_ext_1_1_net_1_1_p_d_f_options.html#ab5ac15a042ae915ce1f143a97a9ba66b", null ],
+    [ "Format", "d1/dbc/class_ext_1_1_net_1_1_p_d_f_options.html#a2daf4dfbe5670548adfdaf714d20d2a2", null ],
     [ "Height", "d1/dbc/class_ext_1_1_net_1_1_p_d_f_options.html#a96a010e976ee781a22ad1a345e9b0f34", null ],
-    [ "Orientation", "d1/dbc/class_ext_1_1_net_1_1_p_d_f_options.html#a145d3176b4b8c7fc1bc2a9de554fa0a2", null ],
+    [ "Orientation", "d1/dbc/class_ext_1_1_net_1_1_p_d_f_options.html#a4c951eff8fc70e530f508f9386e15c63", null ],
     [ "Width", "d1/dbc/class_ext_1_1_net_1_1_p_d_f_options.html#a8d4b62522cd1bc1dd25cf6b7a9ba198a", null ]
 ];

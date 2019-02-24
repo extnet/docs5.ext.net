@@ -9,7 +9,7 @@ var class_ext_1_1_net_1_1_badge =
     [ "ToBuilder", "d1/d88/class_ext_1_1_net_1_1_badge.html#a61d6e77ee96d5ec3435341a719cc2212", null ],
     [ "ToNativeBuilder", "d1/d88/class_ext_1_1_net_1_1_badge.html#a78c8f8ebda273f69acd754514aacbbce", null ],
     [ "UpdatePosition", "d1/d88/class_ext_1_1_net_1_1_badge.html#a42dcb1cc854fcccf05b9f56805d6b39c", null ],
-    [ "Alignment", "d1/d88/class_ext_1_1_net_1_1_badge.html#a91bf666f878213f0079182892e71af49", null ],
+    [ "Alignment", "d1/d88/class_ext_1_1_net_1_1_badge.html#af84c7999cc540167f4bffea3ed3f9265", null ],
     [ "AlignmentProxy", "d1/d88/class_ext_1_1_net_1_1_badge.html#a8a02e40cf3d36dc8592f16b252747e92", null ],
     [ "AlignmentSpec", "d1/d88/class_ext_1_1_net_1_1_badge.html#af19e479e372ded6bb60e916b2c94aa67", null ],
     [ "BadgeNumberCls", "d1/d88/class_ext_1_1_net_1_1_badge.html#a60299a58a83dc7eb35e27bc4d597b352", null ],

@@ -9,6 +9,8 @@ var class_ext_1_1_net_1_1_component_view =
     [ "Items_AfterItemRemove", "d9/db2/class_ext_1_1_net_1_1_component_view.html#a518bb2ec7d006d7361f5364ea1cd1e8f", null ],
     [ "OnComponentAdded", "d9/db2/class_ext_1_1_net_1_1_component_view.html#a9ed21617984d77819762bd6ca3e7129b", null ],
     [ "OnComponentRemoved", "d9/db2/class_ext_1_1_net_1_1_component_view.html#aa28bc1262a9dc2b14d9e8c3175b0ec69", null ],
+    [ "PluginAdded", "d9/db2/class_ext_1_1_net_1_1_component_view.html#a3a002a0e490da5070bcb56d108536a4c", null ],
+    [ "PluginRemoved", "d9/db2/class_ext_1_1_net_1_1_component_view.html#a397dc76da569bc23c33a18aa03e35862", null ],
     [ "ToBuilder", "d9/db2/class_ext_1_1_net_1_1_component_view.html#a871ed27c3cae99adc9ed3b244439e8da", null ],
     [ "ToNativeBuilder", "d9/db2/class_ext_1_1_net_1_1_component_view.html#a83f0fead0b6e6996c6bfa037b9e4391f", null ],
     [ "ConfigOptions", "d9/db2/class_ext_1_1_net_1_1_component_view.html#a54804f898e4b010d1e0c846215c78ba6", null ],

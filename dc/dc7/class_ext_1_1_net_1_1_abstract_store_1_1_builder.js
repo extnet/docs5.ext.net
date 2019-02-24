@@ -3,6 +3,7 @@ var class_ext_1_1_net_1_1_abstract_store_1_1_builder =
     [ "Builder", "dc/dc7/class_ext_1_1_net_1_1_abstract_store_1_1_builder.html#a334fd8f9ddb117c4e4d4b214c057f552", null ],
     [ "AddFiler", "dc/dc7/class_ext_1_1_net_1_1_abstract_store_1_1_builder.html#a7ff0cd21fe24c3d1757d6ab89e069997", null ],
     [ "AddFilter", "dc/dc7/class_ext_1_1_net_1_1_abstract_store_1_1_builder.html#a40c5834525945ae4e0f5b763e9c50fd1", null ],
+    [ "AddFilter", "dc/dc7/class_ext_1_1_net_1_1_abstract_store_1_1_builder.html#a58b22b247067648f7745d93859c450ef", null ],
     [ "AsynchronousLoad", "dc/dc7/class_ext_1_1_net_1_1_abstract_store_1_1_builder.html#a99b08b577cd7469f5e146ea677a693c7", null ],
     [ "AutoDestroy", "dc/dc7/class_ext_1_1_net_1_1_abstract_store_1_1_builder.html#a5e2dbef38ec43ace83d206ec9a1ffcf1", null ],
     [ "AutoLoad", "dc/dc7/class_ext_1_1_net_1_1_abstract_store_1_1_builder.html#ab7cfb8b11c319777633fac81476da0e9", null ],

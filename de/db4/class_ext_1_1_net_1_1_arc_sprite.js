@@ -8,7 +8,7 @@ var class_ext_1_1_net_1_1_arc_sprite =
     [ "ToNativeBuilder", "de/db4/class_ext_1_1_net_1_1_arc_sprite.html#a0fa900ccfb8c29adde0c3599fc3139b8", null ],
     [ "Anticlockwise", "de/db4/class_ext_1_1_net_1_1_arc_sprite.html#ac6c691a0ba408df8cac6bb19f62b3925", null ],
     [ "ConfigOptions", "de/db4/class_ext_1_1_net_1_1_arc_sprite.html#a45d308478c54d165c94379dcdba862b3", null ],
-    [ "EndAngle", "de/db4/class_ext_1_1_net_1_1_arc_sprite.html#a1671fc93ac308971dfdfb6c50da52505", null ],
-    [ "StartAngle", "de/db4/class_ext_1_1_net_1_1_arc_sprite.html#a9dbc38da4844dd36d64fa9210e682449", null ],
+    [ "EndAngle", "de/db4/class_ext_1_1_net_1_1_arc_sprite.html#a5789f0dd1d10ecc7f26215d29fea71d8", null ],
+    [ "StartAngle", "de/db4/class_ext_1_1_net_1_1_arc_sprite.html#adb11b1e203a2a69d32e252e00662111e", null ],
     [ "Type", "de/db4/class_ext_1_1_net_1_1_arc_sprite.html#a94d762bef78b760c8b5636e7d4612502", null ]
 ];

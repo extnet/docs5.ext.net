@@ -8,7 +8,7 @@ var class_ext_1_1_net_1_1_gauge_sector =
     [ "ToNativeBuilder", "d7/d04/class_ext_1_1_net_1_1_gauge_sector.html#a63458e2525146e5dc6b6ddb77840728f", null ],
     [ "Color", "d7/d04/class_ext_1_1_net_1_1_gauge_sector.html#ad0e0c66ff348b3819326904e02a694d1", null ],
     [ "ConfigOptions", "d7/d04/class_ext_1_1_net_1_1_gauge_sector.html#a70be05f1285a8a40756be325318ebb9f", null ],
-    [ "End", "d7/d04/class_ext_1_1_net_1_1_gauge_sector.html#a4fda7def494642d1366ca1b330cb7f9b", null ],
+    [ "End", "d7/d04/class_ext_1_1_net_1_1_gauge_sector.html#a9b19251921a7f379fa0cd79ddd4bedb2", null ],
     [ "Label", "d7/d04/class_ext_1_1_net_1_1_gauge_sector.html#a082ab56ef616b439ec8b9a8c8c365995", null ],
-    [ "Start", "d7/d04/class_ext_1_1_net_1_1_gauge_sector.html#a082bb6124b12ac333d140ebafff92464", null ]
+    [ "Start", "d7/d04/class_ext_1_1_net_1_1_gauge_sector.html#ad46df1a7e97995815ccd358b0d091ee1", null ]
 ];

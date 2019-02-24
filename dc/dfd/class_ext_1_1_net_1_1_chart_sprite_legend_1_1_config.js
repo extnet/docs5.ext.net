@@ -7,5 +7,5 @@ var class_ext_1_1_net_1_1_chart_sprite_legend_1_1_config =
     [ "Marker", "dc/dfd/class_ext_1_1_net_1_1_chart_sprite_legend_1_1_config.html#af8cfa222939d33e1dbb3fd105fd12b41", null ],
     [ "Padding", "dc/dfd/class_ext_1_1_net_1_1_chart_sprite_legend_1_1_config.html#afa337d3f54c0ba9c406a7b2f28115085", null ],
     [ "Store", "dc/dfd/class_ext_1_1_net_1_1_chart_sprite_legend_1_1_config.html#a86257db6a5e3fb798fe30b2b276099f3", null ],
-    [ "Toggleable", "dc/dfd/class_ext_1_1_net_1_1_chart_sprite_legend_1_1_config.html#af56fa91c102fb3261b9dad1c0c03570a", null ]
+    [ "Toggleable", "dc/dfd/class_ext_1_1_net_1_1_chart_sprite_legend_1_1_config.html#a08271279e72fb827344dfb1c4ffca382", null ]
 ];

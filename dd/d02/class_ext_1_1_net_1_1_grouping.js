@@ -8,6 +8,8 @@ var class_ext_1_1_net_1_1_grouping =
     [ "CollapseAll", "dd/d02/class_ext_1_1_net_1_1_grouping.html#a66544dd00ddf5949b49ac9de6a41a0a7", null ],
     [ "Expand", "dd/d02/class_ext_1_1_net_1_1_grouping.html#aecee297aef9054bd7a4211a8defe3acd", null ],
     [ "ExpandAll", "dd/d02/class_ext_1_1_net_1_1_grouping.html#af757174dfe267c79b87cabb22df155b3", null ],
+    [ "FeatureAdded", "dd/d02/class_ext_1_1_net_1_1_grouping.html#add38225d8f2015d7e8e91bbe91e1e144", null ],
+    [ "FeatureRemoved", "dd/d02/class_ext_1_1_net_1_1_grouping.html#abf6ca6daaa8f65cfa1cad4eff29b7f18", null ],
     [ "ToBuilder", "dd/d02/class_ext_1_1_net_1_1_grouping.html#a86b8ab58c368d887a196dbe2206a85e2", null ],
     [ "ToNativeBuilder", "dd/d02/class_ext_1_1_net_1_1_grouping.html#a5f5d33e432ed8123410e239b640d614f", null ],
     [ "CollapseTip", "dd/d02/class_ext_1_1_net_1_1_grouping.html#a83827228671aba1439030228a66c0a41", null ],

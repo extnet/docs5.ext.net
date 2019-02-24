@@ -13,12 +13,12 @@ var class_ext_1_1_net_1_1_day_view =
     [ "ToBuilder", "dc/ddb/class_ext_1_1_net_1_1_day_view.html#afa765516275594b809c608919a54f5a7", null ],
     [ "ToNativeBuilder", "dc/ddb/class_ext_1_1_net_1_1_day_view.html#a42e76db0726dd22459f92ec692e23142", null ],
     [ "ConfigOptions", "dc/ddb/class_ext_1_1_net_1_1_day_view.html#a8f60b68406a511f3b77242c59002151e", null ],
-    [ "DayCount", "dc/ddb/class_ext_1_1_net_1_1_day_view.html#a1a67f26c6b5a02598e415da505311b5b", null ],
-    [ "DDCreateEventText", "dc/ddb/class_ext_1_1_net_1_1_day_view.html#a7b459c1727a3412551ce558a2c15ce15", null ],
-    [ "DDMoveEventText", "dc/ddb/class_ext_1_1_net_1_1_day_view.html#a3b7fc341f7b9186f65ff83bfe3c09be9", null ],
+    [ "DayCount", "dc/ddb/class_ext_1_1_net_1_1_day_view.html#a0df8d8b827eac5821e497344f1140bd6", null ],
+    [ "DDCreateEventText", "dc/ddb/class_ext_1_1_net_1_1_day_view.html#a9e8162a3b6e8e6a8ddc1c6c6858ad03c", null ],
+    [ "DDMoveEventText", "dc/ddb/class_ext_1_1_net_1_1_day_view.html#ab40d0fd20a1a5de2ea48174baa205b71", null ],
     [ "InstanceOf", "dc/ddb/class_ext_1_1_net_1_1_day_view.html#a480f39375df1006756be2a6bb4c4649a", null ],
-    [ "ShowTime", "dc/ddb/class_ext_1_1_net_1_1_day_view.html#acd4165d34339b16b34980e30478a6d1e", null ],
-    [ "ShowTodayText", "dc/ddb/class_ext_1_1_net_1_1_day_view.html#a247777d40835b26ce37a26344a3c2b5c", null ],
-    [ "TodayText", "dc/ddb/class_ext_1_1_net_1_1_day_view.html#aa3ca6e9e199b5f745712a15217f41950", null ],
+    [ "ShowTime", "dc/ddb/class_ext_1_1_net_1_1_day_view.html#a94493997fe2537c00068ad2717d03fe8", null ],
+    [ "ShowTodayText", "dc/ddb/class_ext_1_1_net_1_1_day_view.html#af5da37329c02d29e8c9a455f0ecc52be", null ],
+    [ "TodayText", "dc/ddb/class_ext_1_1_net_1_1_day_view.html#ac463b2f3fd1ef82d748019e20a5d98ad", null ],
     [ "XType", "dc/ddb/class_ext_1_1_net_1_1_day_view.html#a3999ba26c1c0e0bc65180c8e37f043b0", null ]
 ];

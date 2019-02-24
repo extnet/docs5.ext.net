@@ -8,7 +8,7 @@ var class_ext_1_1_net_1_1_elliptical_arc_sprite =
     [ "ToNativeBuilder", "d9/ddd/class_ext_1_1_net_1_1_elliptical_arc_sprite.html#a5f9570c138f89dfd0ca0e710fe884350", null ],
     [ "Anticlockwise", "d9/ddd/class_ext_1_1_net_1_1_elliptical_arc_sprite.html#a37d32a95c0380e26b34772dcbfc9f571", null ],
     [ "ConfigOptions", "d9/ddd/class_ext_1_1_net_1_1_elliptical_arc_sprite.html#a6fd34d5229fb3be2132526ee4e305504", null ],
-    [ "EndAngle", "d9/ddd/class_ext_1_1_net_1_1_elliptical_arc_sprite.html#a7d839a7d9bbd2755c07e3d7c19514228", null ],
-    [ "StartAngle", "d9/ddd/class_ext_1_1_net_1_1_elliptical_arc_sprite.html#aae5e7145725307f2d5afd9c1ef8c4d2e", null ],
+    [ "EndAngle", "d9/ddd/class_ext_1_1_net_1_1_elliptical_arc_sprite.html#ae365051fef28e549812dff0bad9212fd", null ],
+    [ "StartAngle", "d9/ddd/class_ext_1_1_net_1_1_elliptical_arc_sprite.html#a82870b7aa77644ab0e3b4c2148af7707", null ],
     [ "Type", "d9/ddd/class_ext_1_1_net_1_1_elliptical_arc_sprite.html#a63d8b9b78e87d1181d1e2e2c7d248008", null ]
 ];

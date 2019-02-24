@@ -10,7 +10,7 @@ var class_ext_1_1_net_1_1_grid_header_container_1_1_config =
     [ "EnableFocusableContainer", "df/dfe/class_ext_1_1_net_1_1_grid_header_container_1_1_config.html#a59fa2f132126dcd7a2c23f6067c3d508", null ],
     [ "ForceFit", "df/dfe/class_ext_1_1_net_1_1_grid_header_container_1_1_config.html#ad3414e525c1729b2eb34d5d1d99169bd", null ],
     [ "Listeners", "df/dfe/class_ext_1_1_net_1_1_grid_header_container_1_1_config.html#accb21c11c942190572fc6fef84161851", null ],
-    [ "Sortable", "df/dfe/class_ext_1_1_net_1_1_grid_header_container_1_1_config.html#a22688e3538fde56f084c2668424cf077", null ],
+    [ "Sortable", "df/dfe/class_ext_1_1_net_1_1_grid_header_container_1_1_config.html#aee84b9621c6821daf31086fcf4bf0086", null ],
     [ "SortAscText", "df/dfe/class_ext_1_1_net_1_1_grid_header_container_1_1_config.html#a1c566681a680178b00db84f5f135a2e4", null ],
     [ "SortClearText", "df/dfe/class_ext_1_1_net_1_1_grid_header_container_1_1_config.html#a0a7963dccfcc9dd8a518230fff1b51eb", null ],
     [ "SortDescText", "df/dfe/class_ext_1_1_net_1_1_grid_header_container_1_1_config.html#a1d73453b294d92ddbb455817ed72d5bf", null ],

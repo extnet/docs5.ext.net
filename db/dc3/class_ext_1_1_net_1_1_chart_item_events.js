@@ -8,6 +8,6 @@ var class_ext_1_1_net_1_1_chart_item_events =
     [ "ToNativeBuilder", "db/dc3/class_ext_1_1_net_1_1_chart_item_events.html#afb52de13753442b9cb21cf233d5f57d5", null ],
     [ "ConfigOptions", "db/dc3/class_ext_1_1_net_1_1_chart_item_events.html#a99cec772182477e786c372a70e441188", null ],
     [ "InstanceOf", "db/dc3/class_ext_1_1_net_1_1_chart_item_events.html#a219ebba248be1353c6d219b52b062145", null ],
-    [ "MouseEvents", "db/dc3/class_ext_1_1_net_1_1_chart_item_events.html#aa7e9fe5770538055ea8228a20907976f", null ],
+    [ "MouseEvents", "db/dc3/class_ext_1_1_net_1_1_chart_item_events.html#a8d875a106b08931a98621af9909abbb8", null ],
     [ "PType", "db/dc3/class_ext_1_1_net_1_1_chart_item_events.html#a55cfa40ec99e6995b271e75273cbf498", null ]
 ];

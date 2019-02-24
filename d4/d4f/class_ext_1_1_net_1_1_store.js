@@ -6,6 +6,7 @@ var class_ext_1_1_net_1_1_store =
     [ "Store", "d4/d4f/class_ext_1_1_net_1_1_store.html#a77d6be0999bd258ba89d00cc06acc17c", null ],
     [ "InitByObject", "d4/d4f/class_ext_1_1_net_1_1_store.html#a08108d4cc588f13aa6e9982d135fa7eb", null ],
     [ "InitByType", "d4/d4f/class_ext_1_1_net_1_1_store.html#a01fb33ebaac1c21a55ad1b02925ecfc4", null ],
+    [ "InitFromDataTable", "d4/d4f/class_ext_1_1_net_1_1_store.html#abbc3a4bbde323507023ac8d75ea63cb1", null ],
     [ "OnMetadataProcess", "d4/d4f/class_ext_1_1_net_1_1_store.html#a29b7ef922f3da9366e9ae3944e8e7831", null ],
     [ "ToBuilder", "d4/d4f/class_ext_1_1_net_1_1_store.html#a0de79ca01d260319db032d418c7ce77e", null ],
     [ "ToNativeBuilder", "d4/d4f/class_ext_1_1_net_1_1_store.html#ab947deea067d4b5bfd57d679dfba6979", null ],

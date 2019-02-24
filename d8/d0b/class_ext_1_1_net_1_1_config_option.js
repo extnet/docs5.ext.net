@@ -4,6 +4,6 @@ var class_ext_1_1_net_1_1_config_option =
     [ "DefaultValue", "d8/d0b/class_ext_1_1_net_1_1_config_option.html#a6b851c60e8721b207aaf45c3a245fcfa", null ],
     [ "Name", "d8/d0b/class_ext_1_1_net_1_1_config_option.html#a67812626342258d5e7776269e5691b98", null ],
     [ "PropertyName", "d8/d0b/class_ext_1_1_net_1_1_config_option.html#a34272b44042ed822ac3500e620cd2467", null ],
-    [ "Serialization", "d8/d0b/class_ext_1_1_net_1_1_config_option.html#a62595113f1d7f7ef4be72c1d97d4d835", null ],
+    [ "Serialization", "d8/d0b/class_ext_1_1_net_1_1_config_option.html#a2a4b21187888dc5642796dc6566fd025", null ],
     [ "Value", "d8/d0b/class_ext_1_1_net_1_1_config_option.html#ad7a1e672bf22b22c2cc14bb45de4ebc9", null ]
 ];

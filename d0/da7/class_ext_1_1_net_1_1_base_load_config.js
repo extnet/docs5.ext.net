@@ -15,5 +15,5 @@ var class_ext_1_1_net_1_1_base_load_config =
     [ "Text", "d0/da7/class_ext_1_1_net_1_1_base_load_config.html#a1d5a7e0e831e54201386a9b9401b6ec3", null ],
     [ "Timeout", "d0/da7/class_ext_1_1_net_1_1_base_load_config.html#add562c4da3739cd75498bf79d4a1d0c5", null ],
     [ "Url", "d0/da7/class_ext_1_1_net_1_1_base_load_config.html#a24505644e535cf6fdfece946a38a3fca", null ],
-    [ "UrlProxy", "d0/da7/class_ext_1_1_net_1_1_base_load_config.html#a561b38405c69e6fef4b6bc6c0c2eca8a", null ]
+    [ "UrlProxy", "d0/da7/class_ext_1_1_net_1_1_base_load_config.html#a66c275ebfd6d9042e94183812a0a33f9", null ]
 ];

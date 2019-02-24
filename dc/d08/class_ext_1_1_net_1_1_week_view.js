@@ -7,7 +7,7 @@ var class_ext_1_1_net_1_1_week_view =
     [ "ToBuilder", "dc/d08/class_ext_1_1_net_1_1_week_view.html#a15959ca39405aa88a69fe3f18fc9dc85", null ],
     [ "ToNativeBuilder", "dc/d08/class_ext_1_1_net_1_1_week_view.html#a81bda78db4f9e5932d6a5da9ade9ee78", null ],
     [ "ConfigOptions", "dc/d08/class_ext_1_1_net_1_1_week_view.html#ae0656314e8d63aa83b73e3ee99f8bc70", null ],
-    [ "DayCount", "dc/d08/class_ext_1_1_net_1_1_week_view.html#a22a59752624c50f61a53f5f65b3e9f43", null ],
+    [ "DayCount", "dc/d08/class_ext_1_1_net_1_1_week_view.html#a88d90feb36cf63fa7d9fe3cc167bf18a", null ],
     [ "InstanceOf", "dc/d08/class_ext_1_1_net_1_1_week_view.html#a70cf796c40e3028152a80973e110358b", null ],
     [ "StartDay", "dc/d08/class_ext_1_1_net_1_1_week_view.html#a89291096b3f95438edd814a73b9ffbdb", null ],
     [ "XType", "dc/d08/class_ext_1_1_net_1_1_week_view.html#a09b2cec6e322cd71add1e9ef0511be21", null ]

@@ -13,7 +13,7 @@ var class_ext_1_1_net_1_1_drag_tracker =
     [ "ConstrainTo", "d6/dd0/class_ext_1_1_net_1_1_drag_tracker.html#a5a71df89717118345dce65583e700b59", null ],
     [ "Delegate", "d6/dd0/class_ext_1_1_net_1_1_drag_tracker.html#a17b6093bbba9e3239ca18660ec40c857", null ],
     [ "DirectEvents", "d6/dd0/class_ext_1_1_net_1_1_drag_tracker.html#a2ba17b4d7d0e894fa695ed602955d1da", null ],
-    [ "InstanceOf", "d6/dd0/class_ext_1_1_net_1_1_drag_tracker.html#a05edc9be95c3349ec2b33790ae24e988", null ],
+    [ "InstanceOf", "d6/dd0/class_ext_1_1_net_1_1_drag_tracker.html#ae4085c594ed9d1c3bb5628e6ed1737ff", null ],
     [ "Listeners", "d6/dd0/class_ext_1_1_net_1_1_drag_tracker.html#a6bdebc03b4217c6b70d22793454feeb2", null ],
     [ "OnBeforeStart", "d6/dd0/class_ext_1_1_net_1_1_drag_tracker.html#a85620423d07bad85ea57250a0cc88ac9", null ],
     [ "OnCancel", "d6/dd0/class_ext_1_1_net_1_1_drag_tracker.html#a6119a12e41afd1b4d0cf8ebc3d785f23", null ],

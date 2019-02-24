@@ -7,8 +7,6 @@ var class_ext_1_1_net_1_1_mouse_distance_sensor =
     [ "ToBuilder", "da/d4d/class_ext_1_1_net_1_1_mouse_distance_sensor.html#a25a7f38e76901b3d7cd7c43b61fe16da", null ],
     [ "ToNativeBuilder", "da/d4d/class_ext_1_1_net_1_1_mouse_distance_sensor.html#afc9f9005e295185a75b168726184aa16", null ],
     [ "ConfigOptions", "da/d4d/class_ext_1_1_net_1_1_mouse_distance_sensor.html#aec39d494fe5d19c645a7728629c920b0", null ],
-    [ "ConstrainElement", "da/d4d/class_ext_1_1_net_1_1_mouse_distance_sensor.html#ae90b5595d121114e85fce2be8d25ddf8", null ],
-    [ "ConstrainElementProxy", "da/d4d/class_ext_1_1_net_1_1_mouse_distance_sensor.html#a3f0bc756bc26d551bbf5846311c746ad", null ],
     [ "DirectEvents", "da/d4d/class_ext_1_1_net_1_1_mouse_distance_sensor.html#a6cf93e4f01dcaed5b7bebd3bec32269a", null ],
     [ "InstanceOf", "da/d4d/class_ext_1_1_net_1_1_mouse_distance_sensor.html#aeccb77a84f5ba036921223d90896e6a8", null ],
     [ "Listeners", "da/d4d/class_ext_1_1_net_1_1_mouse_distance_sensor.html#a643fa48acfde0082e30d41e0a9c3ba90", null ],

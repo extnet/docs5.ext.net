@@ -5,6 +5,7 @@ var class_ext_1_1_net_1_1_series =
     [ "Config", "d8/d83/class_ext_1_1_net_1_1_series_1_1_config.html", "d8/d83/class_ext_1_1_net_1_1_series_1_1_config" ],
     [ "CallTemplate", "d2/df8/class_ext_1_1_net_1_1_series.html#a75a86a3c66f6ef99d522b59611317ec3", null ],
     [ "Hide", "d2/df8/class_ext_1_1_net_1_1_series.html#a729d47a845d1263b0eb06c3e9db83bfc", null ],
+    [ "InitTooltip", "d2/df8/class_ext_1_1_net_1_1_series.html#ad44252fe241d4cb8c602b805ac62ae84", null ],
     [ "SetHidden", "d2/df8/class_ext_1_1_net_1_1_series.html#acf0686e16a2131cc48cb21a5bcecb26a", null ],
     [ "SetTitle", "d2/df8/class_ext_1_1_net_1_1_series.html#aec9f4c49355a15921e8fd1cffbfea667", null ],
     [ "SetTitles", "d2/df8/class_ext_1_1_net_1_1_series.html#a46166829679614882a8a21da42aa9e93", null ],
@@ -18,8 +19,8 @@ var class_ext_1_1_net_1_1_series =
     [ "HighlightDefaults", "d2/df8/class_ext_1_1_net_1_1_series.html#a757c471e3b2d1a6586f0be90fbceb2d4", null ],
     [ "InstanceOf", "d2/df8/class_ext_1_1_net_1_1_series.html#af5735ca529b847034f94654588c1902e", null ],
     [ "Label", "d2/df8/class_ext_1_1_net_1_1_series.html#ad3f72e9939822c79cc0ace2733f37f2e", null ],
-    [ "LabelOverflowPadding", "d2/df8/class_ext_1_1_net_1_1_series.html#ac14f66f52bddf8e4df02b514354d64cf", null ],
-    [ "Listeners", "d2/df8/class_ext_1_1_net_1_1_series.html#a2c665f2b58446e47062df51b046df28b", null ],
+    [ "LabelOverflowPadding", "d2/df8/class_ext_1_1_net_1_1_series.html#a0d96682cda8695a5ab37d2f85968f871", null ],
+    [ "Listeners", "d2/df8/class_ext_1_1_net_1_1_series.html#af92db385ff48c0f9438d144daa5d5820", null ],
     [ "Marker", "d2/df8/class_ext_1_1_net_1_1_series.html#ae0ebb1ce93b163248e4be54ffa8a794a", null ],
     [ "MarkerSubStyle", "d2/df8/class_ext_1_1_net_1_1_series.html#a0123357bcbd842eeb2afeb3969716cd4", null ],
     [ "PropertyName", "d2/df8/class_ext_1_1_net_1_1_series.html#ae5466426923fbfe3dccb28d1635579e6", null ],
@@ -33,6 +34,6 @@ var class_ext_1_1_net_1_1_series =
     [ "Title", "d2/df8/class_ext_1_1_net_1_1_series.html#a0d4b3c10821ca53aa05f790c2cbedee0", null ],
     [ "Titles", "d2/df8/class_ext_1_1_net_1_1_series.html#aa5be774669d2c6e490caf72930c37c9b", null ],
     [ "Tooltip", "d2/df8/class_ext_1_1_net_1_1_series.html#acc7f23c73a7fb060f6b47f5d551b6620", null ],
-    [ "UseDarkerStrokeColor", "d2/df8/class_ext_1_1_net_1_1_series.html#a38aea4e4f27cc2e76923067c43e79e52", null ],
-    [ "UseDarkerStrokeColorNumber", "d2/df8/class_ext_1_1_net_1_1_series.html#a8107342bcfc9030cea3e9f8b6492c2a3", null ]
+    [ "UseDarkerStrokeColor", "d2/df8/class_ext_1_1_net_1_1_series.html#a4598b2fa3190bed25b86f3723e3972fb", null ],
+    [ "UseDarkerStrokeColorNumber", "d2/df8/class_ext_1_1_net_1_1_series.html#a85afd636da68d6a6b5109f74859be5c6", null ]
 ];

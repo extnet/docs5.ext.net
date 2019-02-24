@@ -34,5 +34,5 @@ var class_ext_1_1_net_1_1_tab =
     [ "ToolTip", "d8/d8f/class_ext_1_1_net_1_1_tab.html#a02a07310beb162757966960e3128d845", null ],
     [ "UI", "d8/d8f/class_ext_1_1_net_1_1_tab.html#a83fb0c3aa36d8d0468793867f6beab1c", null ],
     [ "UIName", "d8/d8f/class_ext_1_1_net_1_1_tab.html#a7b69afb3cc254d9c1d4269cefc026336", null ],
-    [ "UIProxy", "d8/d8f/class_ext_1_1_net_1_1_tab.html#ab2805d5b90463d100d00385a9561f263", null ]
+    [ "UIProxy", "d8/d8f/class_ext_1_1_net_1_1_tab.html#a8a9980e3d62a7c188cb7c0c903bd9eae", null ]
 ];

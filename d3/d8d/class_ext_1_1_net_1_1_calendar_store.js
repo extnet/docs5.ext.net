@@ -12,7 +12,7 @@ var class_ext_1_1_net_1_1_calendar_store =
     [ "Calendars", "d3/d8d/class_ext_1_1_net_1_1_calendar_store.html#a0fc7a0576ea613d2d451d212c216f09e", null ],
     [ "ConfigOptions", "d3/d8d/class_ext_1_1_net_1_1_calendar_store.html#ad9e738ce9ff2c86152f2f44a5216c254", null ],
     [ "InstanceOf", "d3/d8d/class_ext_1_1_net_1_1_calendar_store.html#a96af3f3684b5ed38d868a582f0be50a0", null ],
-    [ "Mappings", "d3/d8d/class_ext_1_1_net_1_1_calendar_store.html#a9641e9a235f08b5efe7777acfb673d61", null ],
+    [ "Mappings", "d3/d8d/class_ext_1_1_net_1_1_calendar_store.html#abeafb650d6e17838aa241c02508153a7", null ],
     [ "MemoryProxy", "d3/d8d/class_ext_1_1_net_1_1_calendar_store.html#aeb22b20697544d5b406c21ea955717d1", null ],
     [ "NoMappings", "d3/d8d/class_ext_1_1_net_1_1_calendar_store.html#a3dff767f4fe1cce871fd5f1684e672d4", null ],
     [ "RedefineMappings", "d3/d8d/class_ext_1_1_net_1_1_calendar_store.html#a91d9c7de85773b898a3b7e3d60dbc9fd", null ],

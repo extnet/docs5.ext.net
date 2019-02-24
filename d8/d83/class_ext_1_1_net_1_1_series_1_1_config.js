@@ -7,7 +7,7 @@ var class_ext_1_1_net_1_1_series_1_1_config =
     [ "HighlightConfig", "d8/d83/class_ext_1_1_net_1_1_series_1_1_config.html#ac357c3b8a0fd245b4275369b458afb32", null ],
     [ "HighlightDefaults", "d8/d83/class_ext_1_1_net_1_1_series_1_1_config.html#a8c43f57125e0811b48d9957aa12adcb9", null ],
     [ "Label", "d8/d83/class_ext_1_1_net_1_1_series_1_1_config.html#aab2c7e2a45d16dc588e606e64f9aea5f", null ],
-    [ "LabelOverflowPadding", "d8/d83/class_ext_1_1_net_1_1_series_1_1_config.html#abed94b2c9604da3aa9d3945c5704adb7", null ],
+    [ "LabelOverflowPadding", "d8/d83/class_ext_1_1_net_1_1_series_1_1_config.html#a589310974a7474ab6d244feae76c3171", null ],
     [ "Listeners", "d8/d83/class_ext_1_1_net_1_1_series_1_1_config.html#a3119e657313e459bfcbd5cfaacbd7f64", null ],
     [ "Marker", "d8/d83/class_ext_1_1_net_1_1_series_1_1_config.html#a9d5add98fdb55858bdfaf5c4e9c99c1e", null ],
     [ "MarkerSubStyle", "d8/d83/class_ext_1_1_net_1_1_series_1_1_config.html#a8fbcdccdb91ee11ccc74fef6a08afae2", null ],
@@ -21,6 +21,6 @@ var class_ext_1_1_net_1_1_series_1_1_config =
     [ "Title", "d8/d83/class_ext_1_1_net_1_1_series_1_1_config.html#a1cadfb28d8ede110bde10b80e92ebdcd", null ],
     [ "Titles", "d8/d83/class_ext_1_1_net_1_1_series_1_1_config.html#ab64698c9965377839d80e92b01c05518", null ],
     [ "Tooltip", "d8/d83/class_ext_1_1_net_1_1_series_1_1_config.html#aa0d4a1043b5c8b7ced1cfc6c14755f9a", null ],
-    [ "UseDarkerStrokeColor", "d8/d83/class_ext_1_1_net_1_1_series_1_1_config.html#a15ce5eaad1fadc948efed0bb93a6cbb5", null ],
-    [ "UseDarkerStrokeColorNumber", "d8/d83/class_ext_1_1_net_1_1_series_1_1_config.html#acba4d0fba5f44f1f100c316e14435bcc", null ]
+    [ "UseDarkerStrokeColor", "d8/d83/class_ext_1_1_net_1_1_series_1_1_config.html#a3a398b090a13a442344e280f88773c55", null ],
+    [ "UseDarkerStrokeColorNumber", "d8/d83/class_ext_1_1_net_1_1_series_1_1_config.html#ae8215838da5ff3a278f08097a27c8586", null ]
 ];

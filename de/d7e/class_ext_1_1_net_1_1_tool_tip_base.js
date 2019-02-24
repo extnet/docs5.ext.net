@@ -2,11 +2,6 @@ var class_ext_1_1_net_1_1_tool_tip_base =
 [
     [ "Builder", "de/df0/class_ext_1_1_net_1_1_tool_tip_base_1_1_builder.html", "de/df0/class_ext_1_1_net_1_1_tool_tip_base_1_1_builder" ],
     [ "Config", "d9/d5c/class_ext_1_1_net_1_1_tool_tip_base_1_1_config.html", "d9/d5c/class_ext_1_1_net_1_1_tool_tip_base_1_1_config" ],
-    [ "AfterShow", "de/d7e/class_ext_1_1_net_1_1_tool_tip_base.html#a49b2998c5715f368e6b562a848cabdaf", null ],
-    [ "RealignToTarget", "de/d7e/class_ext_1_1_net_1_1_tool_tip_base.html#a0f08736b94a554e3c8b4341cfb7111d9", null ],
-    [ "ShowBy", "de/d7e/class_ext_1_1_net_1_1_tool_tip_base.html#a775f142487e30ea39f3ee69f7287c277", null ],
-    [ "ShowBy", "de/d7e/class_ext_1_1_net_1_1_tool_tip_base.html#ac9d3db7c6d95a396105b0fbb532c53ff", null ],
-    [ "ShowBy", "de/d7e/class_ext_1_1_net_1_1_tool_tip_base.html#afe1238a3d5a7d970f96fb05a6e9feab5", null ],
     [ "Anchor", "de/d7e/class_ext_1_1_net_1_1_tool_tip_base.html#aba2f37472dee535f876eeec15a36baa3", null ],
     [ "AutoHide", "de/d7e/class_ext_1_1_net_1_1_tool_tip_base.html#ad80723f07f87d48c1402fbd7a908da30", null ],
     [ "ConfigOptions", "de/d7e/class_ext_1_1_net_1_1_tool_tip_base.html#ab421548d98073e04740080c5c61ebd22", null ],
@@ -19,12 +14,10 @@ var class_ext_1_1_net_1_1_tool_tip_base =
     [ "HideDelay", "de/d7e/class_ext_1_1_net_1_1_tool_tip_base.html#abed1b386e1a34a9b0fc0bf6c5f63d188", null ],
     [ "MouseOffset", "de/d7e/class_ext_1_1_net_1_1_tool_tip_base.html#a29ff185ac1b1eb2e5ebe8fdddaa28fa3", null ],
     [ "RemoveContainer", "de/d7e/class_ext_1_1_net_1_1_tool_tip_base.html#abe6f34ae85f94a10384d50d1e35b04ff", null ],
-    [ "RenderToProxy", "de/d7e/class_ext_1_1_net_1_1_tool_tip_base.html#aa5ff75ccf3a9b4aeb89449274c728bdf", null ],
+    [ "RenderToProxy", "de/d7e/class_ext_1_1_net_1_1_tool_tip_base.html#a15f4790d8e5d9b81b1264ba4ff84d63a", null ],
     [ "ShowDelay", "de/d7e/class_ext_1_1_net_1_1_tool_tip_base.html#a8a99fab2f5fa01de2eac6dd403a343f2", null ],
-    [ "ShowOnTap", "de/d7e/class_ext_1_1_net_1_1_tool_tip_base.html#a0cc99ab9449b178389061a945a439314", null ],
+    [ "ShowOnTap", "de/d7e/class_ext_1_1_net_1_1_tool_tip_base.html#a958a0eab901906f1ade53c686955db03", null ],
     [ "Target", "de/d7e/class_ext_1_1_net_1_1_tool_tip_base.html#aebfeb8ac3c0633443f8713639d50d61d", null ],
     [ "TargetControl", "de/d7e/class_ext_1_1_net_1_1_tool_tip_base.html#ac8170c103af438c1c8e9a1d732a4aafe", null ],
-    [ "TargetOffset", "de/d7e/class_ext_1_1_net_1_1_tool_tip_base.html#a8ab497152a37fdb43d3c52bcab22ae65", null ],
-    [ "TargetProxy", "de/d7e/class_ext_1_1_net_1_1_tool_tip_base.html#abc007f30d0b904d8c8bb90269591ca26", null ],
-    [ "TrackMouse", "de/d7e/class_ext_1_1_net_1_1_tool_tip_base.html#a14477d2da9adbe1c211d58c4fd12d41f", null ]
+    [ "TargetOffset", "de/d7e/class_ext_1_1_net_1_1_tool_tip_base.html#a8ab497152a37fdb43d3c52bcab22ae65", null ]
 ];

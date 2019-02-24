@@ -1,5 +1,5 @@
 var class_ext_1_1_net_1_1_pie3_d_series_1_1_config =
 [
-    [ "Distortion", "d7/d4e/class_ext_1_1_net_1_1_pie3_d_series_1_1_config.html#a373b8c0d547e8c853c22b0e4cca54f4c", null ],
-    [ "Donut", "d7/d4e/class_ext_1_1_net_1_1_pie3_d_series_1_1_config.html#aadac8f6088d50aa6e1d1b3ae7411a525", null ]
+    [ "Distortion", "d7/d4e/class_ext_1_1_net_1_1_pie3_d_series_1_1_config.html#abb3f9e614eda5276deb94b8fdf0adfc8", null ],
+    [ "Donut", "d7/d4e/class_ext_1_1_net_1_1_pie3_d_series_1_1_config.html#ab4e8de6be219c84e07c06d0e431d40bf", null ]
 ];

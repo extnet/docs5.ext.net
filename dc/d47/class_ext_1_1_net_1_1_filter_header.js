@@ -13,6 +13,7 @@ var class_ext_1_1_net_1_1_filter_header =
     [ "InitItem", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#ac148c3fb8b97037fb805edcb89fbb011", null ],
     [ "OnCreateFilterableField", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#a456c6990508e951505948fbcfe9bf3cb", null ],
     [ "OnCreateNonFilterableField", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#a5b08913895df226ed26b416eb7ac0493", null ],
+    [ "PluginAdded", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#ac6239aece36d1ef8b2f3d6306fa924a8", null ],
     [ "SetValue", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#a9ad09f648d5264e69c64e1944e2bf55a", null ],
     [ "ToBuilder", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#a0a410dfb879749f6acd8b1b2ddabc9ec", null ],
     [ "ToNativeBuilder", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#a313d619ca25afa67d9d3036afdfcd055", null ],
@@ -23,7 +24,7 @@ var class_ext_1_1_net_1_1_filter_header =
     [ "CreateFilterableField", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#ac4aff07276f74f1018118300d2d24dd5", null ],
     [ "CreateNonFilterableField", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#a5074fd54fdb10deb9c541aabe3fea51b", null ],
     [ "DateFormat", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#abbc6bbc0094239003c763d64724b3177", null ],
-    [ "DateFormatProxy", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#a52ca11b866f0e18fdca460467653575b", null ],
+    [ "DateFormatProxy", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#a618e88a70105b00be72822b8e7f1d4e3", null ],
     [ "DecimalSeparator", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#a76fcc9f66aeabca3071e14dbf5d79728", null ],
     [ "DirectEvents", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#a43cd0216e6fd94a082739f4e95d7bf39", null ],
     [ "FilterParam", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#abf2bc57259f8ae6b729a967bd7684d51", null ],
@@ -34,7 +35,7 @@ var class_ext_1_1_net_1_1_filter_header =
     [ "Remote", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#acd1b298dd4e71e544b12a9777e0787d4", null ],
     [ "Resources", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#aa3e745f675d64d2b05b9451e1b034bcc", null ],
     [ "SubmitDateFormat", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#abb9a160141f5ebbc6e7b733f4e795bc6", null ],
-    [ "SubmitDateFormatProxy", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#aedee8644c18e0037195f51e166300a4d", null ],
+    [ "SubmitDateFormatProxy", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#a8432d72a0d5bc02c8171d47ddc1add27", null ],
     [ "UpdateBuffer", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#af27543ac5cc95ff58757a757543a4a20", null ],
     [ "Value", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#a353ca592a8f3fd9ed44b65cacbe4738f", null ]
 ];

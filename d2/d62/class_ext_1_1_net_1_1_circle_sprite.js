@@ -7,8 +7,8 @@ var class_ext_1_1_net_1_1_circle_sprite =
     [ "ToBuilder", "d2/d62/class_ext_1_1_net_1_1_circle_sprite.html#a80774f70784603364ccfb30497f95dfd", null ],
     [ "ToNativeBuilder", "d2/d62/class_ext_1_1_net_1_1_circle_sprite.html#ab6b896e81760526bfab6600ff807e167", null ],
     [ "ConfigOptions", "d2/d62/class_ext_1_1_net_1_1_circle_sprite.html#a14648bc416079952532491a79d6fb4fd", null ],
-    [ "CX", "d2/d62/class_ext_1_1_net_1_1_circle_sprite.html#a4f021d7e13a9eec4342daa39a2142782", null ],
-    [ "CY", "d2/d62/class_ext_1_1_net_1_1_circle_sprite.html#ab321809e67268fbfa55bf17f76c5971c", null ],
-    [ "Radius", "d2/d62/class_ext_1_1_net_1_1_circle_sprite.html#a58a9a2ff070cef13c112a031a8de3eeb", null ],
+    [ "CX", "d2/d62/class_ext_1_1_net_1_1_circle_sprite.html#ab4629e9ab99c9d146c4f2caafacd6e3e", null ],
+    [ "CY", "d2/d62/class_ext_1_1_net_1_1_circle_sprite.html#ae302b09bb43ef01ba28e17c997c00f09", null ],
+    [ "Radius", "d2/d62/class_ext_1_1_net_1_1_circle_sprite.html#a60fc1993c46955add6eab1f50f0c3060", null ],
     [ "Type", "d2/d62/class_ext_1_1_net_1_1_circle_sprite.html#ad7aafcc75b8ddfa162d56e6b9e7f85bd", null ]
 ];

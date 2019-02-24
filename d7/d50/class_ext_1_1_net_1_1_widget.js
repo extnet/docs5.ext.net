@@ -12,7 +12,7 @@ var class_ext_1_1_net_1_1_widget =
     [ "ConfigOptions", "d7/d50/class_ext_1_1_net_1_1_widget.html#a3824a3e295c6dabc628f289e9c795a33", null ],
     [ "InstanceOf", "d7/d50/class_ext_1_1_net_1_1_widget.html#ac2f858b01850893126f1987e41433e05", null ],
     [ "Name", "d7/d50/class_ext_1_1_net_1_1_widget.html#af8261f1eb23c459a5edcde0564d5eb18", null ],
-    [ "Ripple", "d7/d50/class_ext_1_1_net_1_1_widget.html#a302bd0e809c5b5bece7c49e7ac14cec5", null ],
+    [ "Ripple", "d7/d50/class_ext_1_1_net_1_1_widget.html#a7a06a708cce637db5435c4f97b2651da", null ],
     [ "RippleObject", "d7/d50/class_ext_1_1_net_1_1_widget.html#ab7997ddfdee73c53a283ec77a789de3f", null ],
     [ "RippleString", "d7/d50/class_ext_1_1_net_1_1_widget.html#aaed61cbb8bee586112a2380456956d78", null ],
     [ "XType", "d7/d50/class_ext_1_1_net_1_1_widget.html#ad33cef56c834b94e193f22584d23e6f1", null ]

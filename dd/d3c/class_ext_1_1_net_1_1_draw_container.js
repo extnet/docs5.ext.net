@@ -37,7 +37,7 @@ var class_ext_1_1_net_1_1_draw_container =
     [ "Items", "dd/d3c/class_ext_1_1_net_1_1_draw_container.html#af83520a5c40d9902aa525912efd029e6", null ],
     [ "Listeners", "dd/d3c/class_ext_1_1_net_1_1_draw_container.html#a6e00d2642c84124504f66c71fed26e79", null ],
     [ "ResizeHandler", "dd/d3c/class_ext_1_1_net_1_1_draw_container.html#a095a3ef609f7ad3c5c2e63f79bcc720c", null ],
-    [ "Resources", "dd/d3c/class_ext_1_1_net_1_1_draw_container.html#a6e68e294be7d82f5418087c73ad2f9dd", null ],
+    [ "Resources", "dd/d3c/class_ext_1_1_net_1_1_draw_container.html#a154d32999886386cabc775bb6e4c1862", null ],
     [ "SpritesProxy", "dd/d3c/class_ext_1_1_net_1_1_draw_container.html#a7e3e1fc120d991da5f5dc5c22dd22313", null ],
     [ "XType", "dd/d3c/class_ext_1_1_net_1_1_draw_container.html#adf1503793bf14ce397006e88ef013780", null ]
 ];

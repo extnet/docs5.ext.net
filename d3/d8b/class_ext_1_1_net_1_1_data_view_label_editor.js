@@ -12,5 +12,5 @@ var class_ext_1_1_net_1_1_data_view_label_editor =
     [ "LabelSelector", "d3/d8b/class_ext_1_1_net_1_1_data_view_label_editor.html#aaa4dbc03e5f7520891bffc0b572ae3e8", null ],
     [ "RequiredOwnerType", "d3/d8b/class_ext_1_1_net_1_1_data_view_label_editor.html#ab25439128df68e65c44e8f7e225b8300", null ],
     [ "Resources", "d3/d8b/class_ext_1_1_net_1_1_data_view_label_editor.html#a5731792e468215c43bb9a1a0424b6379", null ],
-    [ "Shim", "d3/d8b/class_ext_1_1_net_1_1_data_view_label_editor.html#a831405fb88b8eb760c94876fb99ceb33", null ]
+    [ "Shim", "d3/d8b/class_ext_1_1_net_1_1_data_view_label_editor.html#a6e6a58df08ba63cc07e474c352df40b7", null ]
 ];

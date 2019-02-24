@@ -8,6 +8,6 @@ var class_ext_1_1_net_1_1_gauge_anim_config =
       [ "InOut", "d5/d1f/class_ext_1_1_net_1_1_gauge_anim_config.html#af72f6cc89f559da6f350e234c534731fa47a54d9da8952a3980d27488b00a21c1", null ]
     ] ],
     [ "ConfigOptions", "d5/d1f/class_ext_1_1_net_1_1_gauge_anim_config.html#a1076999bfa215968321bdf3dbf9f76a4", null ],
-    [ "Duration", "d5/d1f/class_ext_1_1_net_1_1_gauge_anim_config.html#a4d4825ea77235fb1fb993336c72fb7e9", null ],
+    [ "Duration", "d5/d1f/class_ext_1_1_net_1_1_gauge_anim_config.html#a9decbcc4ec3ca040765426721479bbb7", null ],
     [ "Easing", "d5/d1f/class_ext_1_1_net_1_1_gauge_anim_config.html#ae67fd4f6ccfec5452d2059cba27fba09", null ]
 ];

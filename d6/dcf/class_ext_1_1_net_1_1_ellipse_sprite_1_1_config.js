@@ -1,8 +1,8 @@
 var class_ext_1_1_net_1_1_ellipse_sprite_1_1_config =
 [
-    [ "AxisRotation", "d6/dcf/class_ext_1_1_net_1_1_ellipse_sprite_1_1_config.html#aa675f769108d0843e5c41213834a3df0", null ],
-    [ "CX", "d6/dcf/class_ext_1_1_net_1_1_ellipse_sprite_1_1_config.html#a5c50fc83dc188ad9bcd9db9ebabcbdc2", null ],
-    [ "CY", "d6/dcf/class_ext_1_1_net_1_1_ellipse_sprite_1_1_config.html#acc14f39c2a07638eecde68de8a95d3c2", null ],
-    [ "RX", "d6/dcf/class_ext_1_1_net_1_1_ellipse_sprite_1_1_config.html#a07cd1403f603e6fb18de7b9014ce77c6", null ],
-    [ "RY", "d6/dcf/class_ext_1_1_net_1_1_ellipse_sprite_1_1_config.html#a801589f3879d3288fd6b52c64232422b", null ]
+    [ "AxisRotation", "d6/dcf/class_ext_1_1_net_1_1_ellipse_sprite_1_1_config.html#a80dd37243a853d9506cf0547fd54abb1", null ],
+    [ "CX", "d6/dcf/class_ext_1_1_net_1_1_ellipse_sprite_1_1_config.html#a0ee312d12c657486b70d4db96b2a440a", null ],
+    [ "CY", "d6/dcf/class_ext_1_1_net_1_1_ellipse_sprite_1_1_config.html#ab24ba4c3536f26d1e90936720f19c6d2", null ],
+    [ "RX", "d6/dcf/class_ext_1_1_net_1_1_ellipse_sprite_1_1_config.html#a447886a839c812046ee1cb60fa63938d", null ],
+    [ "RY", "d6/dcf/class_ext_1_1_net_1_1_ellipse_sprite_1_1_config.html#adff1266435243fd32481010ec37a28e7", null ]
 ];

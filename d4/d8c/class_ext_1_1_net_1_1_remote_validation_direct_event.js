@@ -3,7 +3,7 @@ var class_ext_1_1_net_1_1_remote_validation_direct_event =
     [ "RemoteValidationEventHandler", "d4/d8c/class_ext_1_1_net_1_1_remote_validation_direct_event.html#a38309033d83c2f791abc5027c1a10250", null ],
     [ "BusyIcon", "d4/d8c/class_ext_1_1_net_1_1_remote_validation_direct_event.html#aeae1e757b27507d7264a8518abb5fb04", null ],
     [ "BusyIconCls", "d4/d8c/class_ext_1_1_net_1_1_remote_validation_direct_event.html#ae933339c061bd878215e3e99876cb575", null ],
-    [ "BusyIconClsProxy", "d4/d8c/class_ext_1_1_net_1_1_remote_validation_direct_event.html#a9708cf3fe8db5452ae556293a5ad8f8c", null ],
+    [ "BusyIconClsProxy", "d4/d8c/class_ext_1_1_net_1_1_remote_validation_direct_event.html#a3c51db7f140558fdc6e4ff7ad8bd772a", null ],
     [ "BusyTip", "d4/d8c/class_ext_1_1_net_1_1_remote_validation_direct_event.html#a6b56be330e1e4e69fea7374bf5b27297", null ],
     [ "ConfigOptions", "d4/d8c/class_ext_1_1_net_1_1_remote_validation_direct_event.html#a642c4ddfb171668fd6b99808bff2ec19", null ],
     [ "DirectFn", "d4/d8c/class_ext_1_1_net_1_1_remote_validation_direct_event.html#a843516b8ab7f1ad3c5d5bec339b0e3a5", null ],

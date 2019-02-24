@@ -9,6 +9,6 @@ var class_ext_1_1_net_1_1_text_sprite_1_1_config =
     [ "Text", "d0/d71/class_ext_1_1_net_1_1_text_sprite_1_1_config.html#ac6ffacc891c4275fdd6f584d36001479", null ],
     [ "TextAlign", "d0/d71/class_ext_1_1_net_1_1_text_sprite_1_1_config.html#a8fe305f4ea9a523f19c30f06b2a837b6", null ],
     [ "TextBaseline", "d0/d71/class_ext_1_1_net_1_1_text_sprite_1_1_config.html#a5f40772fda585fe249bd838800105c85", null ],
-    [ "X", "d0/d71/class_ext_1_1_net_1_1_text_sprite_1_1_config.html#a493f79ca51892f24765ad9f0822c9350", null ],
-    [ "Y", "d0/d71/class_ext_1_1_net_1_1_text_sprite_1_1_config.html#a5d9e67ef35621aade7674f76008bf95a", null ]
+    [ "X", "d0/d71/class_ext_1_1_net_1_1_text_sprite_1_1_config.html#a92f2afc6e55b50c16b641434b49f073b", null ],
+    [ "Y", "d0/d71/class_ext_1_1_net_1_1_text_sprite_1_1_config.html#a849aa22b25be731f2f751152f0bb2788", null ]
 ];

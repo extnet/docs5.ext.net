@@ -6,7 +6,7 @@ var class_ext_1_1_net_1_1_page_proxy =
     [ "PageProxy", "d3/d0c/class_ext_1_1_net_1_1_page_proxy.html#a9a06d348d423b3a02af8162e437b23e6", null ],
     [ "ToBuilder", "d3/d0c/class_ext_1_1_net_1_1_page_proxy.html#a69564e1a4534bb498c3de9e50845b23b", null ],
     [ "ToNativeBuilder", "d3/d0c/class_ext_1_1_net_1_1_page_proxy.html#a3eaed1f8b2fb5f95e867625a25acb66a", null ],
-    [ "API", "d3/d0c/class_ext_1_1_net_1_1_page_proxy.html#ad542d8ffff90dbcc6a4e5a16dc64f3ff", null ],
+    [ "API", "d3/d0c/class_ext_1_1_net_1_1_page_proxy.html#ab61ed06056700ebb079f1ba6f2645df0", null ],
     [ "ConfigOptions", "d3/d0c/class_ext_1_1_net_1_1_page_proxy.html#a7806c4077b7379fb4b2c3507798e2ff9", null ],
     [ "DirectFn", "d3/d0c/class_ext_1_1_net_1_1_page_proxy.html#aad20ef16886ae9b3979c8ccf61b1b6a2", null ],
     [ "InstanceOf", "d3/d0c/class_ext_1_1_net_1_1_page_proxy.html#aaba33bc5abbef6fc30622d789dadf11f", null ],

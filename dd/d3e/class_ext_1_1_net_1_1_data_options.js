@@ -9,7 +9,7 @@ var class_ext_1_1_net_1_1_data_options =
     [ "Associated", "dd/d3e/class_ext_1_1_net_1_1_data_options.html#aeb7f4d104d52d7312222eb2cccc5aeb5", null ],
     [ "Changes", "dd/d3e/class_ext_1_1_net_1_1_data_options.html#a726beff452e1281b4204d525b277fb70", null ],
     [ "ConfigOptions", "dd/d3e/class_ext_1_1_net_1_1_data_options.html#ada6f4e0bc4551bc1d5fa46ed8bf94a72", null ],
-    [ "Critical", "dd/d3e/class_ext_1_1_net_1_1_data_options.html#adb77d73b48eb9833cba37ec2173d7524", null ],
-    [ "Persist", "dd/d3e/class_ext_1_1_net_1_1_data_options.html#adfe4629185aa309faffd5bb5ef0d1d5b", null ],
+    [ "Critical", "dd/d3e/class_ext_1_1_net_1_1_data_options.html#a48e7f851d24806e19ed9c97f0d58bcd4", null ],
+    [ "Persist", "dd/d3e/class_ext_1_1_net_1_1_data_options.html#a6ace12910c397386829d5c70d05560b6", null ],
     [ "Serialize", "dd/d3e/class_ext_1_1_net_1_1_data_options.html#affd24449bbc1dd8b10284bc995251cfc", null ]
 ];

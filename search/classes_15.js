@@ -11,6 +11,7 @@ var searchData=
   ['viewcollection',['ViewCollection',['../d9/dbe/class_ext_1_1_net_1_1_view_collection.html',1,'Ext.Net.ViewCollection&lt; T &gt;'],['../d9/dbe/class_ext_1_1_net_1_1_view_collection.html',1,'Ext.Net.ViewCollection&lt; T &gt;']]],
   ['viewcollection_3c_20ext_3a_3anet_3a_3agridview_20_3e',['ViewCollection&lt; Ext::Net::GridView &gt;',['../d9/dbe/class_ext_1_1_net_1_1_view_collection.html',1,'Ext::Net']]],
   ['viewcollection_3c_20ext_3a_3anet_3a_3atreeview_20_3e',['ViewCollection&lt; Ext::Net::TreeView &gt;',['../d9/dbe/class_ext_1_1_net_1_1_view_collection.html',1,'Ext::Net']]],
+  ['viewdatacontainer',['ViewDataContainer',['../df/d90/class_ext_1_1_net_1_1_m_v_c_1_1_view_data_container.html',1,'Ext::Net::MVC']]],
   ['viewitem',['ViewItem',['../d2/d4f/class_ext_1_1_net_1_1_view_item.html',1,'Ext::Net']]],
   ['viewitemcollection',['ViewItemCollection',['../dc/d3a/class_ext_1_1_net_1_1_view_item_collection.html',1,'Ext::Net']]],
   ['viewport',['Viewport',['../dd/d4e/class_ext_1_1_net_1_1_viewport.html',1,'Ext::Net']]],

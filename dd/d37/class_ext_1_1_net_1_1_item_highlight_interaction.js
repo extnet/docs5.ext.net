@@ -10,7 +10,7 @@ var class_ext_1_1_net_1_1_item_highlight_interaction =
     [ "ToNativeBuilder", "dd/d37/class_ext_1_1_net_1_1_item_highlight_interaction.html#a51ba12ab04a58927e5d317fff2068e25", null ],
     [ "ConfigOptions", "dd/d37/class_ext_1_1_net_1_1_item_highlight_interaction.html#a799b8ef12e5ea5fa23290b90629ee976", null ],
     [ "InstanceOf", "dd/d37/class_ext_1_1_net_1_1_item_highlight_interaction.html#acca5e2c478998179d55742522e5a7249", null ],
-    [ "MultiTooltips", "dd/d37/class_ext_1_1_net_1_1_item_highlight_interaction.html#aa9038e039d5e01f94fff61cdf1fba43f", null ],
-    [ "Sticky", "dd/d37/class_ext_1_1_net_1_1_item_highlight_interaction.html#a92601b63180eb35be26fd0d6a6d6f976", null ],
+    [ "MultiTooltips", "dd/d37/class_ext_1_1_net_1_1_item_highlight_interaction.html#ae25d3dfdf07e4711f23cb7cf008182bd", null ],
+    [ "Sticky", "dd/d37/class_ext_1_1_net_1_1_item_highlight_interaction.html#a0d47893b9f5042117169f3a15cef9f65", null ],
     [ "Type", "dd/d37/class_ext_1_1_net_1_1_item_highlight_interaction.html#a203cd51f02b0358ed7b7ba4a52e97fc1", null ]
 ];

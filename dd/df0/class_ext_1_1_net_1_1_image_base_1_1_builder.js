@@ -6,6 +6,8 @@ var class_ext_1_1_net_1_1_image_base_1_1_builder =
     [ "Alt", "dd/df0/class_ext_1_1_net_1_1_image_base_1_1_builder.html#ac38cff3180540eb7d394efd737804a90", null ],
     [ "AlternateText", "dd/df0/class_ext_1_1_net_1_1_image_base_1_1_builder.html#a8e4e1ca40ddd059d5415ba3a14f67bcc", null ],
     [ "Glyph", "dd/df0/class_ext_1_1_net_1_1_image_base_1_1_builder.html#ad6b6d0557ad23db1a7ec260c84203a8b", null ],
+    [ "Glyphorig", "dd/df0/class_ext_1_1_net_1_1_image_base_1_1_builder.html#a15970b1a956dff9b603cd1c67e70acc9", null ],
+    [ "GlyphorigString", "dd/df0/class_ext_1_1_net_1_1_image_base_1_1_builder.html#ace22b8f40c56db800df4a3e263e8c289", null ],
     [ "GlyphSpec", "dd/df0/class_ext_1_1_net_1_1_image_base_1_1_builder.html#a4039efcbbfe5f2214eff74c4a85b6763", null ],
     [ "ImageUrl", "dd/df0/class_ext_1_1_net_1_1_image_base_1_1_builder.html#a3464bc44c24d8548d352def343aedf96", null ],
     [ "ImgCls", "dd/df0/class_ext_1_1_net_1_1_image_base_1_1_builder.html#a66b884c7ee67397d75f95c53ce5a7bab", null ],

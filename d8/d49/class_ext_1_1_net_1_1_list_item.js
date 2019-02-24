@@ -17,5 +17,5 @@ var class_ext_1_1_net_1_1_list_item =
     [ "Mode", "d8/d49/class_ext_1_1_net_1_1_list_item.html#a94c0f33050604cae7ba97b69daf97f61", null ],
     [ "Text", "d8/d49/class_ext_1_1_net_1_1_list_item.html#a0d0911a5e9b07c8cfd7469313ba63c79", null ],
     [ "Value", "d8/d49/class_ext_1_1_net_1_1_list_item.html#aee8252b800ded8d62f61b5bd6e3e780a", null ],
-    [ "ValueProxy", "d8/d49/class_ext_1_1_net_1_1_list_item.html#a6dd41c019900ec9e5ffa625ed7f9986d", null ]
+    [ "ValueProxy", "d8/d49/class_ext_1_1_net_1_1_list_item.html#a0848b734c27c5f58a694b2794a747907", null ]
 ];

@@ -9,7 +9,7 @@ var class_ext_1_1_net_1_1_tag =
     [ "ToBuilder", "dd/d27/class_ext_1_1_net_1_1_tag.html#adcfc6acc41476eda94c20d7d4d154c6f", null ],
     [ "ToNativeBuilder", "dd/d27/class_ext_1_1_net_1_1_tag.html#a0f7a2c5797603bd399d63068de2a6299", null ],
     [ "ToScript", "dd/d27/class_ext_1_1_net_1_1_tag.html#aa683a7212b94e783a73a50d85f0ba2ab", null ],
-    [ "Closable", "dd/d27/class_ext_1_1_net_1_1_tag.html#a7a339246db205b2784ea43815c166bd3", null ],
+    [ "Closable", "dd/d27/class_ext_1_1_net_1_1_tag.html#a25ec943556f6857b2bc1dcfd4d378835", null ],
     [ "Cls", "dd/d27/class_ext_1_1_net_1_1_tag.html#a8bda7927e7f0987974845b4ce5260dd5", null ],
     [ "ConfigOptions", "dd/d27/class_ext_1_1_net_1_1_tag.html#a033d36f0182e6641c8d3e9d6ed94d5c9", null ],
     [ "Disabled", "dd/d27/class_ext_1_1_net_1_1_tag.html#a3d1f2c94a679564dd5a75a394e4ba374", null ],

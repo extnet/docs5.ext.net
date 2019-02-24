@@ -7,7 +7,7 @@ var class_ext_1_1_net_1_1_grid_command =
     [ "GridCommand", "dc/db9/class_ext_1_1_net_1_1_grid_command.html#a54666ce97f38a2fe4e6a20f5f279281f", null ],
     [ "ToBuilder", "dc/db9/class_ext_1_1_net_1_1_grid_command.html#ac76dbf85bf9438739cbdeac8c8ee150b", null ],
     [ "ToNativeBuilder", "dc/db9/class_ext_1_1_net_1_1_grid_command.html#a7a2073ecb82eb0e9b2f8c22384d65be6", null ],
-    [ "Cls", "dc/db9/class_ext_1_1_net_1_1_grid_command.html#a03a9d4aa108ab1760bcc2c7ff27b3820", null ],
+    [ "Cls", "dc/db9/class_ext_1_1_net_1_1_grid_command.html#ae8103cc5b5a8e1b2f4e70a8bc1b53557", null ],
     [ "CommandName", "dc/db9/class_ext_1_1_net_1_1_grid_command.html#a4db03099deea29ea3aa7041e56641a19", null ],
     [ "ConfigOptions", "dc/db9/class_ext_1_1_net_1_1_grid_command.html#aea047a35cb45bb1345c6421f7817cbd0", null ],
     [ "CtCls", "dc/db9/class_ext_1_1_net_1_1_grid_command.html#a25e862a9cc81fb98bd5cc645ad1f5249", null ],
@@ -23,5 +23,5 @@ var class_ext_1_1_net_1_1_grid_command =
     [ "StandOut", "dc/db9/class_ext_1_1_net_1_1_grid_command.html#a2247529f5b1dc7a9d799fb9e59bbd504", null ],
     [ "Text", "dc/db9/class_ext_1_1_net_1_1_grid_command.html#ace4a92056171aef100e186e35dd66242", null ],
     [ "ToolTip", "dc/db9/class_ext_1_1_net_1_1_grid_command.html#a91e563a386007c74664828863000f7f9", null ],
-    [ "XType", "dc/db9/class_ext_1_1_net_1_1_grid_command.html#a495f31b57a5e8cd77b14a3b4add1fa04", null ]
+    [ "XType", "dc/db9/class_ext_1_1_net_1_1_grid_command.html#abcddbb3da75263b0fc96b6ac7d2986de", null ]
 ];

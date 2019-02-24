@@ -9,8 +9,8 @@ var class_ext_1_1_net_1_1_panel =
     [ "ToBuilder", "db/d40/class_ext_1_1_net_1_1_panel.html#ab8558d4bfe9ee377346021cfd98adf48", null ],
     [ "ToNativeBuilder", "db/d40/class_ext_1_1_net_1_1_panel.html#a00f16fdffedf589a2c7243c41a009fa5", null ],
     [ "ConfigOptions", "db/d40/class_ext_1_1_net_1_1_panel.html#a35d633059780d7ef0cc87617772f0a14", null ],
-    [ "DirectEvents", "db/d40/class_ext_1_1_net_1_1_panel.html#a339284b2308a952772cf88cafa15e10d", null ],
+    [ "DirectEvents", "db/d40/class_ext_1_1_net_1_1_panel.html#a8792b40f08b8bbf63bd3d1e2e657ec26", null ],
     [ "InstanceOf", "db/d40/class_ext_1_1_net_1_1_panel.html#a2cfe21722709dcc0f254d45b53155b0b", null ],
-    [ "Listeners", "db/d40/class_ext_1_1_net_1_1_panel.html#a2621441e6e478f0edda8698c162b5276", null ],
+    [ "Listeners", "db/d40/class_ext_1_1_net_1_1_panel.html#a788de7c6359f86aac9508a1fd540638f", null ],
     [ "XType", "db/d40/class_ext_1_1_net_1_1_panel.html#aa1e3c774149d52821aa988fdb8b937ae", null ]
 ];

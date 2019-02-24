@@ -14,5 +14,5 @@ var class_ext_1_1_net_1_1_slider =
     [ "InstanceOf", "d4/d9e/class_ext_1_1_net_1_1_slider.html#a57bb96f75b9800c82600e1efed23c630", null ],
     [ "Listeners", "d4/d9e/class_ext_1_1_net_1_1_slider.html#aee5c5ca558f0fc81c729a04d7732a033", null ],
     [ "NumberChanged", "d4/d9e/class_ext_1_1_net_1_1_slider.html#a2d3a026e0225ac523b061484c14f5649", null ],
-    [ "XType", "d4/d9e/class_ext_1_1_net_1_1_slider.html#a97b21b09b530bcf51840e6a60dcfc23d", null ]
+    [ "XType", "d4/d9e/class_ext_1_1_net_1_1_slider.html#a46294c11861c28c32eacc7a52f12f246", null ]
 ];

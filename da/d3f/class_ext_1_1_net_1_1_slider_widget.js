@@ -17,7 +17,7 @@ var class_ext_1_1_net_1_1_slider_widget =
     [ "MinValue", "da/d3f/class_ext_1_1_net_1_1_slider_widget.html#afd206ca3d1e45ba4807ca2d5dd4828f8", null ],
     [ "PublishOnComplete", "da/d3f/class_ext_1_1_net_1_1_slider_widget.html#a82154407ada7a18988927d910c0aa66b", null ],
     [ "Value", "da/d3f/class_ext_1_1_net_1_1_slider_widget.html#acf976e73b2f106749602e29e70003dc0", null ],
-    [ "ValueProxy", "da/d3f/class_ext_1_1_net_1_1_slider_widget.html#acc1b0086966292d77e9f9e38410e8566", null ],
+    [ "ValueProxy", "da/d3f/class_ext_1_1_net_1_1_slider_widget.html#acfe6e0d7116ff80fb0eb83c2154f964f", null ],
     [ "Vertical", "da/d3f/class_ext_1_1_net_1_1_slider_widget.html#ab43e61a6ee03908812dd6fa6985f1491", null ],
     [ "XType", "da/d3f/class_ext_1_1_net_1_1_slider_widget.html#abe4d83575e18a874d5eaa54ab2951611", null ]
 ];

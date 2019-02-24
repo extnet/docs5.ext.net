@@ -8,8 +8,8 @@ var class_ext_1_1_net_1_1_cell_editing =
     [ "ToBuilder", "d7/db1/class_ext_1_1_net_1_1_cell_editing.html#aba6f7f905d22802105ff22c5d5eea8f4", null ],
     [ "ToNativeBuilder", "d7/db1/class_ext_1_1_net_1_1_cell_editing.html#ac4a6193d959d880ecb6a26ed71bd1568", null ],
     [ "ConfigOptions", "d7/db1/class_ext_1_1_net_1_1_cell_editing.html#af5d96f14a4b40a93aa8e136300dea4a8", null ],
-    [ "DirectEvents", "d7/db1/class_ext_1_1_net_1_1_cell_editing.html#aa1dfe19cad3a6df6f93de20c638d4e08", null ],
+    [ "DirectEvents", "d7/db1/class_ext_1_1_net_1_1_cell_editing.html#aca26874cc5f439fec8dd83bf4006f04d", null ],
     [ "InstanceOf", "d7/db1/class_ext_1_1_net_1_1_cell_editing.html#a3a9b5a2e1148c45707bc29b4e479f938", null ],
-    [ "Listeners", "d7/db1/class_ext_1_1_net_1_1_cell_editing.html#a35c015218aba4ff9f97f04be56b46eeb", null ],
+    [ "Listeners", "d7/db1/class_ext_1_1_net_1_1_cell_editing.html#a5df0a6cbe69d35ff123c5d828bec007f", null ],
     [ "PType", "d7/db1/class_ext_1_1_net_1_1_cell_editing.html#a2bf70a826d9ca2920dc3963ae50171a2", null ]
 ];

@@ -20,7 +20,7 @@ var class_ext_1_1_net_1_1_tab_strip =
     [ "ActionContainer", "dc/d64/class_ext_1_1_net_1_1_tab_strip.html#a71e59be3455799b64e02575d2ec8c6d3", null ],
     [ "ActionContainerID", "dc/d64/class_ext_1_1_net_1_1_tab_strip.html#aa743f11b7b9e116e109f7b359ffeb11b", null ],
     [ "ActionContainerProxy", "dc/d64/class_ext_1_1_net_1_1_tab_strip.html#a736d4ec1cb663edf873f4dec39395dc3", null ],
-    [ "ActiveTabIndex", "dc/d64/class_ext_1_1_net_1_1_tab_strip.html#ae49196f410235a2476a330d0243cadcf", null ],
+    [ "ActiveTabIndex", "dc/d64/class_ext_1_1_net_1_1_tab_strip.html#aa24137fe61da19e71e1de1b3476f07d7", null ],
     [ "AutoGrow", "dc/d64/class_ext_1_1_net_1_1_tab_strip.html#a7925845d8b64074cdafd62666adfe32e", null ],
     [ "AutoPostBack", "dc/d64/class_ext_1_1_net_1_1_tab_strip.html#a15ddcd5f21a043cec8d8c6dbc321ce7d", null ],
     [ "CausesValidation", "dc/d64/class_ext_1_1_net_1_1_tab_strip.html#a9624acea1066a9d2e26a4b2bf20e3649", null ],

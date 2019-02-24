@@ -13,7 +13,7 @@ var class_ext_1_1_net_1_1_ajax_options =
     [ "DisableCachingParam", "de/dcf/class_ext_1_1_net_1_1_ajax_options.html#ae4bbfa1656b9d8d8acc6a5797e23e412", null ],
     [ "FormID", "de/dcf/class_ext_1_1_net_1_1_ajax_options.html#a49e57b8cb662c2cac65c42a59db44cf5", null ],
     [ "FormProxyArg", "de/dcf/class_ext_1_1_net_1_1_ajax_options.html#a428f10116599bb393bc5ce9b5f994e48", null ],
-    [ "Headers", "de/dcf/class_ext_1_1_net_1_1_ajax_options.html#a47c8b11a442cf8f2e0a670cce1879f1d", null ],
+    [ "Headers", "de/dcf/class_ext_1_1_net_1_1_ajax_options.html#a4d0d12b0b225f81816f49755394cb554", null ],
     [ "IsDefault", "de/dcf/class_ext_1_1_net_1_1_ajax_options.html#a1967eff2dbaf296b3fd6ff0e2ffbef6f", null ],
     [ "IsUpload", "de/dcf/class_ext_1_1_net_1_1_ajax_options.html#a1b23fac22a4c838080e14533314cdb2e", null ],
     [ "Json", "de/dcf/class_ext_1_1_net_1_1_ajax_options.html#a71665f831a7afeb944d3eed88633826b", null ],
@@ -21,6 +21,6 @@ var class_ext_1_1_net_1_1_ajax_options =
     [ "Params", "de/dcf/class_ext_1_1_net_1_1_ajax_options.html#ad238318c7323a7c270a2a4916c12cf05", null ],
     [ "Timeout", "de/dcf/class_ext_1_1_net_1_1_ajax_options.html#a2cd9e31d4fc675ed2b51c8f03d462220", null ],
     [ "Url", "de/dcf/class_ext_1_1_net_1_1_ajax_options.html#a21aebd39585c2c512d742f08a6f389ce", null ],
-    [ "UrlProxy", "de/dcf/class_ext_1_1_net_1_1_ajax_options.html#a10121c3d3b561d9b6fbfe14503f1df34", null ],
+    [ "UrlProxy", "de/dcf/class_ext_1_1_net_1_1_ajax_options.html#a67e7427c82c2903b89f9f0ef8ab85c74", null ],
     [ "Xml", "de/dcf/class_ext_1_1_net_1_1_ajax_options.html#aee720216202103fa9bb24116e28ebb62", null ]
 ];

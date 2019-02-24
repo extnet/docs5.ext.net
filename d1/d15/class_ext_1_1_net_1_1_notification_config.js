@@ -30,8 +30,8 @@ var class_ext_1_1_net_1_1_notification_config =
     [ "Items", "d1/d15/class_ext_1_1_net_1_1_notification_config.html#ab0acb244d32107f7e02a6ca189db7e0b", null ],
     [ "ItemsProxy", "d1/d15/class_ext_1_1_net_1_1_notification_config.html#ae43454be007ec11fcdb02ebb4e414623", null ],
     [ "Layout", "d1/d15/class_ext_1_1_net_1_1_notification_config.html#ad85164dbc383483062a9fd8dbe64126c", null ],
-    [ "LayoutConfig", "d1/d15/class_ext_1_1_net_1_1_notification_config.html#a01a9292dbbd98755220c5bc56cf1a9e6", null ],
-    [ "LayoutProxy", "d1/d15/class_ext_1_1_net_1_1_notification_config.html#a32b27057600fcbb731402273e7276dfb", null ],
+    [ "LayoutConfig", "d1/d15/class_ext_1_1_net_1_1_notification_config.html#a21e3a286ab61ab1a322f9262881f83ae", null ],
+    [ "LayoutProxy", "d1/d15/class_ext_1_1_net_1_1_notification_config.html#a22e8b4747c5993e65fcaa3ee5dd92b3c", null ],
     [ "Listeners", "d1/d15/class_ext_1_1_net_1_1_notification_config.html#afb55c66e357496a263397db41a8333ac", null ],
     [ "Modal", "d1/d15/class_ext_1_1_net_1_1_notification_config.html#ac258dcf4a0e05c08aa62e60d9da33f83", null ],
     [ "PinEvent", "d1/d15/class_ext_1_1_net_1_1_notification_config.html#a524724c11405264734d8db27c664978c", null ],
@@ -47,6 +47,6 @@ var class_ext_1_1_net_1_1_notification_config =
     [ "Tools", "d1/d15/class_ext_1_1_net_1_1_notification_config.html#a8ccd58bff4dedb9346f2996c1088289b", null ],
     [ "UI", "d1/d15/class_ext_1_1_net_1_1_notification_config.html#a9af6488abeb0fbaf787cd881a6eaa820", null ],
     [ "UIName", "d1/d15/class_ext_1_1_net_1_1_notification_config.html#acc466afd6e2823a9bb679536ffbc83c3", null ],
-    [ "UIProxy", "d1/d15/class_ext_1_1_net_1_1_notification_config.html#a07afd067088d1afb1caba68d88d33b56", null ],
+    [ "UIProxy", "d1/d15/class_ext_1_1_net_1_1_notification_config.html#ad1d18de5fb9001e17a1e75f2540396ba", null ],
     [ "Width", "d1/d15/class_ext_1_1_net_1_1_notification_config.html#acada9a193c8b04529d202d974628490b", null ]
 ];

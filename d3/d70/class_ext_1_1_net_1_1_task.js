@@ -9,7 +9,7 @@ var class_ext_1_1_net_1_1_task =
     [ "Args", "d3/d70/class_ext_1_1_net_1_1_task.html#aab9f7d5494bc27b7b605691f07780180", null ],
     [ "AutoRun", "d3/d70/class_ext_1_1_net_1_1_task.html#aa714f206dc8e4802b8ce3aa43e3bb9a4", null ],
     [ "ConfigOptions", "d3/d70/class_ext_1_1_net_1_1_task.html#a52b6926a8b1cd256a935be513612244f", null ],
-    [ "DirectEventProxy", "d3/d70/class_ext_1_1_net_1_1_task.html#a55a2180934df812698b70b4db40bc0f4", null ],
+    [ "DirectEventProxy", "d3/d70/class_ext_1_1_net_1_1_task.html#af895cda7f28c3b33daae69024ba6f266", null ],
     [ "DirectEvents", "d3/d70/class_ext_1_1_net_1_1_task.html#a53743ee8c07184a3ef7c0d71353fb4d8", null ],
     [ "Duration", "d3/d70/class_ext_1_1_net_1_1_task.html#a1a78b1918d7495303db53a52e8f38bd6", null ],
     [ "Interval", "d3/d70/class_ext_1_1_net_1_1_task.html#a895da7e4a066f914571268b269a5267e", null ],

@@ -7,8 +7,8 @@ var class_ext_1_1_net_1_1_pie3_d_series =
     [ "ToBuilder", "d0/db5/class_ext_1_1_net_1_1_pie3_d_series.html#a92d1ee9c17d66e227187a8a61948156f", null ],
     [ "ToNativeBuilder", "d0/db5/class_ext_1_1_net_1_1_pie3_d_series.html#a9bb5f94197e61aa020cae3efbb3a3fcd", null ],
     [ "ConfigOptions", "d0/db5/class_ext_1_1_net_1_1_pie3_d_series.html#ab8862b553c28db43784fbfdcbe69ad60", null ],
-    [ "Distortion", "d0/db5/class_ext_1_1_net_1_1_pie3_d_series.html#aa2a626010391e1f9e18d6d43eb006589", null ],
-    [ "Donut", "d0/db5/class_ext_1_1_net_1_1_pie3_d_series.html#a46cce0d7266f6f3e466b51c6242c3757", null ],
+    [ "Distortion", "d0/db5/class_ext_1_1_net_1_1_pie3_d_series.html#ae8bf95456bae07e729592195b0c22ee7", null ],
+    [ "Donut", "d0/db5/class_ext_1_1_net_1_1_pie3_d_series.html#a154704a2cd075900755712208400a38a", null ],
     [ "InstanceOf", "d0/db5/class_ext_1_1_net_1_1_pie3_d_series.html#aca122432022288608d69e3df04ebf57c", null ],
     [ "Type", "d0/db5/class_ext_1_1_net_1_1_pie3_d_series.html#a5da596c417e33861038b21e331ef27b2", null ]
 ];

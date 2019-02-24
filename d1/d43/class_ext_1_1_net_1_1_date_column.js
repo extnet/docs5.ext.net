@@ -9,7 +9,7 @@ var class_ext_1_1_net_1_1_date_column =
     [ "ConfigOptions", "d1/d43/class_ext_1_1_net_1_1_date_column.html#aa7336168ce3254dd3cdb4afd968b7dc1", null ],
     [ "DirectEvents", "d1/d43/class_ext_1_1_net_1_1_date_column.html#a63c8527bbedfb4785c54a43460ed2b09", null ],
     [ "Format", "d1/d43/class_ext_1_1_net_1_1_date_column.html#acb61f45a86301af6df419dbb3dcd0b89", null ],
-    [ "FormatProxy", "d1/d43/class_ext_1_1_net_1_1_date_column.html#ae081093fe6f17acfe7f327453a4043ff", null ],
+    [ "FormatProxy", "d1/d43/class_ext_1_1_net_1_1_date_column.html#a5441f1cdc22a225dfc450aaf95f536e3", null ],
     [ "Listeners", "d1/d43/class_ext_1_1_net_1_1_date_column.html#a96e565f856b39d73154def455929c933", null ],
     [ "XType", "d1/d43/class_ext_1_1_net_1_1_date_column.html#ac40ac47b9acd4eef22264a9e90a1eaaf", null ]
 ];

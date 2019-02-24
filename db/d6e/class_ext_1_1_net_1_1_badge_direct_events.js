@@ -2,12 +2,12 @@ var class_ext_1_1_net_1_1_badge_direct_events =
 [
     [ "BadgeDirectEvents", "db/d6e/class_ext_1_1_net_1_1_badge_direct_events.html#a5634cb585851381b986ff43cf801affd", null ],
     [ "BadgeDirectEvents", "db/d6e/class_ext_1_1_net_1_1_badge_direct_events.html#a71446a33b57d93a26fd3cb0beec15644", null ],
-    [ "Change", "db/d6e/class_ext_1_1_net_1_1_badge_direct_events.html#a6302e38e362d932b8003b74ec3a3eb31", null ],
-    [ "Click", "db/d6e/class_ext_1_1_net_1_1_badge_direct_events.html#a0d1f960211143fc217a6ecd6697d5a55", null ],
+    [ "Change", "db/d6e/class_ext_1_1_net_1_1_badge_direct_events.html#abdde48b2fbe97e3fb4d8dc887b4292b0", null ],
+    [ "Click", "db/d6e/class_ext_1_1_net_1_1_badge_direct_events.html#a994db0f9cf06bec4bf90a4c0f5495dcc", null ],
     [ "ConfigOptions", "db/d6e/class_ext_1_1_net_1_1_badge_direct_events.html#a896e4ba6599d7cd4abc05916f8b91977", null ],
-    [ "DblClick", "db/d6e/class_ext_1_1_net_1_1_badge_direct_events.html#a182345fecdf1dcda1362ca73b66be9a7", null ],
-    [ "Hide", "db/d6e/class_ext_1_1_net_1_1_badge_direct_events.html#aae6d6a44952a4c476a648e50d0bb4bea", null ],
-    [ "MouseOut", "db/d6e/class_ext_1_1_net_1_1_badge_direct_events.html#a0e93dd3118e26dd202840026e7bf54a4", null ],
-    [ "MouseOver", "db/d6e/class_ext_1_1_net_1_1_badge_direct_events.html#a5c54dc5b4c2f9a0a422db2f9f5d5412e", null ],
-    [ "Show", "db/d6e/class_ext_1_1_net_1_1_badge_direct_events.html#a9461d7bfdb62f329533d44a389007406", null ]
+    [ "DblClick", "db/d6e/class_ext_1_1_net_1_1_badge_direct_events.html#ac0eb18234e496cec1ce72ebf0b03b76c", null ],
+    [ "Hide", "db/d6e/class_ext_1_1_net_1_1_badge_direct_events.html#a4f88338fb6f737495ef4f8e182a60dd2", null ],
+    [ "MouseOut", "db/d6e/class_ext_1_1_net_1_1_badge_direct_events.html#a81f24c71214197f5520a5c228cb4d88f", null ],
+    [ "MouseOver", "db/d6e/class_ext_1_1_net_1_1_badge_direct_events.html#a53fa40e5a6c84a20e3e3dc350b4d2e26", null ],
+    [ "Show", "db/d6e/class_ext_1_1_net_1_1_badge_direct_events.html#a7bb38d2115bed6b9f71e9ca345a70812", null ]
 ];

@@ -7,12 +7,12 @@ var class_ext_1_1_net_1_1_discrete_spark_line =
     [ "ToBuilder", "d6/d43/class_ext_1_1_net_1_1_discrete_spark_line.html#aa1194775fed7e38d6e35d01da60ca169", null ],
     [ "ToNativeBuilder", "d6/d43/class_ext_1_1_net_1_1_discrete_spark_line.html#a22ce2d343796734aef1921a0080defd0", null ],
     [ "ChartRangeClip", "d6/d43/class_ext_1_1_net_1_1_discrete_spark_line.html#abb9cd9802cb56756950960c59a1aec96", null ],
-    [ "ChartRangeMax", "d6/d43/class_ext_1_1_net_1_1_discrete_spark_line.html#a0c41759c4d15822161d2652959bf2760", null ],
-    [ "ChartRangeMin", "d6/d43/class_ext_1_1_net_1_1_discrete_spark_line.html#a8c006e44ec73b855e462b752c440122d", null ],
+    [ "ChartRangeMax", "d6/d43/class_ext_1_1_net_1_1_discrete_spark_line.html#a531102ab5522a27b2efe5f9e7280e65f", null ],
+    [ "ChartRangeMin", "d6/d43/class_ext_1_1_net_1_1_discrete_spark_line.html#aeec5d476a3d9b8ebaa96e0f77752171f", null ],
     [ "ConfigOptions", "d6/d43/class_ext_1_1_net_1_1_discrete_spark_line.html#a8d3873bdc0aa3e8fe69e7fe9496b28e1", null ],
     [ "InstanceOf", "d6/d43/class_ext_1_1_net_1_1_discrete_spark_line.html#ad4a240cb1eb359b0283f5df2a5de304b", null ],
-    [ "LineHeight", "d6/d43/class_ext_1_1_net_1_1_discrete_spark_line.html#a2ddba7e251936e5a9bf41eb7a3839186", null ],
+    [ "LineHeight", "d6/d43/class_ext_1_1_net_1_1_discrete_spark_line.html#a1ac3183bc917d43d35b8477685db61fd", null ],
     [ "ThresholdColor", "d6/d43/class_ext_1_1_net_1_1_discrete_spark_line.html#a85634b3fb20182ff73c5c6ea954891f0", null ],
-    [ "ThresholdValue", "d6/d43/class_ext_1_1_net_1_1_discrete_spark_line.html#a759a30f1db43aabb539103ab0a1b767a", null ],
+    [ "ThresholdValue", "d6/d43/class_ext_1_1_net_1_1_discrete_spark_line.html#ad4699279f2743619ec983888697c32d6", null ],
     [ "XType", "d6/d43/class_ext_1_1_net_1_1_discrete_spark_line.html#a2958a5d252ee73deb00e87fee5039ff1", null ]
 ];

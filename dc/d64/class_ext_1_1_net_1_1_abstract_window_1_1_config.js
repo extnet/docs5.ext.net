@@ -10,9 +10,9 @@ var class_ext_1_1_net_1_1_abstract_window_1_1_config =
     [ "Ghost", "dc/d64/class_ext_1_1_net_1_1_abstract_window_1_1_config.html#a0323b749ee63016dc7784ad5c9d8b7ed", null ],
     [ "HideMode", "dc/d64/class_ext_1_1_net_1_1_abstract_window_1_1_config.html#abfadb93bbf50520e16793a9a83e55cdf", null ],
     [ "MaskClickAction", "dc/d64/class_ext_1_1_net_1_1_abstract_window_1_1_config.html#a6e5f63197e56c870cda46bee15c523eb", null ],
-    [ "Maximizable", "dc/d64/class_ext_1_1_net_1_1_abstract_window_1_1_config.html#ab3a0037c5541fb4cd6f957fc2ba5199e", null ],
+    [ "Maximizable", "dc/d64/class_ext_1_1_net_1_1_abstract_window_1_1_config.html#ab435e604275d2cd5a56517c5ffff89bc", null ],
     [ "Maximized", "dc/d64/class_ext_1_1_net_1_1_abstract_window_1_1_config.html#ae125d6b2da709bc1833ea567c1c852c6", null ],
-    [ "Minimizable", "dc/d64/class_ext_1_1_net_1_1_abstract_window_1_1_config.html#ac759827f45ea228753fcbc78afdb7d9a", null ],
+    [ "Minimizable", "dc/d64/class_ext_1_1_net_1_1_abstract_window_1_1_config.html#a50d43a3ec3ce157ef0d382926ff3f3d6", null ],
     [ "Modal", "dc/d64/class_ext_1_1_net_1_1_abstract_window_1_1_config.html#aa409d8587efa045f7ee7e14f9da3af60", null ],
     [ "OnEsc", "dc/d64/class_ext_1_1_net_1_1_abstract_window_1_1_config.html#ae400d8dbd4c300ca20fa5f3ae9e6ddc8", null ],
     [ "Plain", "dc/d64/class_ext_1_1_net_1_1_abstract_window_1_1_config.html#a0678ffb6e939844cc872a92f38d5610f", null ]

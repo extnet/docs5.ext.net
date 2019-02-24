@@ -8,5 +8,5 @@ var class_ext_1_1_net_1_1_command_text =
     [ "ToNativeBuilder", "d2/dba/class_ext_1_1_net_1_1_command_text.html#a6ef662e5f2cb600b019ac743dd1ee14c", null ],
     [ "ConfigOptions", "d2/dba/class_ext_1_1_net_1_1_command_text.html#abb81c8caf83f006c1bd05132f70a774d", null ],
     [ "Text", "d2/dba/class_ext_1_1_net_1_1_command_text.html#ad6bcef4b1235e0932f3210cc6aa592c3", null ],
-    [ "XType", "d2/dba/class_ext_1_1_net_1_1_command_text.html#a716f2b6df26c14bb2660c7b49415b98b", null ]
+    [ "XType", "d2/dba/class_ext_1_1_net_1_1_command_text.html#a85c699fdf9c009307bd2786a2f2a3beb", null ]
 ];

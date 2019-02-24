@@ -6,5 +6,5 @@ var class_ext_1_1_net_1_1_web_storage_proxy =
     [ "SetRecord", "d7/dba/class_ext_1_1_net_1_1_web_storage_proxy.html#a5f31278e916486c71533c78fb217bde0", null ],
     [ "ConfigOptions", "d7/dba/class_ext_1_1_net_1_1_web_storage_proxy.html#a339d66948c0f7412303f59f0a87ed53f", null ],
     [ "InstanceOf", "d7/dba/class_ext_1_1_net_1_1_web_storage_proxy.html#ade73668d3e9b4125aa411e1d1f454985", null ],
-    [ "StorageID", "d7/dba/class_ext_1_1_net_1_1_web_storage_proxy.html#ab76d8f6d52f634cab7920c96a56f4af2", null ]
+    [ "StorageID", "d7/dba/class_ext_1_1_net_1_1_web_storage_proxy.html#afcbcce02a72b9e13be27b6c5a22bb492", null ]
 ];

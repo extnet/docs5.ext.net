@@ -112,8 +112,8 @@ var class_ext_1_1_net_1_1_node_proxy =
     [ "AutoRegister", "de/d2c/class_ext_1_1_net_1_1_node_proxy.html#a2222e0f58e7b80881f72800fcf533af1", null ],
     [ "IsArray", "de/d2c/class_ext_1_1_net_1_1_node_proxy.html#ac1ed9b785c8d395557416f0f7638fcf9", null ],
     [ "MethodScript", "de/d2c/class_ext_1_1_net_1_1_node_proxy.html#a6e787b4b3ccd79abe41a4623377b3382", null ],
-    [ "NodeInstance", "de/d2c/class_ext_1_1_net_1_1_node_proxy.html#ad68bfaa98e88755d4e573f61e4fa89d0", null ],
-    [ "NodeScript", "de/d2c/class_ext_1_1_net_1_1_node_proxy.html#a4efa47ff2fa98be2e765a4dd26b1186f", null ],
+    [ "NodeInstance", "de/d2c/class_ext_1_1_net_1_1_node_proxy.html#a4601f7817a837bbf578db560ee332349", null ],
+    [ "NodeScript", "de/d2c/class_ext_1_1_net_1_1_node_proxy.html#a99b30e63100c9150f99f780e006aa375", null ],
     [ "Safe", "de/d2c/class_ext_1_1_net_1_1_node_proxy.html#a40f3a57e457839b67332a0c8fe34c73d", null ],
     [ "Store", "de/d2c/class_ext_1_1_net_1_1_node_proxy.html#a03dad7fa56c1e1c33cf979a27c89c8df", null ],
     [ "StoreId", "de/d2c/class_ext_1_1_net_1_1_node_proxy.html#a4398343cbe8f7aaceb1b21146c21575a", null ]

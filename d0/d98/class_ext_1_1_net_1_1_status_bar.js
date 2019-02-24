@@ -19,7 +19,7 @@ var class_ext_1_1_net_1_1_status_bar =
     [ "AutoClear", "d0/d98/class_ext_1_1_net_1_1_status_bar.html#aff7a8f80193ec8a060fd286405f37fe1", null ],
     [ "BusyIcon", "d0/d98/class_ext_1_1_net_1_1_status_bar.html#a9d9996e356482f6d6b8dc9a9ada39492", null ],
     [ "BusyIconCls", "d0/d98/class_ext_1_1_net_1_1_status_bar.html#a1402af2c44e546f950617ece9bb8641a", null ],
-    [ "BusyIconClsProxy", "d0/d98/class_ext_1_1_net_1_1_status_bar.html#a75716ad19ee9d4003f139ec5228a9fd6", null ],
+    [ "BusyIconClsProxy", "d0/d98/class_ext_1_1_net_1_1_status_bar.html#a2a1edce2f7d973260666c356d7e94a04", null ],
     [ "BusyText", "d0/d98/class_ext_1_1_net_1_1_status_bar.html#ad832e7e77091644084603162ab0e3af3", null ],
     [ "Cls", "d0/d98/class_ext_1_1_net_1_1_status_bar.html#a352f270315364d94005cf064582a532c", null ],
     [ "ConfigOptions", "d0/d98/class_ext_1_1_net_1_1_status_bar.html#a395b62076b3027f340afe1337efa0dc4", null ],

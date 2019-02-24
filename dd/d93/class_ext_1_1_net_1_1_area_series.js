@@ -11,6 +11,6 @@ var class_ext_1_1_net_1_1_area_series =
     [ "ConfigOptions", "dd/d93/class_ext_1_1_net_1_1_area_series.html#aad1eeeb4b7201d0c56c78e527ed56e58", null ],
     [ "InstanceOf", "dd/d93/class_ext_1_1_net_1_1_area_series.html#ac9fb7917e53e5ed7cd7817a3335fc22e", null ],
     [ "Renderer", "dd/d93/class_ext_1_1_net_1_1_area_series.html#a7cdd4d20891d2a347e4c3542e3314e8f", null ],
-    [ "SplitStacks", "dd/d93/class_ext_1_1_net_1_1_area_series.html#a8c9bd69a751cee5c08ca8ca14df2de2d", null ],
+    [ "SplitStacks", "dd/d93/class_ext_1_1_net_1_1_area_series.html#a08f257196029edbe6a0b3450983e3855", null ],
     [ "Type", "dd/d93/class_ext_1_1_net_1_1_area_series.html#a8dd8fa9271c0b8bad01653f58f257f1c", null ]
 ];

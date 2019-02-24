@@ -8,6 +8,6 @@ var class_ext_1_1_net_1_1_chart_callout_line =
     [ "ToNativeBuilder", "d1/dab/class_ext_1_1_net_1_1_chart_callout_line.html#a85ddf4c6a0de73a6953048e9c524d3b6", null ],
     [ "Color", "d1/dab/class_ext_1_1_net_1_1_chart_callout_line.html#a3ec24e63a6157a6e96050f1283694c35", null ],
     [ "ConfigOptions", "d1/dab/class_ext_1_1_net_1_1_chart_callout_line.html#a03b24f67c25619ad3a02d36b10067438", null ],
-    [ "Length", "d1/dab/class_ext_1_1_net_1_1_chart_callout_line.html#aa5afb2765c7230c6c2d9389a31b9a3ee", null ],
-    [ "Width", "d1/dab/class_ext_1_1_net_1_1_chart_callout_line.html#aafc600982ee16047a78a1f07988bb70b", null ]
+    [ "Length", "d1/dab/class_ext_1_1_net_1_1_chart_callout_line.html#ae03d7fddaf64e0132d2e1ee30d36fba9", null ],
+    [ "Width", "d1/dab/class_ext_1_1_net_1_1_chart_callout_line.html#a829a32a9a13044ba6bc2228071ffae00", null ]
 ];

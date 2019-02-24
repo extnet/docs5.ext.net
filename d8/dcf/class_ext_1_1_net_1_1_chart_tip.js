@@ -9,8 +9,8 @@ var class_ext_1_1_net_1_1_chart_tip =
     [ "ConfigOptions", "d8/dcf/class_ext_1_1_net_1_1_chart_tip.html#a613c8f82d223fdc52acfef676bcde063", null ],
     [ "DirectEvents", "d8/dcf/class_ext_1_1_net_1_1_chart_tip.html#ac7dc4c2d8345df252475807e4887d852", null ],
     [ "Listeners", "d8/dcf/class_ext_1_1_net_1_1_chart_tip.html#ae9494cdc9cb4bb68ab18eac9de047a84", null ],
-    [ "OffsetX", "d8/dcf/class_ext_1_1_net_1_1_chart_tip.html#a5f82f33c1ec93100fea8da36cb3465e6", null ],
-    [ "OffsetY", "d8/dcf/class_ext_1_1_net_1_1_chart_tip.html#a7fcf904161b1fe470bc711d9fd6c8adf", null ],
+    [ "OffsetX", "d8/dcf/class_ext_1_1_net_1_1_chart_tip.html#a7244a1e69d13694061cdfcacd05a4c9a", null ],
+    [ "OffsetY", "d8/dcf/class_ext_1_1_net_1_1_chart_tip.html#a3147801b69316a0e8a8f55c37d21fcdc", null ],
     [ "Renderer", "d8/dcf/class_ext_1_1_net_1_1_chart_tip.html#a353ba326f337f0d026b530dec174d749", null ],
     [ "ShrinkWrapDock", "d8/dcf/class_ext_1_1_net_1_1_chart_tip.html#a52a58959e2de3fa2ae71548cc6039bc8", null ]
 ];

@@ -17,6 +17,6 @@ var class_ext_1_1_net_1_1_text_sprite =
     [ "TextAlign", "dd/dd1/class_ext_1_1_net_1_1_text_sprite.html#ad0c0573a875bfc0fb9eb9b21f60c3cc6", null ],
     [ "TextBaseline", "dd/dd1/class_ext_1_1_net_1_1_text_sprite.html#a2a09453ffb8e62e5ce1a974058295be3", null ],
     [ "Type", "dd/dd1/class_ext_1_1_net_1_1_text_sprite.html#ace6eb5a5b51fe68e72f05c7f35aeccfe", null ],
-    [ "X", "dd/dd1/class_ext_1_1_net_1_1_text_sprite.html#af520c8bd1e8aa050d9d4b6041f64dd63", null ],
-    [ "Y", "dd/dd1/class_ext_1_1_net_1_1_text_sprite.html#a4a32038f1fde5c8145d29824ad8d03e7", null ]
+    [ "X", "dd/dd1/class_ext_1_1_net_1_1_text_sprite.html#adc3e3e635915184e6435db94d3d68b14", null ],
+    [ "Y", "dd/dd1/class_ext_1_1_net_1_1_text_sprite.html#a52a7f6d756fd1da6e162623f1f9c9de0", null ]
 ];

@@ -9,7 +9,7 @@ var class_ext_1_1_net_1_1_pan_zoom_interaction =
     [ "ToNativeBuilder", "d4/dea/class_ext_1_1_net_1_1_pan_zoom_interaction.html#adf862cd9afde0a13de8a4f7ca838203e", null ],
     [ "Axes", "d4/dea/class_ext_1_1_net_1_1_pan_zoom_interaction.html#af1ee55576392150a213b18a25bf2cb45", null ],
     [ "ConfigOptions", "d4/dea/class_ext_1_1_net_1_1_pan_zoom_interaction.html#a6527ba0d3aa5df98a81b797acde45576", null ],
-    [ "DoubleTapReset", "d4/dea/class_ext_1_1_net_1_1_pan_zoom_interaction.html#a421081ba2fc62d9d78a20f4a585c7ca3", null ],
+    [ "DoubleTapReset", "d4/dea/class_ext_1_1_net_1_1_pan_zoom_interaction.html#aa2f72a50ca46d7173980ec4f1ce891f3", null ],
     [ "HideLabelInGesture", "d4/dea/class_ext_1_1_net_1_1_pan_zoom_interaction.html#a0afdd4720b952c1cc4fc309efe520fc6", null ],
     [ "InstanceOf", "d4/dea/class_ext_1_1_net_1_1_pan_zoom_interaction.html#ac1873ae8f3fd6d3367c56ba8aa0b7856", null ],
     [ "ModeToggleButton", "d4/dea/class_ext_1_1_net_1_1_pan_zoom_interaction.html#a97ddad44a5bfa51176d954f559baee8f", null ],

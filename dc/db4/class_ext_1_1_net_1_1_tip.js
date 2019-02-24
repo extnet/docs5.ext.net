@@ -9,7 +9,7 @@ var class_ext_1_1_net_1_1_tip =
     [ "ConfigOptions", "dc/db4/class_ext_1_1_net_1_1_tip.html#ae507887201f7aba5224f7a9791706c63", null ],
     [ "ConstrainPosition", "dc/db4/class_ext_1_1_net_1_1_tip.html#ac3eba75fcace0f679717d77907ad864d", null ],
     [ "InstanceOf", "dc/db4/class_ext_1_1_net_1_1_tip.html#aeb093bbf7590a5917f773d148d02f2af", null ],
-    [ "MaxWidth", "dc/db4/class_ext_1_1_net_1_1_tip.html#ac2f344f6c0fec57f1632bdff984a9ce8", null ],
-    [ "MinWidth", "dc/db4/class_ext_1_1_net_1_1_tip.html#a4217ea4cad0c03ec173627d16d208100", null ],
+    [ "MaxWidth", "dc/db4/class_ext_1_1_net_1_1_tip.html#a2e390cc1fa0197a05d79ecbe049c81b8", null ],
+    [ "MinWidth", "dc/db4/class_ext_1_1_net_1_1_tip.html#ac21b9a0e12eb15a61994619df9c048a6", null ],
     [ "RenderTo", "dc/db4/class_ext_1_1_net_1_1_tip.html#afd8027246e41ff9a6f7a377d222b5404", null ]
 ];

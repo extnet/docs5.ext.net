@@ -5,7 +5,7 @@ var class_ext_1_1_net_1_1_tree_panel_base_1_1_config =
     [ "CheckPropagation", "dd/d08/class_ext_1_1_net_1_1_tree_panel_base_1_1_config.html#a8addc2e0784fde9b44423b1b0a688588", null ],
     [ "DisplayField", "dd/d08/class_ext_1_1_net_1_1_tree_panel_base_1_1_config.html#a046de74c069c20e3ccc274060eeb3c4f", null ],
     [ "Fields", "dd/d08/class_ext_1_1_net_1_1_tree_panel_base_1_1_config.html#a19b4474ff35e8385c99ef94a6511625f", null ],
-    [ "FolderSort", "dd/d08/class_ext_1_1_net_1_1_tree_panel_base_1_1_config.html#a9cfae824bfdebe2fce8dcd1e0f6f46f6", null ],
+    [ "FolderSort", "dd/d08/class_ext_1_1_net_1_1_tree_panel_base_1_1_config.html#a35b89302272713fde09394a7938f017f", null ],
     [ "Lines", "dd/d08/class_ext_1_1_net_1_1_tree_panel_base_1_1_config.html#a4b9868daeccc697bca9dc9ee1a6a5eb6", null ],
     [ "LocalActions", "dd/d08/class_ext_1_1_net_1_1_tree_panel_base_1_1_config.html#aac763c611eeabc106b5ee9a079a6d60f", null ],
     [ "LockedGridConfig", "dd/d08/class_ext_1_1_net_1_1_tree_panel_base_1_1_config.html#acbbd07f64d25f6ad77c8e7fda6faec24", null ],

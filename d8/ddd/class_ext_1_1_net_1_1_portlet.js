@@ -11,7 +11,7 @@ var class_ext_1_1_net_1_1_portlet =
     [ "ConfigOptions", "d8/ddd/class_ext_1_1_net_1_1_portlet.html#a86a1fb3e0a470d336d47d3941be819dc", null ],
     [ "DefaultLayout", "d8/ddd/class_ext_1_1_net_1_1_portlet.html#a4c44c8980fd7ae1af83f4099db46bcfe", null ],
     [ "Draggable", "d8/ddd/class_ext_1_1_net_1_1_portlet.html#a5406d9d278a3b9761154b3b22026db94", null ],
-    [ "DraggableProxy", "d8/ddd/class_ext_1_1_net_1_1_portlet.html#acf5eaf924caa715e46de01df2a7a7096", null ],
+    [ "DraggableProxy", "d8/ddd/class_ext_1_1_net_1_1_portlet.html#af1f07a9801f15883a2d5e860818a5903", null ],
     [ "Frame", "d8/ddd/class_ext_1_1_net_1_1_portlet.html#aede10fcc6c55b8a9a21a038fd53757bb", null ],
     [ "InstanceOf", "d8/ddd/class_ext_1_1_net_1_1_portlet.html#a237f7bfba78d737c923827398a6b8053", null ],
     [ "XType", "d8/ddd/class_ext_1_1_net_1_1_portlet.html#a408944d20de04834d615ba87848699d0", null ]

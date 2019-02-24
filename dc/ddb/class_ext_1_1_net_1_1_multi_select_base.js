@@ -33,7 +33,7 @@ var class_ext_1_1_net_1_1_multi_select_base =
     [ "MinSelectionsText", "dc/ddb/class_ext_1_1_net_1_1_multi_select_base.html#a46f53219cdc1fdd0dc8a5364edadb590", null ],
     [ "MultiSelect", "dc/ddb/class_ext_1_1_net_1_1_multi_select_base.html#ad01ba0be2d0ca08c5dceb3ad85ff5a4b", null ],
     [ "PageSize", "dc/ddb/class_ext_1_1_net_1_1_multi_select_base.html#a6e32e9d816814e4ea982a9013a14a5d6", null ],
-    [ "SelectedItem", "dc/ddb/class_ext_1_1_net_1_1_multi_select_base.html#a10d7b5c50082ee05d537b9206233dacf", null ],
+    [ "SelectedItem", "dc/ddb/class_ext_1_1_net_1_1_multi_select_base.html#a281385e9ce59b7c38c22df2099ecb66a", null ],
     [ "SelectedItems", "dc/ddb/class_ext_1_1_net_1_1_multi_select_base.html#a548087ca9eb5b43f4422a781f4a1b53b", null ],
     [ "SelectionChanged", "dc/ddb/class_ext_1_1_net_1_1_multi_select_base.html#a898a4bdd5b7b4a70adc90ca7711ed253", null ],
     [ "ShowCheckbox", "dc/ddb/class_ext_1_1_net_1_1_multi_select_base.html#a14f1c6688797afd817c1c38ea7995953", null ],
