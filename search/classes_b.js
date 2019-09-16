@@ -14,6 +14,7 @@ var searchData=
   ['legendstore',['LegendStore',['../db/d28/class_ext_1_1_net_1_1_legend_store.html',1,'Ext::Net']]],
   ['lengthvalidator',['LengthValidator',['../db/dab/class_ext_1_1_net_1_1_length_validator.html',1,'Ext::Net']]],
   ['lengthvalidatorattribute',['LengthValidatorAttribute',['../d8/d70/class_ext_1_1_net_1_1_m_v_c_1_1_length_validator_attribute.html',1,'Ext::Net::MVC']]],
+  ['licenseexception',['LicenseException',['../d7/db1/class_ext_1_1_net_1_1_license_exception.html',1,'Ext::Net']]],
   ['limits',['Limits',['../d4/d0a/class_ext_1_1_net_1_1_limits.html',1,'Ext::Net']]],
   ['limitsprite',['LimitSprite',['../d8/d2c/class_ext_1_1_net_1_1_limit_sprite.html',1,'Ext::Net']]],
   ['lineargradient',['LinearGradient',['../d9/d49/class_ext_1_1_net_1_1_linear_gradient.html',1,'Ext::Net']]],

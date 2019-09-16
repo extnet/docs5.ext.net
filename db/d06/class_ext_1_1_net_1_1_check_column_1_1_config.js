@@ -8,6 +8,5 @@ var class_ext_1_1_net_1_1_check_column_1_1_config =
     [ "Listeners", "db/d06/class_ext_1_1_net_1_1_check_column_1_1_config.html#a416c5c5fb285a4664cd022ebcd0fe363", null ],
     [ "SingleSelect", "db/d06/class_ext_1_1_net_1_1_check_column_1_1_config.html#a0ebcaf6616b6e3e2b311e6f979586858", null ],
     [ "StopSelection", "db/d06/class_ext_1_1_net_1_1_check_column_1_1_config.html#ab54d52c8b7418ca9a15cc659a53db3b2", null ],
-    [ "Tooltip", "db/d06/class_ext_1_1_net_1_1_check_column_1_1_config.html#a567c3465132edebebf78eda0d76d24c4", null ],
     [ "TriggerEvent", "db/d06/class_ext_1_1_net_1_1_check_column_1_1_config.html#a48f6dc283dbe956c45bf5f9c2d5a0800", null ]
 ];

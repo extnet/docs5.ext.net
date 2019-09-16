@@ -16,6 +16,5 @@ var class_ext_1_1_net_1_1_pan_zoom_interaction =
     [ "Owner", "d4/dea/class_ext_1_1_net_1_1_pan_zoom_interaction.html#acad9b5be289a10c6143ed04586884f8f", null ],
     [ "ShowOverflowArrows", "d4/dea/class_ext_1_1_net_1_1_pan_zoom_interaction.html#ae4dee0eb5f990074474a7a42c4824811", null ],
     [ "Type", "d4/dea/class_ext_1_1_net_1_1_pan_zoom_interaction.html#ac5203a3d3f67175a6a5a8797c36ce659", null ],
-    [ "ZoomOnPan", "d4/dea/class_ext_1_1_net_1_1_pan_zoom_interaction.html#a630d21e63459df1d1f5b6530059cf8f6", null ],
-    [ "ZoomOnPanGesture", "d4/dea/class_ext_1_1_net_1_1_pan_zoom_interaction.html#abc7eb36ea7a164e730534e4f0d78f293", null ]
+    [ "ZoomOnPan", "d4/dea/class_ext_1_1_net_1_1_pan_zoom_interaction.html#a630d21e63459df1d1f5b6530059cf8f6", null ]
 ];

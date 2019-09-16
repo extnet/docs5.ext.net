@@ -28,7 +28,6 @@ var class_ext_1_1_net_1_1_draw_container =
     [ "ToNativeBuilder", "dd/d3c/class_ext_1_1_net_1_1_draw_container.html#aed4fa62230649f2a18bfa84267a1957f", null ],
     [ "Background", "dd/d3c/class_ext_1_1_net_1_1_draw_container.html#ac62dfb3d9a04159623e2082470628269", null ],
     [ "ConfigOptions", "dd/d3c/class_ext_1_1_net_1_1_draw_container.html#a327cda127b7700960153fbc4a8423cfb", null ],
-    [ "DefaultDownloadServerUrl", "dd/d3c/class_ext_1_1_net_1_1_draw_container.html#a177b17f18f9d2b29d5a34fd509fecb80", null ],
     [ "DirectEvents", "dd/d3c/class_ext_1_1_net_1_1_draw_container.html#a605fcdb689e2c029b66e37646fd19a2d", null ],
     [ "DownloadServerUrl", "dd/d3c/class_ext_1_1_net_1_1_draw_container.html#aac541bcfdea4451129cd447d1928e826", null ],
     [ "Engine", "dd/d3c/class_ext_1_1_net_1_1_draw_container.html#a03203a8aab312b420df2a45ee25c5d54", null ],

@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['layout_5fambiguity',['LAYOUT_AMBIGUITY',['../d7/de7/class_ext_1_1_net_1_1_service_messages.html#a784e45d12ce42140a23b16a95c09c5fd',1,'Ext::Net::ServiceMessages']]]
+  ['global_5fclient_5fresources',['GLOBAL_CLIENT_RESOURCES',['../d2/d5c/class_ext_1_1_net_1_1_resource_manager.html#a694dced44eaacbaa615575678c72fa06',1,'Ext::Net::ResourceManager']]],
+  ['global_5fresources',['GLOBAL_RESOURCES',['../d2/d5c/class_ext_1_1_net_1_1_resource_manager.html#afff7c1a8d5fd2d6cdcdf33fd233087f7',1,'Ext::Net::ResourceManager']]]
 ];

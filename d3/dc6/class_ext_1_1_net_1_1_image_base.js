@@ -7,7 +7,6 @@ var class_ext_1_1_net_1_1_image_base =
     [ "ScrollTo", "d3/dc6/class_ext_1_1_net_1_1_image_base.html#a4e64424f169c15147bbf2db4a7acc861", null ],
     [ "SetAlign", "d3/dc6/class_ext_1_1_net_1_1_image_base.html#ae71dcb7e633d6378d40a5a13d43e00bd", null ],
     [ "SetAlt", "d3/dc6/class_ext_1_1_net_1_1_image_base.html#af5d87448257650b1075d6b167d3eb753", null ],
-    [ "SetAltText", "d3/dc6/class_ext_1_1_net_1_1_image_base.html#a174f1538fb984b24f7ce4e2f9e777825", null ],
     [ "SetGlyph", "d3/dc6/class_ext_1_1_net_1_1_image_base.html#ab3e531aec72d58e1aa3dc86d0475274a", null ],
     [ "SetGlyphSpec", "d3/dc6/class_ext_1_1_net_1_1_image_base.html#a677ece1a339b37e448ff5a3410c8712f", null ],
     [ "SetImageUrl", "d3/dc6/class_ext_1_1_net_1_1_image_base.html#a45fa2da1855a28f48a3c837509c01a64", null ],

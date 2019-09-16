@@ -26,7 +26,6 @@ var class_ext_1_1_net_1_1_labelable_1_1_config =
     [ "GrowMin", "d5/d78/class_ext_1_1_net_1_1_labelable_1_1_config.html#a37050bd6227f4d1e0ae830dace2d09be", null ],
     [ "HideEmptyLabel", "d5/d78/class_ext_1_1_net_1_1_labelable_1_1_config.html#a892caad2b1895d3e9a00febf9e9281a4", null ],
     [ "HideLabel", "d5/d78/class_ext_1_1_net_1_1_labelable_1_1_config.html#a12c2b7282ad8caeb66103ffa246fec70", null ],
-    [ "InputWidth", "d5/d78/class_ext_1_1_net_1_1_labelable_1_1_config.html#a4ef8b81515d23f47a3f1e72b56effdff", null ],
     [ "InvalidCls", "d5/d78/class_ext_1_1_net_1_1_labelable_1_1_config.html#ac0e5d4ae0a78491c7ad64657e15a7d0b", null ],
     [ "InvalidText", "d5/d78/class_ext_1_1_net_1_1_labelable_1_1_config.html#aacedc13b2368f765b16b12776e9408db", null ],
     [ "LabelAlign", "d5/d78/class_ext_1_1_net_1_1_labelable_1_1_config.html#afab7e15f7f4d85e9f239ae2cdd99fa4c", null ],

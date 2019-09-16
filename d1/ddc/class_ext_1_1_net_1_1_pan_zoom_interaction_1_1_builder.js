@@ -10,6 +10,5 @@ var class_ext_1_1_net_1_1_pan_zoom_interaction_1_1_builder =
     [ "ModeToggleButton", "d1/ddc/class_ext_1_1_net_1_1_pan_zoom_interaction_1_1_builder.html#ade46d033f4840bd8dc5f7cfb2b8aef58", null ],
     [ "SetDoubleTapReset", "d1/ddc/class_ext_1_1_net_1_1_pan_zoom_interaction_1_1_builder.html#a7225d3795ad0d1341574552c86dc55e2", null ],
     [ "ShowOverflowArrows", "d1/ddc/class_ext_1_1_net_1_1_pan_zoom_interaction_1_1_builder.html#ae6578db31a71414f8fd7b7a9e0c2f3b6", null ],
-    [ "ZoomOnPan", "d1/ddc/class_ext_1_1_net_1_1_pan_zoom_interaction_1_1_builder.html#a40f75ff058384c7a3a9207fdf44cafd2", null ],
-    [ "ZoomOnPanGesture", "d1/ddc/class_ext_1_1_net_1_1_pan_zoom_interaction_1_1_builder.html#a86858066cb97238a7ccc2d711fbda697", null ]
+    [ "ZoomOnPan", "d1/ddc/class_ext_1_1_net_1_1_pan_zoom_interaction_1_1_builder.html#a40f75ff058384c7a3a9207fdf44cafd2", null ]
 ];

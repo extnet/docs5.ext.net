@@ -4,7 +4,6 @@ var class_ext_1_1_net_1_1_abstract_store =
     [ "Builder", "dc/dc7/class_ext_1_1_net_1_1_abstract_store_1_1_builder.html", null ],
     [ "Builder", "dc/dc7/class_ext_1_1_net_1_1_abstract_store_1_1_builder.html", null ],
     [ "Config", "de/d75/class_ext_1_1_net_1_1_abstract_store_1_1_config.html", "de/d75/class_ext_1_1_net_1_1_abstract_store_1_1_config" ],
-    [ "AddFiler", "db/d4e/class_ext_1_1_net_1_1_abstract_store.html#af18cd53f74b32e8056f2d7e9beaaae9f", null ],
     [ "AddFilter", "db/d4e/class_ext_1_1_net_1_1_abstract_store.html#a4d19f8aa8a032fc2e415381ce0c5a1b1", null ],
     [ "AddFilter", "db/d4e/class_ext_1_1_net_1_1_abstract_store.html#a3747ce49c1af47a45f43e6bf3fa20c87", null ],
     [ "BeginUpdate", "db/d4e/class_ext_1_1_net_1_1_abstract_store.html#aa67acfc450604513191d87699ea2f91b", null ],

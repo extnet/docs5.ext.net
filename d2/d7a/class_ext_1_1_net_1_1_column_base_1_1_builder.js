@@ -46,6 +46,7 @@ var class_ext_1_1_net_1_1_column_base_1_1_builder =
     [ "Sealed", "d2/d7a/class_ext_1_1_net_1_1_column_base_1_1_builder.html#a58071c3701eabb23e74fb3fda21edbc3", null ],
     [ "Sortable", "d2/d7a/class_ext_1_1_net_1_1_column_base_1_1_builder.html#abe87b91f7c5935dfaff1da0978e31ddd", null ],
     [ "Sorter", "d2/d7a/class_ext_1_1_net_1_1_column_base_1_1_builder.html#a2af77d31ce59d17c8d2f7f6cb38bf3f0", null ],
+    [ "SummaryRenderer", "d2/d7a/class_ext_1_1_net_1_1_column_base_1_1_builder.html#a6e9e002648878272c7096cf3c4e9f2dc", null ],
     [ "SummaryRenderer", "d2/d7a/class_ext_1_1_net_1_1_column_base_1_1_builder.html#af71193256cafb8d01227a21336a49d53", null ],
     [ "SummaryType", "d2/d7a/class_ext_1_1_net_1_1_column_base_1_1_builder.html#afbb964b1c79c06347ea5c3618767c3f5", null ],
     [ "TabIndex", "d2/d7a/class_ext_1_1_net_1_1_column_base_1_1_builder.html#adb56ee23d8463f04b721fbb85bcb9b24", null ],

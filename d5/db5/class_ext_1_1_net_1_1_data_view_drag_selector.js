@@ -4,7 +4,6 @@ var class_ext_1_1_net_1_1_data_view_drag_selector =
     [ "Config", "d9/dd1/class_ext_1_1_net_1_1_data_view_drag_selector_1_1_config.html", "d9/dd1/class_ext_1_1_net_1_1_data_view_drag_selector_1_1_config" ],
     [ "DataViewDragSelector", "d5/db5/class_ext_1_1_net_1_1_data_view_drag_selector.html#aa311cc1aeea2a896502e5b8dee7e8b64", null ],
     [ "DataViewDragSelector", "d5/db5/class_ext_1_1_net_1_1_data_view_drag_selector.html#a52a5d5a0055799a72d9bba4fbd030ab3", null ],
-    [ "OnLoad", "d5/db5/class_ext_1_1_net_1_1_data_view_drag_selector.html#abfe04eedd1c4eead2657b800236496c4", null ],
     [ "ToBuilder", "d5/db5/class_ext_1_1_net_1_1_data_view_drag_selector.html#a981acfb269ac3a1260c187cb8f000890", null ],
     [ "ToNativeBuilder", "d5/db5/class_ext_1_1_net_1_1_data_view_drag_selector.html#af810b92ce5142b50c6b99f4d04c9f206", null ],
     [ "ConfigOptions", "d5/db5/class_ext_1_1_net_1_1_data_view_drag_selector.html#a73b5c3e383cb7e2465f4351b4960c7f7", null ],

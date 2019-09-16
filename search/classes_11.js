@@ -50,7 +50,6 @@ var searchData=
   ['restresult',['RestResult',['../de/d44/class_ext_1_1_net_1_1_m_v_c_1_1_rest_result.html',1,'Ext::Net::MVC']]],
   ['rotateinteraction',['RotateInteraction',['../dd/d91/class_ext_1_1_net_1_1_rotate_interaction.html',1,'Ext::Net']]],
   ['rotateinteractionlisteners',['RotateInteractionListeners',['../d4/dac/class_ext_1_1_net_1_1_rotate_interaction_listeners.html',1,'Ext::Net']]],
-  ['rotatepie3dinteraction',['RotatePie3DInteraction',['../d8/d1f/class_ext_1_1_net_1_1_rotate_pie3_d_interaction.html',1,'Ext::Net']]],
   ['rowbody',['RowBody',['../d3/d6e/class_ext_1_1_net_1_1_row_body.html',1,'Ext::Net']]],
   ['rowchanges',['RowChanges',['../d4/d55/class_ext_1_1_net_1_1_row_changes.html',1,'Ext::Net']]],
   ['rowediting',['RowEditing',['../d6/db4/class_ext_1_1_net_1_1_row_editing.html',1,'Ext::Net']]],

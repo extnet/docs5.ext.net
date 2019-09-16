@@ -17,7 +17,6 @@ var class_ext_1_1_net_1_1_check_column =
     [ "Listeners", "da/d8f/class_ext_1_1_net_1_1_check_column.html#af919eb9799c1a8b146e6e28636622e49", null ],
     [ "SingleSelect", "da/d8f/class_ext_1_1_net_1_1_check_column.html#a33f453bb6dd4f232e5fa802e9f6c1bb6", null ],
     [ "StopSelection", "da/d8f/class_ext_1_1_net_1_1_check_column.html#aa6930abd332b28f17b6f450c55278264", null ],
-    [ "Tooltip", "da/d8f/class_ext_1_1_net_1_1_check_column.html#a7cf2732d96697dac5dd82c171e787b74", null ],
     [ "TriggerEvent", "da/d8f/class_ext_1_1_net_1_1_check_column.html#aec34d85c22ffb5e649915443456fb1fa", null ],
     [ "XType", "da/d8f/class_ext_1_1_net_1_1_check_column.html#a1851864869dbfe50c0a98c6c1018c4cf", null ]
 ];

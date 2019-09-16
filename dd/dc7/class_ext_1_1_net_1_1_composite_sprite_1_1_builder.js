@@ -4,8 +4,6 @@ var class_ext_1_1_net_1_1_composite_sprite_1_1_builder =
     [ "Builder", "dd/dc7/class_ext_1_1_net_1_1_composite_sprite_1_1_builder.html#ab21c7b821b8023d9404f0eb37da36518", null ],
     [ "Builder", "dd/dc7/class_ext_1_1_net_1_1_composite_sprite_1_1_builder.html#a0004d29c25648467f7ac48a07f808a11", null ],
     [ "Builder", "dd/dc7/class_ext_1_1_net_1_1_composite_sprite_1_1_builder.html#ab34e6cbdb6d675acc2f0d5a00adbdc99", null ],
-    [ "Add", "dd/dc7/class_ext_1_1_net_1_1_composite_sprite_1_1_builder.html#a164af33b7c948ebdb4e0b865026f12d7", null ],
-    [ "AddAll", "dd/dc7/class_ext_1_1_net_1_1_composite_sprite_1_1_builder.html#aa8dd31167957c909b994624071394651", null ],
     [ "AddSprite", "dd/dc7/class_ext_1_1_net_1_1_composite_sprite_1_1_builder.html#a3d4eaf2a854421a5b5b51306f025fe36", null ],
     [ "AddSprite", "dd/dc7/class_ext_1_1_net_1_1_composite_sprite_1_1_builder.html#a07057f0a2dd853b47532a2da631e78ca", null ],
     [ "Items", "dd/dc7/class_ext_1_1_net_1_1_composite_sprite_1_1_builder.html#a3722b7918096cbaafd4142de68e2e498", null ],

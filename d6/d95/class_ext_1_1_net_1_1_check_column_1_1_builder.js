@@ -13,6 +13,5 @@ var class_ext_1_1_net_1_1_check_column_1_1_builder =
     [ "SetHeaderCheckbox", "d6/d95/class_ext_1_1_net_1_1_check_column_1_1_builder.html#a0ec600a4fd4a6a999bc212f8f63b54a6", null ],
     [ "SingleSelect", "d6/d95/class_ext_1_1_net_1_1_check_column_1_1_builder.html#ac927b4cfe6325348cbaef6e89d443bf5", null ],
     [ "StopSelection", "d6/d95/class_ext_1_1_net_1_1_check_column_1_1_builder.html#adabcca6fee9156672dc664049618240f", null ],
-    [ "Tooltip", "d6/d95/class_ext_1_1_net_1_1_check_column_1_1_builder.html#a67c18ac8ccabd5ff8c262dd763040a27", null ],
     [ "TriggerEvent", "d6/d95/class_ext_1_1_net_1_1_check_column_1_1_builder.html#a476ebc31cba866a94c5b2ab6402b220a", null ]
 ];

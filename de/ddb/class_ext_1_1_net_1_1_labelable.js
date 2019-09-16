@@ -34,7 +34,6 @@ var class_ext_1_1_net_1_1_labelable =
     [ "GrowMin", "de/ddb/class_ext_1_1_net_1_1_labelable.html#aad1995070b24dd7636bb28c13e410c9e", null ],
     [ "HideEmptyLabel", "de/ddb/class_ext_1_1_net_1_1_labelable.html#a79daad110860b9b3fbfd69785df83017", null ],
     [ "HideLabel", "de/ddb/class_ext_1_1_net_1_1_labelable.html#a4dcb9c5e1cac6ae093f2b837c8c9c23e", null ],
-    [ "InputWidth", "de/ddb/class_ext_1_1_net_1_1_labelable.html#acb5f6a1408282a71e667bc11cf51df16", null ],
     [ "InvalidCls", "de/ddb/class_ext_1_1_net_1_1_labelable.html#ab2c806231df5d87c57868dff71afeea8", null ],
     [ "InvalidText", "de/ddb/class_ext_1_1_net_1_1_labelable.html#a8534f26b14353f2172282e3ba36e6751", null ],
     [ "LabelAlign", "de/ddb/class_ext_1_1_net_1_1_labelable.html#aa52bef6881588a0d1cba06856e9dc135", null ],

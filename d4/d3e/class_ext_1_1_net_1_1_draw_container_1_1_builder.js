@@ -9,7 +9,6 @@ var class_ext_1_1_net_1_1_draw_container_1_1_builder =
     [ "Background", "d4/d3e/class_ext_1_1_net_1_1_draw_container_1_1_builder.html#a53cb2eca478979cccda1c327512ed6c0", null ],
     [ "CallSurface", "d4/d3e/class_ext_1_1_net_1_1_draw_container_1_1_builder.html#a48f4bba38af8086724c273ec249194b4", null ],
     [ "Clear", "d4/d3e/class_ext_1_1_net_1_1_draw_container_1_1_builder.html#a72f82bf28c35a624ff99b7027c800454", null ],
-    [ "DefaultDownloadServerUrl", "d4/d3e/class_ext_1_1_net_1_1_draw_container_1_1_builder.html#a3d6057dceab4e00617602012ec818bc1", null ],
     [ "DestroySurface", "d4/d3e/class_ext_1_1_net_1_1_draw_container_1_1_builder.html#a6accf703f2377bddf9941396962fbd3a", null ],
     [ "DirectEvents", "d4/d3e/class_ext_1_1_net_1_1_draw_container_1_1_builder.html#a75e4fcf365c16aff127b1eedac39b3d2", null ],
     [ "DownloadServerUrl", "d4/d3e/class_ext_1_1_net_1_1_draw_container_1_1_builder.html#a3be3cd3f62a5914c8b5c5c18ad7f7418", null ],

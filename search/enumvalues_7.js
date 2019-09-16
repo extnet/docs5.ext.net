@@ -13,7 +13,7 @@ var searchData=
   ['height',['Height',['../dc/d3f/namespace_ext_1_1_net.html#a5e16c7a6847455696d231e2566045dd9aeec6c4bdbd339edf8cbea68becb85244',1,'Ext::Net']]],
   ['help',['Help',['../dc/d3f/namespace_ext_1_1_net.html#ad3003f93fdaa279e67edd364eea1ec6ba6a26f548831e6a8c26bfbbd9f6ec61e0',1,'Ext.Net.Help()'],['../dc/d3f/namespace_ext_1_1_net.html#adabdf42aa3a9a143f3f42ca3c567682ca6a26f548831e6a8c26bfbbd9f6ec61e0',1,'Ext.Net.Help()']]],
   ['hex',['Hex',['../dc/d3f/namespace_ext_1_1_net.html#a7688b0125f144dd9d4c87768df091817a92640bd72988395b326c888614f8937a',1,'Ext::Net']]],
-  ['hidden',['Hidden',['../dc/d3f/namespace_ext_1_1_net.html#acbb7932543c0d117de15dac9d9c5607da7acdf85c69cc3c5305456a293524386e',1,'Ext::Net']]],
+  ['hidden',['Hidden',['../dc/d3f/namespace_ext_1_1_net.html#acbb7932543c0d117de15dac9d9c5607da7acdf85c69cc3c5305456a293524386e',1,'Ext.Net.Hidden()'],['../dc/d3f/namespace_ext_1_1_net.html#a311db57c24e1aa7f2f89cc098a6bd64ca7acdf85c69cc3c5305456a293524386e',1,'Ext.Net.Hidden()']]],
   ['hide',['Hide',['../dc/d3f/namespace_ext_1_1_net.html#a1c56063accf93e5738df415ab6e589bba62a5e490880a92eef74f167d9dc6dca0',1,'Ext.Net.Hide()'],['../dc/d3f/namespace_ext_1_1_net.html#aa008597bd4668e718d3371c7edd5fa3ba62a5e490880a92eef74f167d9dc6dca0',1,'Ext.Net.Hide()'],['../dc/d3f/namespace_ext_1_1_net.html#ae81b23166670b44db8b23991698475cda62a5e490880a92eef74f167d9dc6dca0',1,'Ext.Net.Hide()']]],
   ['hideall',['HideAll',['../dc/d3f/namespace_ext_1_1_net.html#a9dc6538191a41b400f4b5535da624401aeca90f3dec9ac9d57fc1f9a492dad7b7',1,'Ext::Net']]],
   ['home',['HOME',['../dc/d3f/namespace_ext_1_1_net.html#ad9d186fe4fd1b586f41a6f0d2e3876f4a710533dd879dd1202e5c73b27705bf02',1,'Ext::Net']]],

@@ -5,8 +5,6 @@ var class_ext_1_1_net_1_1_composite_sprite =
     [ "Config", "d7/d3b/class_ext_1_1_net_1_1_composite_sprite_1_1_config.html", "d7/d3b/class_ext_1_1_net_1_1_composite_sprite_1_1_config" ],
     [ "CompositeSprite", "d2/d39/class_ext_1_1_net_1_1_composite_sprite.html#adf432bafdfacc2b5f7658ea2ec7486d7", null ],
     [ "CompositeSprite", "d2/d39/class_ext_1_1_net_1_1_composite_sprite.html#ad643480af60c8bc840ff550ef10fc9cb", null ],
-    [ "Add", "d2/d39/class_ext_1_1_net_1_1_composite_sprite.html#a8e2394bd34f209391a6787409c9b379c", null ],
-    [ "AddAll", "d2/d39/class_ext_1_1_net_1_1_composite_sprite.html#aa3736e260e74a36cb82463d79814010a", null ],
     [ "AddSprite", "d2/d39/class_ext_1_1_net_1_1_composite_sprite.html#a16763e4b7dc10eea54735bbde7077ab0", null ],
     [ "AddSprite", "d2/d39/class_ext_1_1_net_1_1_composite_sprite.html#a0056e721fc6d2fceb5f41651cb846dab", null ],
     [ "Items_AfterSpriteAdd", "d2/d39/class_ext_1_1_net_1_1_composite_sprite.html#aa748615f13f49d06f726ffc2e87a11c1", null ],

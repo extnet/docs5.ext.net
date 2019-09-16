@@ -21,5 +21,6 @@ var searchData=
   ['storeaction',['StoreAction',['../dc/d3f/namespace_ext_1_1_net.html#a34d8a4febe7b6c36ef1d78e86759deaf',1,'Ext::Net']]],
   ['strokelinecap',['StrokeLinecap',['../dc/d3f/namespace_ext_1_1_net.html#a6f2b557e3ebc169116a0c2ad21864669',1,'Ext::Net']]],
   ['strokelinejoin',['StrokeLinejoin',['../dc/d3f/namespace_ext_1_1_net.html#ab1f3041dfb80aaeb2776981627530795',1,'Ext::Net']]],
+  ['summarydock',['SummaryDock',['../dc/d3f/namespace_ext_1_1_net.html#ab79baddd5a7867694cddd7af83abde97',1,'Ext::Net']]],
   ['summarytype',['SummaryType',['../dc/d3f/namespace_ext_1_1_net.html#a984ac074f34ed485ff20a3416e258418',1,'Ext::Net']]]
 ];

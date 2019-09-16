@@ -76,7 +76,6 @@ var class_ext_1_1_net_1_1_text_field_base =
     [ "RightButtons", "d0/d23/class_ext_1_1_net_1_1_text_field_base.html#a57a268b85247eaefc31c7e900f0356df", null ],
     [ "RightButtonsShowMode", "d0/d23/class_ext_1_1_net_1_1_text_field_base.html#a9b4d6dea2ee0d427e6e95d7264ba57fc", null ],
     [ "SelectOnFocus", "d0/d23/class_ext_1_1_net_1_1_text_field_base.html#ae075ff2ebdec9fa2bcb36fe6d8f9b198", null ],
-    [ "Size", "d0/d23/class_ext_1_1_net_1_1_text_field_base.html#a892db20518fe836e435d313c7951bf34", null ],
     [ "StripCharsRe", "d0/d23/class_ext_1_1_net_1_1_text_field_base.html#ae3b66d04a85c71e1095c3835aa306b10", null ],
     [ "Text", "d0/d23/class_ext_1_1_net_1_1_text_field_base.html#aa6e83907bb5520bb7d2a4621896f5daf", null ],
     [ "TextChanged", "d0/d23/class_ext_1_1_net_1_1_text_field_base.html#adbf8f5246fa9d0fe619722a7fa9a6a0f", null ],

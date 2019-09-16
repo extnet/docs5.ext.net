@@ -15,7 +15,6 @@ var class_ext_1_1_net_1_1_app =
     [ "ConfigOptions", "d5/d16/class_ext_1_1_net_1_1_app.html#a193a1987d1edf4f9078e0986934b5e8c", null ],
     [ "Controllers", "d5/d16/class_ext_1_1_net_1_1_app.html#acda89b7405c282380dfc3059370261f0", null ],
     [ "DefaultToken", "d5/d16/class_ext_1_1_net_1_1_app.html#af7ea7f3ab1547a3cde2c7f4d242b5713", null ],
-    [ "EnableQuickTips", "d5/d16/class_ext_1_1_net_1_1_app.html#a6671ceb809224e039deae3a3be31f86d", null ],
     [ "GlyphFontFamily", "d5/d16/class_ext_1_1_net_1_1_app.html#ad7770ef77c3f7a19a48368baa3fef03a", null ],
     [ "Launch", "d5/d16/class_ext_1_1_net_1_1_app.html#a5779df42ce592ec09d51d585f6223ec2", null ],
     [ "LaunchHandler", "d5/d16/class_ext_1_1_net_1_1_app.html#af8ac54d12bd542d50f545cb2e830d403", null ],

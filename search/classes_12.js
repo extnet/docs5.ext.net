@@ -112,7 +112,6 @@ var searchData=
   ['submittednode',['SubmittedNode',['../d4/d57/class_ext_1_1_net_1_1_submitted_node.html',1,'Ext::Net']]],
   ['submittednodemodelbinder',['SubmittedNodeModelBinder',['../d1/db0/class_ext_1_1_net_1_1_m_v_c_1_1_submitted_node_model_binder.html',1,'Ext::Net::MVC']]],
   ['summary',['Summary',['../d4/db6/class_ext_1_1_net_1_1_summary.html',1,'Ext::Net']]],
-  ['summarycolumn',['SummaryColumn',['../d1/d3e/class_ext_1_1_net_1_1_summary_column.html',1,'Ext::Net']]],
   ['switchoff',['SwitchOff',['../d7/db5/class_ext_1_1_net_1_1_switch_off.html',1,'Ext::Net']]],
   ['syncstorebase',['SyncStoreBase',['../d2/dc9/class_ext_1_1_net_1_1_sync_store_base.html',1,'Ext::Net']]]
 ];

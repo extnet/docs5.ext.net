@@ -18,6 +18,7 @@ var searchData=
   ['webcamerror',['WebcamError',['../dc/d3f/namespace_ext_1_1_net.html#ad3003f93fdaa279e67edd364eea1ec6ba43983d68771aa969d1d1bbf0280831b1',1,'Ext::Net']]],
   ['webcamstart',['WebcamStart',['../dc/d3f/namespace_ext_1_1_net.html#ad3003f93fdaa279e67edd364eea1ec6ba49840b93c16218de0fe58d13a955bbb5',1,'Ext::Net']]],
   ['webcamstop',['WebcamStop',['../dc/d3f/namespace_ext_1_1_net.html#ad3003f93fdaa279e67edd364eea1ec6ba511ee31c607d7dbbe7ff7be79be67efb',1,'Ext::Net']]],
+  ['wedge',['Wedge',['../dd/d8b/class_ext_1_1_net_1_1_gauge.html#a84381abc673588c155a8f5b6b610bd46a0e9bb3a0eff96690b1e9badd73b99219',1,'Ext::Net::Gauge']]],
   ['week',['Week',['../dc/d3f/namespace_ext_1_1_net.html#acbb7932543c0d117de15dac9d9c5607dad2ce009594dcc60befa6a4e6cbeb71fc',1,'Ext::Net']]],
   ['west',['West',['../dc/d3f/namespace_ext_1_1_net.html#a09b2eaa29e1aee603cfa619575d0e75eabf495fc048d8d44b7f32536df5cf3930',1,'Ext.Net.West()'],['../dc/d3f/namespace_ext_1_1_net.html#a8d45f82c6d4e4666b59beb11e14f118aabf495fc048d8d44b7f32536df5cf3930',1,'Ext.Net.West()']]],
   ['width',['Width',['../dc/d3f/namespace_ext_1_1_net.html#a5e16c7a6847455696d231e2566045dd9a32954654ac8fe66a1d09be19001de2d4',1,'Ext::Net']]],
