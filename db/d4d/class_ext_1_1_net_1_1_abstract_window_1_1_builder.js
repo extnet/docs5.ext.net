@@ -24,7 +24,7 @@ var class_ext_1_1_net_1_1_abstract_window_1_1_builder =
     [ "OnEsc", "db/d4d/class_ext_1_1_net_1_1_abstract_window_1_1_builder.html#a20f6768358a00df18d42d2505293aff9", null ],
     [ "Plain", "db/d4d/class_ext_1_1_net_1_1_abstract_window_1_1_builder.html#a6301c32a0afbe0921682ede766b3ef13", null ],
     [ "Restore", "db/d4d/class_ext_1_1_net_1_1_abstract_window_1_1_builder.html#a3bb57d423d0f8c3a26a2519748f2ca15", null ],
-    [ "SetAnimateTarget", "db/d4d/class_ext_1_1_net_1_1_abstract_window_1_1_builder.html#a2456563dfdf0b20c8b902c71bbe7a7f9", null ],
     [ "SetAnimateTarget", "db/d4d/class_ext_1_1_net_1_1_abstract_window_1_1_builder.html#a5a8d60117c170ffadf9c379c1f05e7f3", null ],
+    [ "SetAnimateTarget", "db/d4d/class_ext_1_1_net_1_1_abstract_window_1_1_builder.html#a2456563dfdf0b20c8b902c71bbe7a7f9", null ],
     [ "ToggleMaximize", "db/d4d/class_ext_1_1_net_1_1_abstract_window_1_1_builder.html#acb06603aaad5f8ddd9b355ccd65c7b52", null ]
 ];

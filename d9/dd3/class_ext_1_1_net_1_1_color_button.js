@@ -19,6 +19,6 @@ var class_ext_1_1_net_1_1_color_button =
     [ "SelectedColor", "d9/dd3/class_ext_1_1_net_1_1_color_button.html#acf56def1fd8a516015d23bbe57afdb26", null ],
     [ "TwoWayBindable", "d9/dd3/class_ext_1_1_net_1_1_color_button.html#a6cfcd83e1191cf37b3134817a6205cd3", null ],
     [ "Value", "d9/dd3/class_ext_1_1_net_1_1_color_button.html#ab536790f6aac0a90574a886d509a2355", null ],
-    [ "ValueProxy", "d9/dd3/class_ext_1_1_net_1_1_color_button.html#a7d9c09e139e7bc98bc132b8b00bd816b", null ],
+    [ "ValueProxy", "d9/dd3/class_ext_1_1_net_1_1_color_button.html#ad35431d63f33dd5bcdf4899348c49b58", null ],
     [ "XType", "d9/dd3/class_ext_1_1_net_1_1_color_button.html#a5b9df24bf821dfa717c7c5cf4e843a77", null ]
 ];

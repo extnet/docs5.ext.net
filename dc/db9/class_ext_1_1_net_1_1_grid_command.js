@@ -23,5 +23,5 @@ var class_ext_1_1_net_1_1_grid_command =
     [ "StandOut", "dc/db9/class_ext_1_1_net_1_1_grid_command.html#a2247529f5b1dc7a9d799fb9e59bbd504", null ],
     [ "Text", "dc/db9/class_ext_1_1_net_1_1_grid_command.html#ace4a92056171aef100e186e35dd66242", null ],
     [ "ToolTip", "dc/db9/class_ext_1_1_net_1_1_grid_command.html#a91e563a386007c74664828863000f7f9", null ],
-    [ "XType", "dc/db9/class_ext_1_1_net_1_1_grid_command.html#abcddbb3da75263b0fc96b6ac7d2986de", null ]
+    [ "XType", "dc/db9/class_ext_1_1_net_1_1_grid_command.html#a495f31b57a5e8cd77b14a3b4add1fa04", null ]
 ];

@@ -10,8 +10,6 @@ var class_ext_1_1_net_1_1_row_expander =
     [ "ExpandAll", "d5/d01/class_ext_1_1_net_1_1_row_expander.html#a125dd11f55980687c0b86f43e4d2973f", null ],
     [ "ExpandRow", "d5/d01/class_ext_1_1_net_1_1_row_expander.html#ae77553501631318f52d20c07c02a11d7", null ],
     [ "OnBeforeClientInit", "d5/d01/class_ext_1_1_net_1_1_row_expander.html#ac8c48c3113b62f0c93eadf1546c20702", null ],
-    [ "PluginAdded", "d5/d01/class_ext_1_1_net_1_1_row_expander.html#a4e2f1285ce522bce24172bef268a6861", null ],
-    [ "PluginRemoved", "d5/d01/class_ext_1_1_net_1_1_row_expander.html#a69ace098ec714d037ede5144db924361", null ],
     [ "ToBuilder", "d5/d01/class_ext_1_1_net_1_1_row_expander.html#a1667e20c354f6bd78d98895f93ee7d12", null ],
     [ "ToggleRow", "d5/d01/class_ext_1_1_net_1_1_row_expander.html#a51e8d0bd9c18b2b1710ee6a494c9a704", null ],
     [ "ToNativeBuilder", "d5/d01/class_ext_1_1_net_1_1_row_expander.html#aea97a8b32d776cab67c1132fac0ef34b", null ],

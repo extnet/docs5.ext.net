@@ -2,8 +2,6 @@ var class_ext_1_1_net_1_1_plugin =
 [
     [ "Builder", "d1/d66/class_ext_1_1_net_1_1_plugin_1_1_builder.html", "d1/d66/class_ext_1_1_net_1_1_plugin_1_1_builder" ],
     [ "Config", "d1/ddc/class_ext_1_1_net_1_1_plugin_1_1_config.html", null ],
-    [ "PluginAdded", "d3/d3a/class_ext_1_1_net_1_1_plugin.html#a3835819fbf485e1b559a73e79cc2a198", null ],
-    [ "PluginRemoved", "d3/d3a/class_ext_1_1_net_1_1_plugin.html#a8e18220d1efda288df74368109492d36", null ],
     [ "AliasPrefix", "d3/d3a/class_ext_1_1_net_1_1_plugin.html#a3866c8cb45bcc1ae9dc3f56207e191c4", null ],
     [ "ConfigOptions", "d3/d3a/class_ext_1_1_net_1_1_plugin.html#ab062d35ada41c0164b33505ed9965777", null ],
     [ "PluginId", "d3/d3a/class_ext_1_1_net_1_1_plugin.html#ab5cf2a4c57ef783bf707d3ff2450bb67", null ],

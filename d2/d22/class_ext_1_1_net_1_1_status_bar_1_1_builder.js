@@ -17,8 +17,8 @@ var class_ext_1_1_net_1_1_status_bar_1_1_builder =
     [ "Icon", "d2/d22/class_ext_1_1_net_1_1_status_bar_1_1_builder.html#a815dce2816a4d0217b9c3a4a4e8a57a0", null ],
     [ "IconCls", "d2/d22/class_ext_1_1_net_1_1_status_bar_1_1_builder.html#a3364af9cfee22c8678a1cb5472e882ff", null ],
     [ "Listeners", "d2/d22/class_ext_1_1_net_1_1_status_bar_1_1_builder.html#ad6f09b8370f186378c6b15b0c516d034", null ],
-    [ "SetStatus", "d2/d22/class_ext_1_1_net_1_1_status_bar_1_1_builder.html#a5858a8eafebbe203dfbf44496f7b047a", null ],
     [ "SetStatus", "d2/d22/class_ext_1_1_net_1_1_status_bar_1_1_builder.html#aed8a2a8d514a3be31fd6d891ab79440d", null ],
+    [ "SetStatus", "d2/d22/class_ext_1_1_net_1_1_status_bar_1_1_builder.html#a5858a8eafebbe203dfbf44496f7b047a", null ],
     [ "ShowBusy", "d2/d22/class_ext_1_1_net_1_1_status_bar_1_1_builder.html#a66e892a7a18d051d2328a75fd6b96b0b", null ],
     [ "StatusAlign", "d2/d22/class_ext_1_1_net_1_1_status_bar_1_1_builder.html#a7117bea720213002441f40a56ebdd5c6", null ],
     [ "Text", "d2/d22/class_ext_1_1_net_1_1_status_bar_1_1_builder.html#af8cb5776af3fd5e82529bf2a36780f3f", null ]

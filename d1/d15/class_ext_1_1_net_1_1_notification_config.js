@@ -30,7 +30,7 @@ var class_ext_1_1_net_1_1_notification_config =
     [ "ItemsProxy", "d1/d15/class_ext_1_1_net_1_1_notification_config.html#ae43454be007ec11fcdb02ebb4e414623", null ],
     [ "Layout", "d1/d15/class_ext_1_1_net_1_1_notification_config.html#ad85164dbc383483062a9fd8dbe64126c", null ],
     [ "LayoutConfig", "d1/d15/class_ext_1_1_net_1_1_notification_config.html#a21e3a286ab61ab1a322f9262881f83ae", null ],
-    [ "LayoutProxy", "d1/d15/class_ext_1_1_net_1_1_notification_config.html#a22e8b4747c5993e65fcaa3ee5dd92b3c", null ],
+    [ "LayoutProxy", "d1/d15/class_ext_1_1_net_1_1_notification_config.html#a8ab34d01f871a8726854422c1af5ad26", null ],
     [ "Listeners", "d1/d15/class_ext_1_1_net_1_1_notification_config.html#afb55c66e357496a263397db41a8333ac", null ],
     [ "Modal", "d1/d15/class_ext_1_1_net_1_1_notification_config.html#ac258dcf4a0e05c08aa62e60d9da33f83", null ],
     [ "PinEvent", "d1/d15/class_ext_1_1_net_1_1_notification_config.html#a524724c11405264734d8db27c664978c", null ],

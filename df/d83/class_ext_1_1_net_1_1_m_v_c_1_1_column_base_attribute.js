@@ -2,9 +2,6 @@ var class_ext_1_1_net_1_1_m_v_c_1_1_column_base_attribute =
 [
     [ "CreateColumn", "df/d83/class_ext_1_1_net_1_1_m_v_c_1_1_column_base_attribute.html#aafdc8770ceff3b8c464eb3ececbeb4e1", null ],
     [ "OnMetadataCreated", "df/d83/class_ext_1_1_net_1_1_m_v_c_1_1_column_base_attribute.html#a4c312f0e9036482e1536628718ba3c23", null ],
-    [ "KEY", "df/d83/class_ext_1_1_net_1_1_m_v_c_1_1_column_base_attribute.html#a7e8b1ac944b1ebeb488368081182ab88", null ],
-    [ "KEY_IGNORE", "df/d83/class_ext_1_1_net_1_1_m_v_c_1_1_column_base_attribute.html#a357d42cd8da94b16d45f18be2a11a098", null ],
-    [ "KEY_ORDER", "df/d83/class_ext_1_1_net_1_1_m_v_c_1_1_column_base_attribute.html#ab34e7a0cd9348c9bf9bf5ff4a6a13c6f", null ],
     [ "Align", "df/d83/class_ext_1_1_net_1_1_m_v_c_1_1_column_base_attribute.html#a1016efa0e5dd48e76f59ffb9ddd9fd21", null ],
     [ "CellWrap", "df/d83/class_ext_1_1_net_1_1_m_v_c_1_1_column_base_attribute.html#a622202812feaa539ddeffa13aa17bbcb", null ],
     [ "DataIndex", "df/d83/class_ext_1_1_net_1_1_m_v_c_1_1_column_base_attribute.html#a7bf6cdcc2de973106340d2b07901e45f", null ],

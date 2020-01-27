@@ -8,7 +8,6 @@ var class_ext_1_1_net_1_1_base_item =
     [ "AddScript", "df/dc4/class_ext_1_1_net_1_1_base_item.html#a382383e5694180f4bfc4d09edf33aaf6", null ],
     [ "Apply", "df/dc4/class_ext_1_1_net_1_1_base_item.html#ab5208439055f47cdc40a795bcdfea696", null ],
     [ "Apply< T >", "df/dc4/class_ext_1_1_net_1_1_base_item.html#ad6954ecf05d843f9daef9c5ecd5310f1", null ],
-    [ "BeforeSerialization", "df/dc4/class_ext_1_1_net_1_1_base_item.html#a5157f334bcb42c032a7991ed0868c61d", null ],
     [ "Call", "df/dc4/class_ext_1_1_net_1_1_base_item.html#a5bad183542e4ef89a8b4d98ca6ea16ee", null ],
     [ "Call", "df/dc4/class_ext_1_1_net_1_1_base_item.html#a244134f0ba2e9767c7755e4f842e7d69", null ],
     [ "DataBind", "df/dc4/class_ext_1_1_net_1_1_base_item.html#ab3bded37c0f2dd4bc1562716b93eb0be", null ],
@@ -39,6 +38,6 @@ var class_ext_1_1_net_1_1_base_item =
     [ "Owner", "df/dc4/class_ext_1_1_net_1_1_base_item.html#a62cd2d6d26c0ab1dc6f4534d0782928f", null ],
     [ "ResourceManager", "df/dc4/class_ext_1_1_net_1_1_base_item.html#a0b3d8dcc35ca6d1067a7936c8c34a431", null ],
     [ "State", "df/dc4/class_ext_1_1_net_1_1_base_item.html#ac947f51b3cdccd82d925c349eb45309f", null ],
-    [ "ViewContext", "df/dc4/class_ext_1_1_net_1_1_base_item.html#a3bace4302089eb1d1393bffabad8d5e2", null ],
-    [ "ViewState", "df/dc4/class_ext_1_1_net_1_1_base_item.html#ab3ec7df7375e3bcebd7f16acc6074557", null ]
+    [ "ViewContext", "df/dc4/class_ext_1_1_net_1_1_base_item.html#a8083cb48f7b310483f63b72f38d97c99", null ],
+    [ "ViewState", "df/dc4/class_ext_1_1_net_1_1_base_item.html#a45665615427c32a660aea1837e412323", null ]
 ];

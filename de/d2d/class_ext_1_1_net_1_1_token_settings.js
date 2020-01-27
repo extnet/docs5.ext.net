@@ -1,8 +1,5 @@
 var class_ext_1_1_net_1_1_token_settings =
 [
-    [ "ID_PATTERN", "de/d2d/class_ext_1_1_net_1_1_token_settings.html#abdbacaed43ce3a146232a1b5582d6b21", null ],
-    [ "MARKERS_PATTERN", "de/d2d/class_ext_1_1_net_1_1_token_settings.html#a0c9cf150a6e1f6d61da2b8035fb5a6a5", null ],
-    [ "SELECT_PATTERN", "de/d2d/class_ext_1_1_net_1_1_token_settings.html#a8c1971f26708c29a3e8c6f6e22458c7f", null ],
     [ "AlertParsingDisable", "de/d2d/class_ext_1_1_net_1_1_token_settings.html#aa30c1a048334a0ef7d73368e62b50a52", null ],
     [ "AlertPrefix", "de/d2d/class_ext_1_1_net_1_1_token_settings.html#a5136eae590d6ad56fec8357cb5de57f1", null ],
     [ "DirectMethodsParsingDisable", "de/d2d/class_ext_1_1_net_1_1_token_settings.html#ace185695f007679d1bd483123f0b5cde", null ],

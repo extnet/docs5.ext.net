@@ -13,8 +13,8 @@ var class_ext_1_1_net_1_1_abstract_window =
     [ "Minimize", "da/d23/class_ext_1_1_net_1_1_abstract_window.html#a5364d9a7ae6b587151028a2bfa3cdcfe", null ],
     [ "OnBeforeClientInit", "da/d23/class_ext_1_1_net_1_1_abstract_window.html#a0e66174f9414e1761591e631e23b2b89", null ],
     [ "Restore", "da/d23/class_ext_1_1_net_1_1_abstract_window.html#ae95a73ae861ef366087a3e3feb18b8a7", null ],
-    [ "SetAnimateTarget", "da/d23/class_ext_1_1_net_1_1_abstract_window.html#af4be46c3531043bd7553d263adbab457", null ],
     [ "SetAnimateTarget", "da/d23/class_ext_1_1_net_1_1_abstract_window.html#a713d7ad8492b0113064ab27d15888ee1", null ],
+    [ "SetAnimateTarget", "da/d23/class_ext_1_1_net_1_1_abstract_window.html#af4be46c3531043bd7553d263adbab457", null ],
     [ "ToggleMaximize", "da/d23/class_ext_1_1_net_1_1_abstract_window.html#ae1886b14201f45bf3e319ea5cc0dbfee", null ],
     [ "AnimateTarget", "da/d23/class_ext_1_1_net_1_1_abstract_window.html#a0976e0dfc2c3b213f953cbac9f2b45b2", null ],
     [ "AutoRender", "da/d23/class_ext_1_1_net_1_1_abstract_window.html#ad9c1e8d651546ccc076dfd5b4ffce983", null ],
@@ -42,6 +42,6 @@ var class_ext_1_1_net_1_1_abstract_window =
     [ "OnEsc", "da/d23/class_ext_1_1_net_1_1_abstract_window.html#a3cbd7ffe034fc18ac57f91cc9b22c531", null ],
     [ "Plain", "da/d23/class_ext_1_1_net_1_1_abstract_window.html#a0a602244d9a922e4a25b65aedd7525f0", null ],
     [ "RemoveContainer", "da/d23/class_ext_1_1_net_1_1_abstract_window.html#a98516c38e39c1252455eb833f6d3d9e7", null ],
-    [ "RenderToProxy", "da/d23/class_ext_1_1_net_1_1_abstract_window.html#a8386d1099a3cda00113434c2a9fb4aaf", null ],
+    [ "RenderToProxy", "da/d23/class_ext_1_1_net_1_1_abstract_window.html#ad9136f7a54f144538266c13c416f1a14", null ],
     [ "Width", "da/d23/class_ext_1_1_net_1_1_abstract_window.html#a95ab59f316faf1aa53a0757b9dba7a8a", null ]
 ];

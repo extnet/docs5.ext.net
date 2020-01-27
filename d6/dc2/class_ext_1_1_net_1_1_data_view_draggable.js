@@ -5,8 +5,6 @@ var class_ext_1_1_net_1_1_data_view_draggable =
     [ "Config", "df/dc4/class_ext_1_1_net_1_1_data_view_draggable_1_1_config.html", "df/dc4/class_ext_1_1_net_1_1_data_view_draggable_1_1_config" ],
     [ "DataViewDraggable", "d6/dc2/class_ext_1_1_net_1_1_data_view_draggable.html#aef2fd57534e2618cddbf05ad33ea64fc", null ],
     [ "DataViewDraggable", "d6/dc2/class_ext_1_1_net_1_1_data_view_draggable.html#a8d753bc0eed37e6fb69167a7599f6200", null ],
-    [ "PluginAdded", "d6/dc2/class_ext_1_1_net_1_1_data_view_draggable.html#a736561ee2b64feb3dbf3a92338691dd7", null ],
-    [ "PluginRemoved", "d6/dc2/class_ext_1_1_net_1_1_data_view_draggable.html#a6187d30f5e81427ddf3ebcf73243d5f5", null ],
     [ "ToBuilder", "d6/dc2/class_ext_1_1_net_1_1_data_view_draggable.html#acce5474e462c4fbc6f1e7837bf99c66a", null ],
     [ "ToNativeBuilder", "d6/dc2/class_ext_1_1_net_1_1_data_view_draggable.html#a19310a896500dbf910091dbb169f6019", null ],
     [ "ConfigOptions", "d6/dc2/class_ext_1_1_net_1_1_data_view_draggable.html#a0b2910955a420f5a4c0601c9439a8c2b", null ],

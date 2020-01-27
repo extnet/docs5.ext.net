@@ -4,8 +4,6 @@ var class_ext_1_1_net_1_1_data_tip =
     [ "Config", "df/d73/class_ext_1_1_net_1_1_data_tip_1_1_config.html", "df/d73/class_ext_1_1_net_1_1_data_tip_1_1_config" ],
     [ "DataTip", "dc/dad/class_ext_1_1_net_1_1_data_tip.html#abc2696feab4193d9b3e7a7891e8f7fda", null ],
     [ "DataTip", "dc/dad/class_ext_1_1_net_1_1_data_tip.html#ab5858eee6fbc97a04e5d0a38fc7e54ab", null ],
-    [ "PluginAdded", "dc/dad/class_ext_1_1_net_1_1_data_tip.html#a225eb2a0e4af91deae8390c158246c5d", null ],
-    [ "PluginRemoved", "dc/dad/class_ext_1_1_net_1_1_data_tip.html#a22dd0a23ebaebaa8fd62ca2c1b8ad8ca", null ],
     [ "ToBuilder", "dc/dad/class_ext_1_1_net_1_1_data_tip.html#a13c5e63ee9ccddeff719f4c5682ebe0f", null ],
     [ "ToNativeBuilder", "dc/dad/class_ext_1_1_net_1_1_data_tip.html#a4ff9da146ea76d7bc6a6137bbf0e4c10", null ],
     [ "Anchor", "dc/dad/class_ext_1_1_net_1_1_data_tip.html#a3e8540e00b869547dcec13e5ece238b3", null ],

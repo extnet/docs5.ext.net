@@ -10,5 +10,5 @@ var class_ext_1_1_net_1_1_command_spacer =
     [ "ToNativeBuilder", "d6/d52/class_ext_1_1_net_1_1_command_spacer.html#a46e87262537f5c3c2958bd1d833a0e33", null ],
     [ "ConfigOptions", "d6/d52/class_ext_1_1_net_1_1_command_spacer.html#ae7c3421415ce08ce007f221cbd2f28b6", null ],
     [ "Width", "d6/d52/class_ext_1_1_net_1_1_command_spacer.html#abb514302ec75dc6eb00712807500317a", null ],
-    [ "XType", "d6/d52/class_ext_1_1_net_1_1_command_spacer.html#a5b1a5f47e5d79e530aa16b4dad9523b2", null ]
+    [ "XType", "d6/d52/class_ext_1_1_net_1_1_command_spacer.html#a214eabe42694865ac262968f979e1db8", null ]
 ];

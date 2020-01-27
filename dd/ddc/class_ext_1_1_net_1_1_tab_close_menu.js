@@ -1,7 +1,5 @@
 var class_ext_1_1_net_1_1_tab_close_menu =
 [
-    [ "PluginAdded", "dd/ddc/class_ext_1_1_net_1_1_tab_close_menu.html#a4a0c69a5c5910e395eb990e89c376c49", null ],
-    [ "PluginRemoved", "dd/ddc/class_ext_1_1_net_1_1_tab_close_menu.html#a293453ede7b23915cffcae33cd95a415", null ],
     [ "CloseAllTabsIcon", "dd/ddc/class_ext_1_1_net_1_1_tab_close_menu.html#afde395d2da2dc9bc2a0aa7c01ec3bb9f", null ],
     [ "CloseAllTabsIconCls", "dd/ddc/class_ext_1_1_net_1_1_tab_close_menu.html#a289dccb1396fb03c2563a049f5b7a56b", null ],
     [ "CloseAllTabsIconClsProxy", "dd/ddc/class_ext_1_1_net_1_1_tab_close_menu.html#acdf060d0845599576ee58d43ecb9e5bb", null ],

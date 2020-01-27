@@ -10,9 +10,9 @@ var class_ext_1_1_net_1_1_segmented_button_base_1_1_builder =
     [ "SetValue", "d4/d87/class_ext_1_1_net_1_1_segmented_button_base_1_1_builder.html#a1e5b812fd1294dc1eaa5d2f72f1542a3", null ],
     [ "SetValue", "d4/d87/class_ext_1_1_net_1_1_segmented_button_base_1_1_builder.html#a38e63e3b6568a5ef687ea38383b91d87", null ],
     [ "SetValue", "d4/d87/class_ext_1_1_net_1_1_segmented_button_base_1_1_builder.html#ae31724d70e1d201fd29022c3933d1440", null ],
+    [ "SetValue", "d4/d87/class_ext_1_1_net_1_1_segmented_button_base_1_1_builder.html#a864dfc5a8b1bd840b04d7fc97fea960e", null ],
     [ "SetValue", "d4/d87/class_ext_1_1_net_1_1_segmented_button_base_1_1_builder.html#a53f684ca490b415ef7ac5423caf9d4ac", null ],
     [ "SetValue", "d4/d87/class_ext_1_1_net_1_1_segmented_button_base_1_1_builder.html#a5714c0496d038d776c21c6a4edc4cdf6", null ],
-    [ "SetValue", "d4/d87/class_ext_1_1_net_1_1_segmented_button_base_1_1_builder.html#a864dfc5a8b1bd840b04d7fc97fea960e", null ],
     [ "Value", "d4/d87/class_ext_1_1_net_1_1_segmented_button_base_1_1_builder.html#a20bc7d50ca2f8f3f99dc26a46904ad30", null ],
     [ "Values", "d4/d87/class_ext_1_1_net_1_1_segmented_button_base_1_1_builder.html#accf171cdfa5e6e4a21e2dec8b6039319", null ],
     [ "Vertical", "d4/d87/class_ext_1_1_net_1_1_segmented_button_base_1_1_builder.html#a3b71135ccfd4c968015567edbdbba45d", null ]

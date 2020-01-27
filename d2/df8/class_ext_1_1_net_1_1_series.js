@@ -5,7 +5,6 @@ var class_ext_1_1_net_1_1_series =
     [ "Config", "d8/d83/class_ext_1_1_net_1_1_series_1_1_config.html", "d8/d83/class_ext_1_1_net_1_1_series_1_1_config" ],
     [ "CallTemplate", "d2/df8/class_ext_1_1_net_1_1_series.html#a75a86a3c66f6ef99d522b59611317ec3", null ],
     [ "Hide", "d2/df8/class_ext_1_1_net_1_1_series.html#a729d47a845d1263b0eb06c3e9db83bfc", null ],
-    [ "InitTooltip", "d2/df8/class_ext_1_1_net_1_1_series.html#ad44252fe241d4cb8c602b805ac62ae84", null ],
     [ "SetHidden", "d2/df8/class_ext_1_1_net_1_1_series.html#acf0686e16a2131cc48cb21a5bcecb26a", null ],
     [ "SetTitle", "d2/df8/class_ext_1_1_net_1_1_series.html#aec9f4c49355a15921e8fd1cffbfea667", null ],
     [ "SetTitles", "d2/df8/class_ext_1_1_net_1_1_series.html#a46166829679614882a8a21da42aa9e93", null ],

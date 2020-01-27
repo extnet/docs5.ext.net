@@ -7,5 +7,5 @@ var class_ext_1_1_net_1_1_split_command =
     [ "ToBuilder", "d4/d9c/class_ext_1_1_net_1_1_split_command.html#aa28ffa240cf26d40d6f29a72f2e83126", null ],
     [ "ToNativeBuilder", "d4/d9c/class_ext_1_1_net_1_1_split_command.html#a46e2cb1f7b317e989b8874709d570abf", null ],
     [ "ConfigOptions", "d4/d9c/class_ext_1_1_net_1_1_split_command.html#accaf8a9437069d4632369ad382e6ccc6", null ],
-    [ "XType", "d4/d9c/class_ext_1_1_net_1_1_split_command.html#a5d83fc1448b09574bb80aa621986c796", null ]
+    [ "XType", "d4/d9c/class_ext_1_1_net_1_1_split_command.html#a6798d88f47c0605d49c53c97547a1bdc", null ]
 ];

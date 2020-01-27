@@ -54,6 +54,6 @@ var class_ext_1_1_net_1_1_time_field =
     [ "TypeAheadDelay", "dd/db1/class_ext_1_1_net_1_1_time_field.html#a12a5c5a26a9970d46f3ce4cd621d86bd", null ],
     [ "Value", "dd/db1/class_ext_1_1_net_1_1_time_field.html#a21290556c240c216d7cdc68ceed0af1d", null ],
     [ "ValueNotFoundText", "dd/db1/class_ext_1_1_net_1_1_time_field.html#a2578c2fbe8b77a6bfffa58034abbb8da", null ],
-    [ "ValueProxy", "dd/db1/class_ext_1_1_net_1_1_time_field.html#ad89a40978300201c7e20becdfbc8d557", null ],
+    [ "ValueProxy", "dd/db1/class_ext_1_1_net_1_1_time_field.html#a27bb4dd8e8ff5a560ea6c051f8010f08", null ],
     [ "XType", "dd/db1/class_ext_1_1_net_1_1_time_field.html#a0732d62dae7d1b00c1b1131f16615a58", null ]
 ];

@@ -1,7 +1,7 @@
 var class_ext_1_1_net_1_1_badge_message =
 [
-    [ "Component", "d6/dec/class_ext_1_1_net_1_1_badge_message.html#a274ebd821b115545d8c8332054220d10", null ],
     [ "Component", "d6/dec/class_ext_1_1_net_1_1_badge_message.html#ad9cc5c6bef36013868c8fee164ae3ff8", null ],
+    [ "Component", "d6/dec/class_ext_1_1_net_1_1_badge_message.html#a274ebd821b115545d8c8332054220d10", null ],
     [ "Configure", "d6/dec/class_ext_1_1_net_1_1_badge_message.html#afd44200cd90497bd4f4c329e7e0587c8", null ],
     [ "Hide", "d6/dec/class_ext_1_1_net_1_1_badge_message.html#a663c178a0431a079211767cb4fe333a6", null ],
     [ "Html", "d6/dec/class_ext_1_1_net_1_1_badge_message.html#ac97530bdc3716641b24f7de866e580c9", null ],

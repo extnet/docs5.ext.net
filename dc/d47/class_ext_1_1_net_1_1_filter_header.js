@@ -13,7 +13,6 @@ var class_ext_1_1_net_1_1_filter_header =
     [ "InitItem", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#ac148c3fb8b97037fb805edcb89fbb011", null ],
     [ "OnCreateFilterableField", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#a456c6990508e951505948fbcfe9bf3cb", null ],
     [ "OnCreateNonFilterableField", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#a5b08913895df226ed26b416eb7ac0493", null ],
-    [ "PluginAdded", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#ac6239aece36d1ef8b2f3d6306fa924a8", null ],
     [ "SetValue", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#a9ad09f648d5264e69c64e1944e2bf55a", null ],
     [ "ToBuilder", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#a0a410dfb879749f6acd8b1b2ddabc9ec", null ],
     [ "ToNativeBuilder", "dc/d47/class_ext_1_1_net_1_1_filter_header.html#a313d619ca25afa67d9d3036afdfcd055", null ],

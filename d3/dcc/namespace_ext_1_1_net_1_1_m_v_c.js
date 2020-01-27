@@ -31,7 +31,6 @@ var namespace_ext_1_1_net_1_1_m_v_c =
     [ "LengthValidatorAttribute", "d8/d70/class_ext_1_1_net_1_1_m_v_c_1_1_length_validator_attribute.html", "d8/d70/class_ext_1_1_net_1_1_m_v_c_1_1_length_validator_attribute" ],
     [ "ModelAttribute", "d4/df8/class_ext_1_1_net_1_1_m_v_c_1_1_model_attribute.html", "d4/df8/class_ext_1_1_net_1_1_m_v_c_1_1_model_attribute" ],
     [ "ModelFieldAttribute", "d5/da9/class_ext_1_1_net_1_1_m_v_c_1_1_model_field_attribute.html", "d5/da9/class_ext_1_1_net_1_1_m_v_c_1_1_model_field_attribute" ],
-    [ "MvcDirectMethod", "d4/d07/class_ext_1_1_net_1_1_m_v_c_1_1_mvc_direct_method.html", "d4/d07/class_ext_1_1_net_1_1_m_v_c_1_1_mvc_direct_method" ],
     [ "MvcResourceManager", "d4/d5b/class_ext_1_1_net_1_1_m_v_c_1_1_mvc_resource_manager.html", "d4/d5b/class_ext_1_1_net_1_1_m_v_c_1_1_mvc_resource_manager" ],
     [ "MvcResourceManagerBuilder", "d0/dfd/class_ext_1_1_net_1_1_m_v_c_1_1_mvc_resource_manager_builder.html", "d0/dfd/class_ext_1_1_net_1_1_m_v_c_1_1_mvc_resource_manager_builder" ],
     [ "MvcResourceManagerConfig", "d7/d40/class_ext_1_1_net_1_1_m_v_c_1_1_mvc_resource_manager_config.html", "d7/d40/class_ext_1_1_net_1_1_m_v_c_1_1_mvc_resource_manager_config" ],
@@ -50,7 +49,6 @@ var namespace_ext_1_1_net_1_1_m_v_c =
     [ "TemplateColumnAttribute", "d1/d1f/class_ext_1_1_net_1_1_m_v_c_1_1_template_column_attribute.html", "d1/d1f/class_ext_1_1_net_1_1_m_v_c_1_1_template_column_attribute" ],
     [ "TreeColumnAttribute", "de/dbb/class_ext_1_1_net_1_1_m_v_c_1_1_tree_column_attribute.html", "de/dbb/class_ext_1_1_net_1_1_m_v_c_1_1_tree_column_attribute" ],
     [ "ValidatorAttribute", "d1/df3/class_ext_1_1_net_1_1_m_v_c_1_1_validator_attribute.html", "d1/df3/class_ext_1_1_net_1_1_m_v_c_1_1_validator_attribute" ],
-    [ "ViewDataContainer", "df/d90/class_ext_1_1_net_1_1_m_v_c_1_1_view_data_container.html", "df/d90/class_ext_1_1_net_1_1_m_v_c_1_1_view_data_container" ],
     [ "VirtualModelField", "d3/d1f/class_ext_1_1_net_1_1_m_v_c_1_1_virtual_model_field.html", "d3/d1f/class_ext_1_1_net_1_1_m_v_c_1_1_virtual_model_field" ],
     [ "XmlReaderAttribute", "d9/d2c/class_ext_1_1_net_1_1_m_v_c_1_1_xml_reader_attribute.html", "d9/d2c/class_ext_1_1_net_1_1_m_v_c_1_1_xml_reader_attribute" ],
     [ "XmlWriterAttribute", "d6/d2c/class_ext_1_1_net_1_1_m_v_c_1_1_xml_writer_attribute.html", "d6/d2c/class_ext_1_1_net_1_1_m_v_c_1_1_xml_writer_attribute" ]

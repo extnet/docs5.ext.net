@@ -25,7 +25,7 @@ var class_ext_1_1_net_1_1_color_selector =
     [ "ShowPreviousColor", "da/d5b/class_ext_1_1_net_1_1_color_selector.html#a5dd5a578a1abfd6756ac864a8504beca", null ],
     [ "TwoWayBindable", "da/d5b/class_ext_1_1_net_1_1_color_selector.html#a811dd460bbd715199549c93061a739e1", null ],
     [ "Value", "da/d5b/class_ext_1_1_net_1_1_color_selector.html#a4925b1df0d5d50ea5d8f4aae757c8aa1", null ],
-    [ "ValueProxy", "da/d5b/class_ext_1_1_net_1_1_color_selector.html#ad6a88ef13597c2243ca73bb0441d379a", null ],
+    [ "ValueProxy", "da/d5b/class_ext_1_1_net_1_1_color_selector.html#a910f189b0948b598c390aa29ce9edd43", null ],
     [ "ViewController", "da/d5b/class_ext_1_1_net_1_1_color_selector.html#a38a172e02fce64baa86c6a4fdd9bb5b4", null ],
     [ "XType", "da/d5b/class_ext_1_1_net_1_1_color_selector.html#a45dd9159475b2011cf0f1241dde56d5c", null ]
 ];

@@ -4,7 +4,6 @@ var class_ext_1_1_net_1_1_pie_series =
     [ "Config", "d2/db8/class_ext_1_1_net_1_1_pie_series_1_1_config.html", "d2/db8/class_ext_1_1_net_1_1_pie_series_1_1_config" ],
     [ "PieSeries", "d0/d6a/class_ext_1_1_net_1_1_pie_series.html#a249bf3f743489494f8b6051ca68b9956", null ],
     [ "PieSeries", "d0/d6a/class_ext_1_1_net_1_1_pie_series.html#a9b6d3fcff5ac0b68636ff01956ac5418", null ],
-    [ "BeforeSerialization", "d0/d6a/class_ext_1_1_net_1_1_pie_series.html#a1e8e35973c862e401a37316c60212595", null ],
     [ "SetRadiusField", "d0/d6a/class_ext_1_1_net_1_1_pie_series.html#a2f13003494586df8fe049faa578bbaad", null ],
     [ "ToBuilder", "d0/d6a/class_ext_1_1_net_1_1_pie_series.html#a5e11b4ee0ab617c8023c0963848ec2ec", null ],
     [ "ToNativeBuilder", "d0/d6a/class_ext_1_1_net_1_1_pie_series.html#a5f0ec7de1440e881761140ba34fd3a37", null ],

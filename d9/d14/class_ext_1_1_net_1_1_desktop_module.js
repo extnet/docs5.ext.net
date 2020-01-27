@@ -15,10 +15,10 @@ var class_ext_1_1_net_1_1_desktop_module =
     [ "AutoRun", "d9/d14/class_ext_1_1_net_1_1_desktop_module.html#a63f39a2c0ea13d39dc261d0ac82a49fe", null ],
     [ "AutoRunHandler", "d9/d14/class_ext_1_1_net_1_1_desktop_module.html#a383eea5be215465f865066d165ca2a9b", null ],
     [ "ConfigOptions", "d9/d14/class_ext_1_1_net_1_1_desktop_module.html#ada6dbbb7acbf5a0d331bac06eb107fea", null ],
-    [ "Desktop", "d9/d14/class_ext_1_1_net_1_1_desktop_module.html#a31d3fc1e36396dcee5a6e6e617ee24e5", null ],
+    [ "Desktop", "d9/d14/class_ext_1_1_net_1_1_desktop_module.html#a3272c356fe3d1cbf7cf76e5a2be6f79e", null ],
     [ "Launcher", "d9/d14/class_ext_1_1_net_1_1_desktop_module.html#a16fa282555e447d16d99b37160c6f9b9", null ],
     [ "ModuleID", "d9/d14/class_ext_1_1_net_1_1_desktop_module.html#a85334eb590fdfec4597413f71069179d", null ],
-    [ "ModuleProxy", "d9/d14/class_ext_1_1_net_1_1_desktop_module.html#a0ec0327c98e2dfd0b502eec9a60bce5b", null ],
+    [ "ModuleProxy", "d9/d14/class_ext_1_1_net_1_1_desktop_module.html#a26f29fe7bf4c95be8f656ba11b603705", null ],
     [ "Shortcut", "d9/d14/class_ext_1_1_net_1_1_desktop_module.html#a0a075aea7f59a914a863232c9b7ef8dd", null ],
     [ "Window", "d9/d14/class_ext_1_1_net_1_1_desktop_module.html#a46356f9d92efacad9be251c2da355cfb", null ],
     [ "WindowProxy", "d9/d14/class_ext_1_1_net_1_1_desktop_module.html#af259da002a195b2a89ebfd453c895883", null ]
