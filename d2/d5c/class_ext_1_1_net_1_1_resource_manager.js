@@ -12,6 +12,7 @@ var class_ext_1_1_net_1_1_resource_manager =
     [ "BuildScriptBlock", "d2/d5c/class_ext_1_1_net_1_1_resource_manager.html#a0f3c4c7dd1434319890bd78453b8a2c7", null ],
     [ "BuildScriptBlock", "d2/d5c/class_ext_1_1_net_1_1_resource_manager.html#aa18858424a5514ceec28043912e68c92", null ],
     [ "BuildScripts", "d2/d5c/class_ext_1_1_net_1_1_resource_manager.html#a87b25106a06894dda111acf68852a821", null ],
+    [ "BuildScripts", "d2/d5c/class_ext_1_1_net_1_1_resource_manager.html#ab5e6b67ed19b2ba049a7096e8e8ad1ac", null ],
     [ "BuildStyleBlock", "d2/d5c/class_ext_1_1_net_1_1_resource_manager.html#a044d47c1362830dba0fa63310080a45f", null ],
     [ "BuildStyles", "d2/d5c/class_ext_1_1_net_1_1_resource_manager.html#a6b6ef38a012bb1425f980a442ed91661", null ],
     [ "GetDefaultResourcesStrategy", "d2/d5c/class_ext_1_1_net_1_1_resource_manager.html#a9abc75df7613cad7c32e8462339bd379", null ],

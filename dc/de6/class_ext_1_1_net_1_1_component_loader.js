@@ -7,6 +7,7 @@ var class_ext_1_1_net_1_1_component_loader =
     [ "Abort", "dc/de6/class_ext_1_1_net_1_1_component_loader.html#a4debbf69fd33bad86eeabae1157a034f", null ],
     [ "Destroy", "dc/de6/class_ext_1_1_net_1_1_component_loader.html#a28fea484beba8243cc7627db62faafe0", null ],
     [ "LoadContent", "dc/de6/class_ext_1_1_net_1_1_component_loader.html#ab0404894ce2e11009cc3c7a17ac1b7ee", null ],
+    [ "LoadContent", "dc/de6/class_ext_1_1_net_1_1_component_loader.html#a7a1cdc76560a483f8c27294dd962f01d", null ],
     [ "LoadContent", "dc/de6/class_ext_1_1_net_1_1_component_loader.html#a2f1ab92a2fe1c55ca227137890013500", null ],
     [ "OnBeforeClientInit", "dc/de6/class_ext_1_1_net_1_1_component_loader.html#a40863bc9e64e236d60393dec042c5ff4", null ],
     [ "SetTarget", "dc/de6/class_ext_1_1_net_1_1_component_loader.html#a8bb2879cc2abea1878a628704344b265", null ],
