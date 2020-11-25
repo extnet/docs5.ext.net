@@ -6,6 +6,7 @@ var class_ext_1_1_net_1_1_combo_box_base_1_1_config =
     [ "AutoLoadOnValue", "df/d60/class_ext_1_1_net_1_1_combo_box_base_1_1_config.html#a620376ef3578c7dfb364529c89c3f627", null ],
     [ "AutoSelect", "df/d60/class_ext_1_1_net_1_1_combo_box_base_1_1_config.html#af77f62213d552479586b7d304fd1281c", null ],
     [ "AutoSelectLast", "df/d60/class_ext_1_1_net_1_1_combo_box_base_1_1_config.html#a0c61afd5e0611a60c0b0dfad9944b647", null ],
+    [ "AutoSelectMatches", "df/d60/class_ext_1_1_net_1_1_combo_box_base_1_1_config.html#a67e54aa91b3bb640fb0fe170a75b1499", null ],
     [ "CaseSensitive", "df/d60/class_ext_1_1_net_1_1_combo_box_base_1_1_config.html#a41d9d955052b91e4822540bb1ae50426", null ],
     [ "CollapseOnSelect", "df/d60/class_ext_1_1_net_1_1_combo_box_base_1_1_config.html#afb844fad5fa1b5d05681189f63ce8895", null ],
     [ "Delimiter", "df/d60/class_ext_1_1_net_1_1_combo_box_base_1_1_config.html#a798b62f9c51e807cdc12594d29d7020d", null ],

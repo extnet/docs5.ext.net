@@ -9,6 +9,7 @@ var class_ext_1_1_net_1_1_combo_box_base_1_1_builder =
     [ "AutoLoadOnValue", "d3/d0e/class_ext_1_1_net_1_1_combo_box_base_1_1_builder.html#ae1e15288fc517e44d0c10c31ad174e04", null ],
     [ "AutoSelect", "d3/d0e/class_ext_1_1_net_1_1_combo_box_base_1_1_builder.html#a0a075b216b9d43433aaeea6030022884", null ],
     [ "AutoSelectLast", "d3/d0e/class_ext_1_1_net_1_1_combo_box_base_1_1_builder.html#ab76a4c45b8ca4bdb21d49d21a9e1ac41", null ],
+    [ "AutoSelectMatches", "d3/d0e/class_ext_1_1_net_1_1_combo_box_base_1_1_builder.html#a75f63d168c36710060e3ce188dae4cba", null ],
     [ "CaseSensitive", "d3/d0e/class_ext_1_1_net_1_1_combo_box_base_1_1_builder.html#ad721c3353e926cdc3cd4cf0cbddce3e3", null ],
     [ "ClearValue", "d3/d0e/class_ext_1_1_net_1_1_combo_box_base_1_1_builder.html#a8dbd65dd28165835b7f84c2645387a5e", null ],
     [ "CollapseOnSelect", "d3/d0e/class_ext_1_1_net_1_1_combo_box_base_1_1_builder.html#a55591e572e93f4e36314ea4272a290cb", null ],

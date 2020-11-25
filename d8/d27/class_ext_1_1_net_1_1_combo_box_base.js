@@ -29,6 +29,7 @@ var class_ext_1_1_net_1_1_combo_box_base =
     [ "AutoLoadOnValue", "d8/d27/class_ext_1_1_net_1_1_combo_box_base.html#a1052fec0b4aa545bc0ebe2050aab5ec6", null ],
     [ "AutoSelect", "d8/d27/class_ext_1_1_net_1_1_combo_box_base.html#a09011a47899682be6a1463e175ca6c81", null ],
     [ "AutoSelectLast", "d8/d27/class_ext_1_1_net_1_1_combo_box_base.html#a49141cc7957402e660b5658101c7c2a0", null ],
+    [ "AutoSelectMatches", "d8/d27/class_ext_1_1_net_1_1_combo_box_base.html#a375c1c2dd3aa540e01bf43bd664b2c5b", null ],
     [ "CaseSensitive", "d8/d27/class_ext_1_1_net_1_1_combo_box_base.html#ad2d47afc1a8a979b51a720dbd92c7b1d", null ],
     [ "CollapseOnSelect", "d8/d27/class_ext_1_1_net_1_1_combo_box_base.html#acf5574ec2e8e09bbf73619f8a7a0a92b", null ],
     [ "ConfigOptions", "d8/d27/class_ext_1_1_net_1_1_combo_box_base.html#a4b81ba9dc3718edd9d5993e15a550d06", null ],
